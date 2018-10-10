@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 1121, y: 342}
   m_MaxSize: {x: 26016, y: 10021}
   vertical: 0
-  controlID: 93
+  controlID: 150
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -34,77 +34,27 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
+  m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Game
-    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+    m_Text: Animation
+    m_Image: {fileID: 1561878555887300916, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 501
-    y: 93
-    width: 253
-    height: 468
+    x: 153
+    y: 619
+    width: 656
+    height: 250
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_MaximizeOnPlay: 0
-  m_Gizmos: 0
-  m_Stats: 0
-  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
-  m_TargetDisplay: 0
-  m_ZoomArea:
-    m_HRangeLocked: 0
-    m_VRangeLocked: 0
-    hZoomLockedByDefault: 0
-    vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -63.25
-    m_HBaseRangeMax: 63.25
-    m_VBaseRangeMin: -35.5
-    m_VBaseRangeMax: 35.5
-    m_HAllowExceedBaseRangeMin: 1
-    m_HAllowExceedBaseRangeMax: 1
-    m_VAllowExceedBaseRangeMin: 1
-    m_VAllowExceedBaseRangeMax: 1
-    m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
-    m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
-    m_EnableSliderZoomHorizontal: 0
-    m_EnableSliderZoomVertical: 0
-    m_UniformScale: 1
-    m_UpDirection: 1
-    m_DrawArea:
-      serializedVersion: 2
-      x: 0
-      y: 17
-      width: 253
-      height: 451
-    m_Scale: {x: 2, y: 2}
-    m_Translation: {x: 126.5, y: 225.5}
-    m_MarginLeft: 0
-    m_MarginRight: 0
-    m_MarginTop: 0
-    m_MarginBottom: 0
-    m_LastShownAreaInsideMargins:
-      serializedVersion: 2
-      x: -63.25
-      y: -112.75
-      width: 126.5
-      height: 225.5
-    m_MinimalGUI: 1
-  m_defaultScale: 2
-  m_TargetTexture: {fileID: 0}
-  m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 506, y: 936}
-  m_ClearInEditMode: 1
-  m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000100000100
-  m_XRRenderMode: 0
+  m_AnimEditor: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: -8014
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -118,7 +68,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 4}
-  - {fileID: 8}
+  - {fileID: 9}
   m_Position:
     serializedVersion: 2
     x: 0
@@ -128,7 +78,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 342}
   m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 94
+  controlID: 151
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -152,7 +102,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 116
+  controlID: 190
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -198,8 +148,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 98
-    y: 93
+    x: 153
+    y: 130
     width: 399
     height: 468
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -209,9 +159,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.265867, y: 0.34810454, z: 0.37325352}
+    m_Target: {x: -7.155165, y: -0.28498426, z: 0.34489563}
     speed: 2
-    m_Value: {x: -0.265867, y: 0.34810454, z: 0.37325352}
+    m_Value: {x: -7.155165, y: -0.28498426, z: 0.34489563}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -243,9 +193,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.9812126
+    m_Target: 6.6788435
     speed: 2
-    m_Value: 3.9812126
+    m_Value: 6.6788435
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -277,12 +227,91 @@ MonoBehaviour:
     height: 489
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
-  m_ActualView: {fileID: 2}
+  m_ActualView: {fileID: 8}
   m_Panes:
-  - {fileID: 2}
+  - {fileID: 8}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 556
+    y: 130
+    width: 253
+    height: 468
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -63.25
+    m_HBaseRangeMax: 63.25
+    m_VBaseRangeMin: -35.5
+    m_VBaseRangeMax: 35.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 253
+      height: 451
+    m_Scale: {x: 2, y: 2}
+    m_Translation: {x: 126.5, y: 225.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -63.25
+      y: -112.75
+      width: 126.5
+      height: 225.5
+    m_MinimalGUI: 1
+  m_defaultScale: 2
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 506, y: 936}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -302,13 +331,13 @@ MonoBehaviour:
     height: 271
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 9}
+  m_ActualView: {fileID: 2}
   m_Panes:
-  - {fileID: 9}
   - {fileID: 10}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &9
+  - {fileID: 2}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -328,8 +357,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 98
-    y: 582
+    x: 153
+    y: 619
     width: 656
     height: 250
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -338,14 +367,14 @@ MonoBehaviour:
     - {fileID: 1107641241153780580, guid: 16dd7a7e5bd5e4449839b42460f9d938, type: 2}
     - {fileID: 1107566680344480862, guid: 16dd7a7e5bd5e4449839b42460f9d938, type: 2}
     m_ValueSerializationHelper:
-    - e00: 0.36764705
+    - e00: 0.33572704
       e01: 0
       e02: 0
-      e03: -2.6470184
+      e03: 56.462234
       e10: 0
-      e11: 0.36764705
+      e11: 0.33572704
       e12: 0
-      e13: 57.13236
+      e13: 2.0515823
       e20: 0
       e21: 0
       e22: 1
@@ -388,35 +417,6 @@ MonoBehaviour:
   m_CurrentEditor: 1
   m_LayerEditor:
     m_SelectedLayerIndex: 0
---- !u!114 &10
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Animation
-    m_Image: {fileID: 1561878555887300916, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 38
-    y: 582
-    width: 656
-    height: 250
-  m_PersistentViewDataDictionary: {fileID: 0}
-  m_AnimEditor: {fileID: 0}
-  m_LockTracker:
-    m_IsLocked: 0
-  m_LastSelectedObjectID: 11920
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -462,16 +462,16 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 758
-    y: 93
+    x: 813
+    y: 130
     width: 200
     height: 739
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: aaecffffa0edffffc2f3ffff54f6ffffe6fbffff00000000902e0000
+    m_SelectedIDs: ca0c0000b2e0ffff
+    m_LastClickedID: -8014
+    m_ExpandedIDs: 2a36fcffaaecffffa0edffffc2f3ffff54f6ffffe6fbffff00000000ca0c0000902e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -540,8 +540,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 962
-    y: 93
+    x: 1017
+    y: 130
     width: 231
     height: 739
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -557,7 +557,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Visual Assets/Small Enemy 2
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -569,7 +569,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 142b0000
     m_LastClickedID: 11028
-    m_ExpandedIDs: 00000000640900008c0900005e0a0000920a0000fa0a0000560c0000700c0000
+    m_ExpandedIDs: 00000000660900008e090000600a0000940a0000fc0a00002a0c0000580c0000720c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -595,23 +595,23 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: ca0c0000b2e0ffff
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000640900008c0900005e0a0000920a0000fa0a0000560c0000700c0000
+    m_ExpandedIDs: ffffffff00000000660900008e090000600a0000940a0000fc0a0000f80b00002a0c0000580c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Player
-      m_OriginalName: Player
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12030
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 13}
     m_SearchString: 
@@ -622,8 +622,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: ca0c0000b2e0ffff
+    m_LastClickedInstanceID: -8014
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
@@ -698,8 +698,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1197
-    y: 93
+    x: 1252
+    y: 130
     width: 341
     height: 739
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -731,8 +731,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1137
-    y: 93
+    x: 1252
+    y: 130
     width: 341
     height: 739
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -741,11 +741,11 @@ MonoBehaviour:
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
-  currentStatusEntriesHasUpdate: 0
+  currentStatusEntriesHasUpdate: 1
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 1
-  changeTab: 2
-  activeTab: 2
+  appManagerProgressHasUpdate: 0
+  changeTab: 4
+  activeTab: 4
   initProjectView:
     hasCompletedInitialCheck: 0
     isUserDataPresent: 0
@@ -932,10 +932,10 @@ MonoBehaviour:
     disableDelete: 1
     disableCreate: 0
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2018-10-09T19:39:25.030-07:00
+      updatedTimeString: 2018-10-09T23:24:40.692-07:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2018-10-09T19:37:48.378-07:00
+      updatedTimeString: 2018-10-09T23:23:17.588-07:00
       cacheType: 1
     currentBranch:
       name: gavin
@@ -975,11 +975,659 @@ MonoBehaviour:
         keys: []
         values: []
       folders:
-        keys: []
-        values: []
+        keys:
+        - Seclocean
+        - Seclocean/Assets
+        - Seclocean/Assets/Scenes
+        - Seclocean/Assets/Scripts
+        - Seclocean/Assets/Visual Assets
+        - Seclocean/Assets/Visual Assets/Angie
+        - Seclocean/Library
+        - Seclocean/Library/gfu
+        - Seclocean/Library/gfu/cache
+        - Seclocean/Library/metadata
+        - Seclocean/Library/metadata/c8
+        - Seclocean/Library/ScriptAssemblies
+        - Seclocean/Temp
+        - Seclocean/Temp/__Backupscenes
+        values:
+        - path: Seclocean
+          label: Seclocean
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets
+          label: Assets
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets/Scenes
+          label: Scenes
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets/Scripts
+          label: Scripts
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets/Visual Assets
+          label: Visual Assets
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets/Visual Assets/Angie
+          label: Angie
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library
+          label: Library
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/gfu
+          label: gfu
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/gfu/cache
+          label: cache
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/metadata
+          label: metadata
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/metadata/c8
+          label: c8
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/ScriptAssemblies
+          label: ScriptAssemblies
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Temp
+          label: Temp
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Temp/__Backupscenes
+          label: __Backupscenes
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
       checkedFileNodes:
-        keys: []
-        values: []
+        keys:
+        - Seclocean/Assets/Scenes/Angie Animation.unity
+        - Seclocean/Assets/Scripts/Player.cs
+        - Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+        - Seclocean/Library/assetDatabase3
+        - Seclocean/Library/gfu/cache/branches.yaml
+        - Seclocean/Library/gfu/cache/gitlocks.yaml
+        - Seclocean/Library/gfu/cache/gitlog.yaml
+        - Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        - Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        - Seclocean/Library/gfu/cache/repoinfo.yaml
+        - Seclocean/Library/InspectorExpandedItems.asset
+        - Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        - Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+        - Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        - Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+        - Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+        - Seclocean/Temp/__Backupscenes/0.backup
+        - Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+        - Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+        - Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+        values:
+        - path: Seclocean/Assets/Scenes/Angie Animation.unity
+          label: Angie Animation.unity
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Assets/Scenes/Angie Animation.unity
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Angie
+              Animation.unity
+            projectPath: Assets/Scenes/Angie Animation.unity
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Assets/Scripts/Player.cs
+          label: Player.cs
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Assets/Scripts/Player.cs
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scripts/Player.cs
+            projectPath: Assets/Scripts/Player.cs
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+          label: Angie Controller.controller
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+              Assets/Angie/Angie Controller.controller
+            projectPath: Assets/Visual Assets/Angie/Angie Controller.controller
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/assetDatabase3
+          label: assetDatabase3
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/assetDatabase3
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+            projectPath: Library/assetDatabase3
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/gfu/cache/branches.yaml
+          label: branches.yaml
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/gfu/cache/branches.yaml
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+            projectPath: Library/gfu/cache/branches.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+          label: gitlocks.yaml
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/gfu/cache/gitlocks.yaml
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+            projectPath: Library/gfu/cache/gitlocks.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlog.yaml
+          label: gitlog.yaml
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/gfu/cache/gitlog.yaml
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+            projectPath: Library/gfu/cache/gitlog.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          label: gitstatusentries.yaml
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+            projectPath: Library/gfu/cache/gitstatusentries.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          label: gittrackingstatus.yaml
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+            projectPath: Library/gfu/cache/gittrackingstatus.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+          label: repoinfo.yaml
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/gfu/cache/repoinfo.yaml
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+            projectPath: Library/gfu/cache/repoinfo.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/InspectorExpandedItems.asset
+          label: InspectorExpandedItems.asset
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/InspectorExpandedItems.asset
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+            projectPath: Library/InspectorExpandedItems.asset
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          label: c8be30a8a56de45f8866b04caaf1a688
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+            projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          label: Assembly-CSharp.dll
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+            projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          label: Assembly-CSharp.dll.mdb
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+            projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+          label: BuiltinAssemblies.stamp
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+            projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+            originalPath: 
+            status: 5
+            staged: 0
+        - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+          label: shadercompiler-UnityShaderCompiler0.log
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+            projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Temp/__Backupscenes/0.backup
+          label: 0.backup
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Temp/__Backupscenes/0.backup
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+            projectPath: Temp/__Backupscenes/0.backup
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+          label: UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+            projectPath: Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+          label: UnityTempFile-52824c09bf35e43228e9a5968c43082f
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+            projectPath: Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+          label: UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+            fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+            projectPath: Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+            originalPath: 
+            status: 1
+            staged: 0
       title: 
       pathSeparator: /
       displayRootNode: 0
@@ -996,7 +1644,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1004,6 +1652,620 @@ MonoBehaviour:
           projectPath: 
           originalPath: 
           status: 0
+          staged: 0
+      - path: Seclocean
+        label: Seclocean
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets
+        label: Assets
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Scenes
+        label: Scenes
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Scenes/Angie Animation.unity
+        label: Angie Animation.unity
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scenes/Angie Animation.unity
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Angie
+            Animation.unity
+          projectPath: Assets/Scenes/Angie Animation.unity
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Assets/Scripts
+        label: Scripts
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Scripts/Player.cs
+        label: Player.cs
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/Player.cs
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scripts/Player.cs
+          projectPath: Assets/Scripts/Player.cs
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Assets/Visual Assets
+        label: Visual Assets
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Visual Assets/Angie
+        label: Angie
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+        label: Angie Controller.controller
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+            Assets/Angie/Angie Controller.controller
+          projectPath: Assets/Visual Assets/Angie/Angie Controller.controller
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library
+        label: Library
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/assetDatabase3
+        label: assetDatabase3
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/assetDatabase3
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+          projectPath: Library/assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/gfu
+        label: gfu
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/gfu/cache
+        label: cache
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/gfu/cache/branches.yaml
+        label: branches.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/branches.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+          projectPath: Library/gfu/cache/branches.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+        label: gitlocks.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/gitlocks.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+          projectPath: Library/gfu/cache/gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlog.yaml
+        label: gitlog.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/gitlog.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+          projectPath: Library/gfu/cache/gitlog.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        label: gitstatusentries.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          projectPath: Library/gfu/cache/gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        label: gittrackingstatus.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          projectPath: Library/gfu/cache/gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+        label: repoinfo.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/repoinfo.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+          projectPath: Library/gfu/cache/repoinfo.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/InspectorExpandedItems.asset
+        label: InspectorExpandedItems.asset
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/InspectorExpandedItems.asset
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+          projectPath: Library/InspectorExpandedItems.asset
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/metadata
+        label: metadata
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/metadata/c8
+        label: c8
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        label: c8be30a8a56de45f8866b04caaf1a688
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/ScriptAssemblies
+        label: ScriptAssemblies
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+        label: Assembly-CSharp.dll
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        label: Assembly-CSharp.dll.mdb
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+        label: BuiltinAssemblies.stamp
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+          projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+        label: shadercompiler-UnityShaderCompiler0.log
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+          projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Temp
+        label: Temp
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Temp/__Backupscenes
+        label: __Backupscenes
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Temp/__Backupscenes/0.backup
+        label: 0.backup
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/__Backupscenes/0.backup
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+          projectPath: Temp/__Backupscenes/0.backup
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+        label: UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+          projectPath: Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+        label: UnityTempFile-52824c09bf35e43228e9a5968c43082f
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+          projectPath: Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+        label: UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+          projectPath: Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+          originalPath: 
+          status: 1
           staged: 0
       selectedNode:
         path: 
@@ -1024,23 +2286,724 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-    gitStatusEntries: []
-    changedFilesText: No changed files
+    gitStatusEntries:
+    - path: Seclocean/Assets/Scenes/Angie Animation.unity
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Angie
+        Animation.unity
+      projectPath: Assets/Scenes/Angie Animation.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Assets/Scripts/Player.cs
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scripts/Player.cs
+      projectPath: Assets/Scripts/Player.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Angie/Angie Controller.controller
+      projectPath: Assets/Visual Assets/Angie/Angie Controller.controller
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/assetDatabase3
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/branches.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/InspectorExpandedItems.asset
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+      projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Temp/__Backupscenes/0.backup
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+      projectPath: Temp/UnityTempFile-4b7962e7f4c2149298008e808afa8e3a
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+      projectPath: Temp/UnityTempFile-52824c09bf35e43228e9a5968c43082f
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+      projectPath: Temp/UnityTempFile-dc0eadb6e3422427fa542d0a7339c6ea
+      originalPath: 
+      status: 1
+      staged: 0
+    changedFilesText: 20 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2018-10-09T19:37:48.378-07:00
+      updatedTimeString: 2018-10-09T21:51:00.073-07:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-10-09T19:42:07.394-07:00
+      updatedTimeString: 2018-10-09T22:42:29.161-07:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2018-10-09T19:42:08.210-07:00
+      updatedTimeString: 2018-10-09T22:42:40.880-07:00
       cacheType: 6
   historyView:
-    currentLogHasUpdate: 1
-    currentTrackingStatusHasUpdate: 1
+    currentLogHasUpdate: 0
+    currentTrackingStatusHasUpdate: 0
     historyControl:
       scroll: {x: 0, y: 0}
       entries:
+      - commitID: cf7be28c34fa9bf1882ba7026ccdc26d95ec8057
+        mergeA: 
+        mergeB: 
+        authorName: Gavin Sekhon
+        authorEmail: gggavin36@gmail.com
+        commitEmail: gggavin36@gmail.com
+        commitName: Gavin Sekhon
+        summary: moving angie
+        description: moving angie
+        timeString: 2018-10-09T21:41:36.000-07:00
+        commitTimeString: 2018-10-09T21:41:36.000-07:00
+        changes:
+        - path: Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+          projectPath: .vs/Seclocean/xs/UserPrefs.xml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Assembly-CSharp.csproj
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
+          projectPath: Assembly-CSharp.csproj
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Assets/Scenes/Angie Animation.unity
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Angie
+            Animation.unity
+          projectPath: Assets/Scenes/Angie Animation.unity
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Assets/Scripts/Player.cs
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scripts/Player.cs
+          projectPath: Assets/Scripts/Player.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: "Assets/Angie/Player.cs.meta\tSeclocean/Assets/Scripts/Player.cs.meta"
+          fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Assets/Angie/Player.cs.meta\tSeclocean/Assets/Scripts/Player.cs.meta"
+          projectPath: "../Assets/Angie/Player.cs.meta\tSeclocean/Assets/Scripts/Player.cs.meta"
+          originalPath: Seclocean/Assets/Visual
+          status: 6
+          staged: 0
+        - path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+            Assets/Angie/Angie Controller.controller
+          projectPath: Assets/Visual Assets/Angie/Angie Controller.controller
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Assets/Visual Assets/Angie/Player.cs
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+            Assets/Angie/Player.cs
+          projectPath: Assets/Visual Assets/Angie/Player.cs
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Library/CrashedAssetImports.txt
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
+          projectPath: Library/CrashedAssetImports.txt
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Library/InspectorExpandedItems.asset
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+          projectPath: Library/InspectorExpandedItems.asset
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/assetDatabase3
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+          projectPath: Library/assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/branches.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+          projectPath: Library/gfu/cache/branches.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+          projectPath: Library/gfu/cache/gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlog.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+          projectPath: Library/gfu/cache/gitlog.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          projectPath: Library/gfu/cache/gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          projectPath: Library/gfu/cache/gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+          projectPath: Library/gfu/cache/repoinfo.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+          projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+          projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-32e0523d551554e8983b6a92ce4859da
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-32e0523d551554e8983b6a92ce4859da
+          projectPath: Temp/UnityTempFile-32e0523d551554e8983b6a92ce4859da
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-43da1bc859b43424bbcbe4efe50c740b
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-43da1bc859b43424bbcbe4efe50c740b
+          projectPath: Temp/UnityTempFile-43da1bc859b43424bbcbe4efe50c740b
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-86f602f3c76f343088688e8bd72cc761
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-86f602f3c76f343088688e8bd72cc761
+          projectPath: Temp/UnityTempFile-86f602f3c76f343088688e8bd72cc761
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-90eef39c5400e443fbb0406d88a099ac
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-90eef39c5400e443fbb0406d88a099ac
+          projectPath: Temp/UnityTempFile-90eef39c5400e443fbb0406d88a099ac
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-aeb1f4bbc89e24235abcc38d7db59d2a
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-aeb1f4bbc89e24235abcc38d7db59d2a
+          projectPath: Temp/UnityTempFile-aeb1f4bbc89e24235abcc38d7db59d2a
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-e3641149bc0f947e0aa03b07eb9a9226
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-e3641149bc0f947e0aa03b07eb9a9226
+          projectPath: Temp/UnityTempFile-e3641149bc0f947e0aa03b07eb9a9226
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/__Backupscenes/0.backup
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+          projectPath: Temp/__Backupscenes/0.backup
+          originalPath: 
+          status: 3
+          staged: 0
+      - commitID: c5a5c73583b674959f25f27a35ea954118c41445
+        mergeA: 
+        mergeB: 
+        authorName: Gavin Sekhon
+        authorEmail: gggavin36@gmail.com
+        commitEmail: gggavin36@gmail.com
+        commitName: Gavin Sekhon
+        summary: unlocked y axis
+        description: unlocked y axis
+        timeString: 2018-10-09T21:11:41.000-07:00
+        commitTimeString: 2018-10-09T21:11:41.000-07:00
+        changes:
+        - path: Seclocean/Assets/Scenes/Angie Animation.unity
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Angie
+            Animation.unity
+          projectPath: Assets/Scenes/Angie Animation.unity
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/CrashedAssetImports.txt
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
+          projectPath: Library/CrashedAssetImports.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Library/InspectorExpandedItems.asset
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+          projectPath: Library/InspectorExpandedItems.asset
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/assetDatabase3
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+          projectPath: Library/assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/branches.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+          projectPath: Library/gfu/cache/branches.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+          projectPath: Library/gfu/cache/gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlog.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+          projectPath: Library/gfu/cache/gitlog.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          projectPath: Library/gfu/cache/gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          projectPath: Library/gfu/cache/gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gituser.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gituser.yaml
+          projectPath: Library/gfu/cache/gituser.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+          projectPath: Library/gfu/cache/repoinfo.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - commitID: 95761167fe8b9e627eada2d98bcd2c91a1a6f209
+        mergeA: 
+        mergeB: 
+        authorName: Gavin Sekhon
+        authorEmail: gggavin36@gmail.com
+        commitEmail: gggavin36@gmail.com
+        commitName: Gavin Sekhon
+        summary: Structuring animation
+        description: Structuring animation
+        timeString: 2018-10-09T21:10:27.000-07:00
+        commitTimeString: 2018-10-09T21:10:27.000-07:00
+        changes:
+        - path: Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+          projectPath: .vs/Seclocean/xs/UserPrefs.xml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-shm
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-shm
+          projectPath: .vs/Seclocean/xs/sqlite3/storage.ide-shm
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-wal
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-wal
+          projectPath: .vs/Seclocean/xs/sqlite3/storage.ide-wal
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Assembly-CSharp.csproj
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
+          projectPath: Assembly-CSharp.csproj
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: "Animation.unity\tSeclocean/Assets/Scenes/Angie Animation.unity"
+          fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Animation.unity\tSeclocean/Assets/Scenes/Angie
+            Animation.unity"
+          projectPath: "../Animation.unity\tSeclocean/Assets/Scenes/Angie Animation.unity"
+          originalPath: Seclocean/Assets/Angie
+          status: 6
+          staged: 0
+        - path: "Animation.unity.meta\tSeclocean/Assets/Scenes/Angie Animation.unity.meta"
+          fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Animation.unity.meta\tSeclocean/Assets/Scenes/Angie
+            Animation.unity.meta"
+          projectPath: "../Animation.unity.meta\tSeclocean/Assets/Scenes/Angie Animation.unity.meta"
+          originalPath: Seclocean/Assets/Angie
+          status: 6
+          staged: 0
+        - path: Seclocean/Assets/Scenes/Player.cs
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Player.cs
+          projectPath: Assets/Scenes/Player.cs
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+            Assets/Angie/Angie Controller.controller
+          projectPath: Assets/Visual Assets/Angie/Angie Controller.controller
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Assets/Visual Assets/Angie/Player.cs
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+            Assets/Angie/Player.cs
+          projectPath: Assets/Visual Assets/Angie/Player.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Assets/Visual Assets/Angie/Player.cs.meta
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+            Assets/Angie/Player.cs.meta
+          projectPath: Assets/Visual Assets/Angie/Player.cs.meta
+          originalPath: Seclocean/Assets/Scenes/Player.cs.meta
+          status: 6
+          staged: 0
+        - path: Seclocean/Library/CurrentLayout.dwlt
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CurrentLayout.dwlt
+          projectPath: Library/CurrentLayout.dwlt
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/CurrentMaximizeLayout.dwlt
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CurrentMaximizeLayout.dwlt
+          projectPath: Library/CurrentMaximizeLayout.dwlt
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/EditorInstance.json
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/EditorInstance.json
+          projectPath: Library/EditorInstance.json
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/InspectorExpandedItems.asset
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+          projectPath: Library/InspectorExpandedItems.asset
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/LastSceneManagerSetup.txt
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/LastSceneManagerSetup.txt
+          projectPath: Library/LastSceneManagerSetup.txt
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/assetDatabase3
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+          projectPath: Library/assetDatabase3
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/expandedItems
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/expandedItems
+          projectPath: Library/expandedItems
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/branches.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+          projectPath: Library/gfu/cache/branches.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+          projectPath: Library/gfu/cache/gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitlog.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+          projectPath: Library/gfu/cache/gitlog.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+          projectPath: Library/gfu/cache/gitstatusentries.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+          projectPath: Library/gfu/cache/gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+          projectPath: Library/gfu/cache/repoinfo.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f
+          projectPath: Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f.info
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f.info
+          projectPath: Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f.info
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          originalPath: Seclocean/Library/metadata/ee/ee4f22be768f743a7a7fb1fd80363777
+          status: 6
+          staged: 0
+        - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+          projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+          originalPath: Seclocean/Library/metadata/ee/ee4f22be768f743a7a7fb1fd80363777.info
+          status: 6
+          staged: 0
+        - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+          projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-33ac15a8501e54796b725d7b435e0544
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-33ac15a8501e54796b725d7b435e0544
+          projectPath: Temp/UnityTempFile-33ac15a8501e54796b725d7b435e0544
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-485a2c4b06acc4fd2ac6502accaacc26
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-485a2c4b06acc4fd2ac6502accaacc26
+          projectPath: Temp/UnityTempFile-485a2c4b06acc4fd2ac6502accaacc26
+          originalPath: Seclocean/Temp/UnityTempFile-167420f64ed084ac4949684a8749350b
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-584e40d9f521646349889f3092143adb
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-584e40d9f521646349889f3092143adb
+          projectPath: Temp/UnityTempFile-584e40d9f521646349889f3092143adb
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-5d8ed6ed276464c6cba4b3f2c42a0167
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-5d8ed6ed276464c6cba4b3f2c42a0167
+          projectPath: Temp/UnityTempFile-5d8ed6ed276464c6cba4b3f2c42a0167
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-5dd7aa31bcc9b4e998e7c34b8006265d
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-5dd7aa31bcc9b4e998e7c34b8006265d
+          projectPath: Temp/UnityTempFile-5dd7aa31bcc9b4e998e7c34b8006265d
+          originalPath: Seclocean/Temp/UnityTempFile-671ed198a847945b789626a0e329dca3
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-6a154eed737384101b66844420ed5bea
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-6a154eed737384101b66844420ed5bea
+          projectPath: Temp/UnityTempFile-6a154eed737384101b66844420ed5bea
+          originalPath: Seclocean/Temp/UnityTempFile-969ba0d8e4335463a8392d66e10ef260
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-6c67ecf2b90c2476abbe9ba854f35efc
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-6c67ecf2b90c2476abbe9ba854f35efc
+          projectPath: Temp/UnityTempFile-6c67ecf2b90c2476abbe9ba854f35efc
+          originalPath: Seclocean/Temp/UnityTempFile-15bb65747447946ecb09ea578cfc5b80
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-80f65c7a72dc045afb45109c5662682e
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-80f65c7a72dc045afb45109c5662682e
+          projectPath: Temp/UnityTempFile-80f65c7a72dc045afb45109c5662682e
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-954400cbfb40a482f987b3b564ed16bb
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-954400cbfb40a482f987b3b564ed16bb
+          projectPath: Temp/UnityTempFile-954400cbfb40a482f987b3b564ed16bb
+          originalPath: Seclocean/Temp/UnityTempFile-319f92720cf814b398e0b12de6dc1d2d
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-d03895d1943384fd1b01f4951cf3f3c4
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-d03895d1943384fd1b01f4951cf3f3c4
+          projectPath: Temp/UnityTempFile-d03895d1943384fd1b01f4951cf3f3c4
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-e41488ec5b5b44714b1fce24fb986cb2
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-e41488ec5b5b44714b1fce24fb986cb2
+          projectPath: Temp/UnityTempFile-e41488ec5b5b44714b1fce24fb986cb2
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-f089a24c4775d4030bd589bc44be14d1
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f089a24c4775d4030bd589bc44be14d1
+          projectPath: Temp/UnityTempFile-f089a24c4775d4030bd589bc44be14d1
+          originalPath: Seclocean/Temp/UnityTempFile-e5839991f4f1a43f3855ea7c2fb322a4
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-f169f6a0a19b346baa3d8dd91eca3b41
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f169f6a0a19b346baa3d8dd91eca3b41
+          projectPath: Temp/UnityTempFile-f169f6a0a19b346baa3d8dd91eca3b41
+          originalPath: Seclocean/Temp/UnityTempFile-65ef9da2dfab340eebf7dc275977dabf
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-f186822d78bec42d18a134a21c1482f1
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f186822d78bec42d18a134a21c1482f1
+          projectPath: Temp/UnityTempFile-f186822d78bec42d18a134a21c1482f1
+          originalPath: Seclocean/Temp/UnityTempFile-8f4122d792fa04ecc8ddeaa4df87f8ba
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-f2ee6c0b68fd14dc7a087fd52f151b44
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f2ee6c0b68fd14dc7a087fd52f151b44
+          projectPath: Temp/UnityTempFile-f2ee6c0b68fd14dc7a087fd52f151b44
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-f9bed4fa6cf054686a6bd5cd4be23b22
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f9bed4fa6cf054686a6bd5cd4be23b22
+          projectPath: Temp/UnityTempFile-f9bed4fa6cf054686a6bd5cd4be23b22
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Seclocean/Temp/UnityTempFile-fc5570dd2e85a48f0aeba8f012cf142e
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-fc5570dd2e85a48f0aeba8f012cf142e
+          projectPath: Temp/UnityTempFile-fc5570dd2e85a48f0aeba8f012cf142e
+          originalPath: Seclocean/Temp/UnityTempFile-7ead49593b0404325a777894cbcaa69e
+          status: 6
+          staged: 0
+        - path: Seclocean/Temp/__Backupscenes/0.backup
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+          projectPath: Temp/__Backupscenes/0.backup
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          originalPath: 
+          status: 3
+          staged: 0
+        - path: Seclocean/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+          fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+          projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+          originalPath: 
+          status: 3
+          staged: 0
       - commitID: 140d60052585b466dacfe75f30a3995455a5468c
         mergeA: 
         mergeB: 
@@ -10508,6 +12471,585 @@ MonoBehaviour:
       changes: []
     detailsScroll: {x: 0, y: 0}
     logEntries:
+    - commitID: cf7be28c34fa9bf1882ba7026ccdc26d95ec8057
+      mergeA: 
+      mergeB: 
+      authorName: Gavin Sekhon
+      authorEmail: gggavin36@gmail.com
+      commitEmail: gggavin36@gmail.com
+      commitName: Gavin Sekhon
+      summary: moving angie
+      description: moving angie
+      timeString: 2018-10-09T21:41:36.000-07:00
+      commitTimeString: 2018-10-09T21:41:36.000-07:00
+      changes:
+      - path: Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+        projectPath: .vs/Seclocean/xs/UserPrefs.xml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Assembly-CSharp.csproj
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
+        projectPath: Assembly-CSharp.csproj
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Assets/Scenes/Angie Animation.unity
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Angie
+          Animation.unity
+        projectPath: Assets/Scenes/Angie Animation.unity
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Assets/Scripts/Player.cs
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scripts/Player.cs
+        projectPath: Assets/Scripts/Player.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: "Assets/Angie/Player.cs.meta\tSeclocean/Assets/Scripts/Player.cs.meta"
+        fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Assets/Angie/Player.cs.meta\tSeclocean/Assets/Scripts/Player.cs.meta"
+        projectPath: "../Assets/Angie/Player.cs.meta\tSeclocean/Assets/Scripts/Player.cs.meta"
+        originalPath: Seclocean/Assets/Visual
+        status: 6
+        staged: 0
+      - path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+          Assets/Angie/Angie Controller.controller
+        projectPath: Assets/Visual Assets/Angie/Angie Controller.controller
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Assets/Visual Assets/Angie/Player.cs
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+          Assets/Angie/Player.cs
+        projectPath: Assets/Visual Assets/Angie/Player.cs
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Library/CrashedAssetImports.txt
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
+        projectPath: Library/CrashedAssetImports.txt
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Library/InspectorExpandedItems.asset
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+        projectPath: Library/InspectorExpandedItems.asset
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+        projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/assetDatabase3
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+        projectPath: Library/assetDatabase3
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/branches.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+        projectPath: Library/gfu/cache/branches.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+        projectPath: Library/gfu/cache/gitlocks.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlog.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+        projectPath: Library/gfu/cache/gitlog.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        projectPath: Library/gfu/cache/gitstatusentries.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        projectPath: Library/gfu/cache/gittrackingstatus.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+        projectPath: Library/gfu/cache/repoinfo.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+        projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+        projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-32e0523d551554e8983b6a92ce4859da
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-32e0523d551554e8983b6a92ce4859da
+        projectPath: Temp/UnityTempFile-32e0523d551554e8983b6a92ce4859da
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-43da1bc859b43424bbcbe4efe50c740b
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-43da1bc859b43424bbcbe4efe50c740b
+        projectPath: Temp/UnityTempFile-43da1bc859b43424bbcbe4efe50c740b
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-86f602f3c76f343088688e8bd72cc761
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-86f602f3c76f343088688e8bd72cc761
+        projectPath: Temp/UnityTempFile-86f602f3c76f343088688e8bd72cc761
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-90eef39c5400e443fbb0406d88a099ac
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-90eef39c5400e443fbb0406d88a099ac
+        projectPath: Temp/UnityTempFile-90eef39c5400e443fbb0406d88a099ac
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-aeb1f4bbc89e24235abcc38d7db59d2a
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-aeb1f4bbc89e24235abcc38d7db59d2a
+        projectPath: Temp/UnityTempFile-aeb1f4bbc89e24235abcc38d7db59d2a
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-e3641149bc0f947e0aa03b07eb9a9226
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-e3641149bc0f947e0aa03b07eb9a9226
+        projectPath: Temp/UnityTempFile-e3641149bc0f947e0aa03b07eb9a9226
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/__Backupscenes/0.backup
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+        projectPath: Temp/__Backupscenes/0.backup
+        originalPath: 
+        status: 3
+        staged: 0
+    - commitID: c5a5c73583b674959f25f27a35ea954118c41445
+      mergeA: 
+      mergeB: 
+      authorName: Gavin Sekhon
+      authorEmail: gggavin36@gmail.com
+      commitEmail: gggavin36@gmail.com
+      commitName: Gavin Sekhon
+      summary: unlocked y axis
+      description: unlocked y axis
+      timeString: 2018-10-09T21:11:41.000-07:00
+      commitTimeString: 2018-10-09T21:11:41.000-07:00
+      changes:
+      - path: Seclocean/Assets/Scenes/Angie Animation.unity
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Angie
+          Animation.unity
+        projectPath: Assets/Scenes/Angie Animation.unity
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/CrashedAssetImports.txt
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
+        projectPath: Library/CrashedAssetImports.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Library/InspectorExpandedItems.asset
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+        projectPath: Library/InspectorExpandedItems.asset
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/assetDatabase3
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+        projectPath: Library/assetDatabase3
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/branches.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+        projectPath: Library/gfu/cache/branches.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+        projectPath: Library/gfu/cache/gitlocks.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlog.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+        projectPath: Library/gfu/cache/gitlog.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        projectPath: Library/gfu/cache/gitstatusentries.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        projectPath: Library/gfu/cache/gittrackingstatus.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gituser.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gituser.yaml
+        projectPath: Library/gfu/cache/gituser.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+        projectPath: Library/gfu/cache/repoinfo.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+    - commitID: 95761167fe8b9e627eada2d98bcd2c91a1a6f209
+      mergeA: 
+      mergeB: 
+      authorName: Gavin Sekhon
+      authorEmail: gggavin36@gmail.com
+      commitEmail: gggavin36@gmail.com
+      commitName: Gavin Sekhon
+      summary: Structuring animation
+      description: Structuring animation
+      timeString: 2018-10-09T21:10:27.000-07:00
+      commitTimeString: 2018-10-09T21:10:27.000-07:00
+      changes:
+      - path: Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/UserPrefs.xml
+        projectPath: .vs/Seclocean/xs/UserPrefs.xml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-shm
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-shm
+        projectPath: .vs/Seclocean/xs/sqlite3/storage.ide-shm
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-wal
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.vs/Seclocean/xs/sqlite3/storage.ide-wal
+        projectPath: .vs/Seclocean/xs/sqlite3/storage.ide-wal
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Assembly-CSharp.csproj
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
+        projectPath: Assembly-CSharp.csproj
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: "Animation.unity\tSeclocean/Assets/Scenes/Angie Animation.unity"
+        fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Animation.unity\tSeclocean/Assets/Scenes/Angie
+          Animation.unity"
+        projectPath: "../Animation.unity\tSeclocean/Assets/Scenes/Angie Animation.unity"
+        originalPath: Seclocean/Assets/Angie
+        status: 6
+        staged: 0
+      - path: "Animation.unity.meta\tSeclocean/Assets/Scenes/Angie Animation.unity.meta"
+        fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Animation.unity.meta\tSeclocean/Assets/Scenes/Angie
+          Animation.unity.meta"
+        projectPath: "../Animation.unity.meta\tSeclocean/Assets/Scenes/Angie Animation.unity.meta"
+        originalPath: Seclocean/Assets/Angie
+        status: 6
+        staged: 0
+      - path: Seclocean/Assets/Scenes/Player.cs
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Player.cs
+        projectPath: Assets/Scenes/Player.cs
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Assets/Visual Assets/Angie/Angie Controller.controller
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+          Assets/Angie/Angie Controller.controller
+        projectPath: Assets/Visual Assets/Angie/Angie Controller.controller
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Assets/Visual Assets/Angie/Player.cs
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+          Assets/Angie/Player.cs
+        projectPath: Assets/Visual Assets/Angie/Player.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Assets/Visual Assets/Angie/Player.cs.meta
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+          Assets/Angie/Player.cs.meta
+        projectPath: Assets/Visual Assets/Angie/Player.cs.meta
+        originalPath: Seclocean/Assets/Scenes/Player.cs.meta
+        status: 6
+        staged: 0
+      - path: Seclocean/Library/CurrentLayout.dwlt
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CurrentLayout.dwlt
+        projectPath: Library/CurrentLayout.dwlt
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/CurrentMaximizeLayout.dwlt
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CurrentMaximizeLayout.dwlt
+        projectPath: Library/CurrentMaximizeLayout.dwlt
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/EditorInstance.json
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/EditorInstance.json
+        projectPath: Library/EditorInstance.json
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/InspectorExpandedItems.asset
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/InspectorExpandedItems.asset
+        projectPath: Library/InspectorExpandedItems.asset
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/LastSceneManagerSetup.txt
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/LastSceneManagerSetup.txt
+        projectPath: Library/LastSceneManagerSetup.txt
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+        projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/assetDatabase3
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+        projectPath: Library/assetDatabase3
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/expandedItems
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/expandedItems
+        projectPath: Library/expandedItems
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/branches.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+        projectPath: Library/gfu/cache/branches.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+        projectPath: Library/gfu/cache/gitlocks.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlog.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+        projectPath: Library/gfu/cache/gitlog.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+        projectPath: Library/gfu/cache/gitstatusentries.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+        projectPath: Library/gfu/cache/gittrackingstatus.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+        projectPath: Library/gfu/cache/repoinfo.yaml
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f
+        projectPath: Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f.info
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f.info
+        projectPath: Library/metadata/17/17d14038ea5db44a0a44227a58a0fa1f.info
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        originalPath: Seclocean/Library/metadata/ee/ee4f22be768f743a7a7fb1fd80363777
+        status: 6
+        staged: 0
+      - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+        projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688.info
+        originalPath: Seclocean/Library/metadata/ee/ee4f22be768f743a7a7fb1fd80363777.info
+        status: 6
+        staged: 0
+      - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+        projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-33ac15a8501e54796b725d7b435e0544
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-33ac15a8501e54796b725d7b435e0544
+        projectPath: Temp/UnityTempFile-33ac15a8501e54796b725d7b435e0544
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-485a2c4b06acc4fd2ac6502accaacc26
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-485a2c4b06acc4fd2ac6502accaacc26
+        projectPath: Temp/UnityTempFile-485a2c4b06acc4fd2ac6502accaacc26
+        originalPath: Seclocean/Temp/UnityTempFile-167420f64ed084ac4949684a8749350b
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-584e40d9f521646349889f3092143adb
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-584e40d9f521646349889f3092143adb
+        projectPath: Temp/UnityTempFile-584e40d9f521646349889f3092143adb
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-5d8ed6ed276464c6cba4b3f2c42a0167
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-5d8ed6ed276464c6cba4b3f2c42a0167
+        projectPath: Temp/UnityTempFile-5d8ed6ed276464c6cba4b3f2c42a0167
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-5dd7aa31bcc9b4e998e7c34b8006265d
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-5dd7aa31bcc9b4e998e7c34b8006265d
+        projectPath: Temp/UnityTempFile-5dd7aa31bcc9b4e998e7c34b8006265d
+        originalPath: Seclocean/Temp/UnityTempFile-671ed198a847945b789626a0e329dca3
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-6a154eed737384101b66844420ed5bea
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-6a154eed737384101b66844420ed5bea
+        projectPath: Temp/UnityTempFile-6a154eed737384101b66844420ed5bea
+        originalPath: Seclocean/Temp/UnityTempFile-969ba0d8e4335463a8392d66e10ef260
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-6c67ecf2b90c2476abbe9ba854f35efc
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-6c67ecf2b90c2476abbe9ba854f35efc
+        projectPath: Temp/UnityTempFile-6c67ecf2b90c2476abbe9ba854f35efc
+        originalPath: Seclocean/Temp/UnityTempFile-15bb65747447946ecb09ea578cfc5b80
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-80f65c7a72dc045afb45109c5662682e
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-80f65c7a72dc045afb45109c5662682e
+        projectPath: Temp/UnityTempFile-80f65c7a72dc045afb45109c5662682e
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-954400cbfb40a482f987b3b564ed16bb
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-954400cbfb40a482f987b3b564ed16bb
+        projectPath: Temp/UnityTempFile-954400cbfb40a482f987b3b564ed16bb
+        originalPath: Seclocean/Temp/UnityTempFile-319f92720cf814b398e0b12de6dc1d2d
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-d03895d1943384fd1b01f4951cf3f3c4
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-d03895d1943384fd1b01f4951cf3f3c4
+        projectPath: Temp/UnityTempFile-d03895d1943384fd1b01f4951cf3f3c4
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-e41488ec5b5b44714b1fce24fb986cb2
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-e41488ec5b5b44714b1fce24fb986cb2
+        projectPath: Temp/UnityTempFile-e41488ec5b5b44714b1fce24fb986cb2
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-f089a24c4775d4030bd589bc44be14d1
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f089a24c4775d4030bd589bc44be14d1
+        projectPath: Temp/UnityTempFile-f089a24c4775d4030bd589bc44be14d1
+        originalPath: Seclocean/Temp/UnityTempFile-e5839991f4f1a43f3855ea7c2fb322a4
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-f169f6a0a19b346baa3d8dd91eca3b41
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f169f6a0a19b346baa3d8dd91eca3b41
+        projectPath: Temp/UnityTempFile-f169f6a0a19b346baa3d8dd91eca3b41
+        originalPath: Seclocean/Temp/UnityTempFile-65ef9da2dfab340eebf7dc275977dabf
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-f186822d78bec42d18a134a21c1482f1
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f186822d78bec42d18a134a21c1482f1
+        projectPath: Temp/UnityTempFile-f186822d78bec42d18a134a21c1482f1
+        originalPath: Seclocean/Temp/UnityTempFile-8f4122d792fa04ecc8ddeaa4df87f8ba
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-f2ee6c0b68fd14dc7a087fd52f151b44
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f2ee6c0b68fd14dc7a087fd52f151b44
+        projectPath: Temp/UnityTempFile-f2ee6c0b68fd14dc7a087fd52f151b44
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-f9bed4fa6cf054686a6bd5cd4be23b22
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f9bed4fa6cf054686a6bd5cd4be23b22
+        projectPath: Temp/UnityTempFile-f9bed4fa6cf054686a6bd5cd4be23b22
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Seclocean/Temp/UnityTempFile-fc5570dd2e85a48f0aeba8f012cf142e
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-fc5570dd2e85a48f0aeba8f012cf142e
+        projectPath: Temp/UnityTempFile-fc5570dd2e85a48f0aeba8f012cf142e
+        originalPath: Seclocean/Temp/UnityTempFile-7ead49593b0404325a777894cbcaa69e
+        status: 6
+        staged: 0
+      - path: Seclocean/Temp/__Backupscenes/0.backup
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+        projectPath: Temp/__Backupscenes/0.backup
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        originalPath: 
+        status: 3
+        staged: 0
+      - path: Seclocean/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+        fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+        projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+        originalPath: 
+        status: 3
+        staged: 0
     - commitID: 140d60052585b466dacfe75f30a3995455a5468c
       mergeA: 
       mergeB: 
@@ -19958,7 +22500,7 @@ MonoBehaviour:
         originalPath: 
         status: 4
         staged: 0
-    statusAhead: 0
+    statusAhead: 1
     treeChanges:
       assets:
         keys: []
@@ -19996,10 +22538,10 @@ MonoBehaviour:
           status: 0
           staged: 0
     lastLogChangedEvent:
-      updatedTimeString: 2018-10-09T20:58:05.659-07:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2018-10-09T21:50:10.320-07:00
       cacheType: 4
   settingsView:
     gitPathView:
@@ -20053,13 +22595,13 @@ MonoBehaviour:
         gitFileStatus: 0
         lockedAt: 1 Jan 0001, 00:00
     lastLocksChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2018-10-09T21:10:08.148-07:00
       cacheType: 6
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2018-10-09T21:10:08.148-07:00
       cacheType: 6
     lastUserChangedEvent:
-      updatedTimeString: 2018-10-09T20:24:23.046-07:00
+      updatedTimeString: 2018-10-09T21:10:40.959-07:00
       cacheType: 7
     lockedFiles: []
     gitStatusEntries: []
@@ -20089,13 +22631,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2018-10-09T20:27:36.098-07:00
+    updatedTimeString: 2018-10-09T22:43:47.411-07:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2018-10-09T20:27:35.884-07:00
+    updatedTimeString: 2018-10-09T22:43:45.361-07:00
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2018-10-09T20:28:46.891-07:00
+    updatedTimeString: 2018-10-09T23:32:26.057-07:00
     cacheType: 5
   pullButtonContent:
     m_Text: Pull

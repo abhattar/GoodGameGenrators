@@ -187,6 +187,7 @@
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
+'Assets/Scripts/Player.cs'
+'Assets/Scripts/Squid.cs'
 'Assets/Scripts/UIManager.cs'
-'Assets/Visual Assets/Angie/Player.cs'
 -lib:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity'
