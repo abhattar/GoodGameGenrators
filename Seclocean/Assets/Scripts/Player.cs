@@ -14,11 +14,13 @@ public class Player : MonoBehaviour {
     // Update is called once per frame
     void Update () {
         float speed = Input.GetAxis("Horizontal") * Time.deltaTime * speedValue;
+        float speed2 = Input.GetAxis("Vertical") * Time.deltaTime * speedValue;
 
         transform.localScale = new Vector3(speed / Mathf.Abs(speed), 1, 1);
 
         animator.SetFloat("speed", Mathf.Abs(speed));
+        animator.SetFloat("speed2", Mathf.Abs(speed));
 
-        transform.Translate(new Vector3(speed, 0));
+        transform.Translate(new Vector3(speed, speed2));
     }
 }
