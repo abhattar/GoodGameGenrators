@@ -197,9 +197,9 @@ GameObject:
   m_Component:
   - component: {fileID: 303703308}
   - component: {fileID: 303703307}
-  - component: {fileID: 303703306}
   - component: {fileID: 303703309}
   - component: {fileID: 303703311}
+  - component: {fileID: 303703306}
   m_Layer: 0
   m_Name: Angie
   m_TagString: Untagged
@@ -278,7 +278,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 303703305}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.30000007, y: 0.41999996, z: 0.23674206}
+  m_LocalPosition: {x: 0.12, y: 0.41999996, z: 0.23674206}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2043477873}
@@ -301,8 +301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8be30a8a56de45f8866b04caaf1a688, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 0}
-  speedValue: 0
+  speedValue: 10
 --- !u!50 &303703311
 Rigidbody2D:
   serializedVersion: 4
@@ -310,7 +309,7 @@ Rigidbody2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 303703305}
-  m_BodyType: 0
+  m_BodyType: 2
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
