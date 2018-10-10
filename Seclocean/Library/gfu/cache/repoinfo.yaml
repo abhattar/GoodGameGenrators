@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-10-09T21:51:00.073-07:00
-  initializedAtString: 2018-10-09T20:40:46.899-07:00
+  lastUpdatedAtString: 2018-10-10T14:08:15.503-07:00
+  initializedAtString: 2018-10-09T23:23:17.588-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/abhattar/Salt-Base-Studio.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/abhattar/Salt-Base-Studio.git
-  currentHead: e2e1eec
+  currentHead: cefbe3d
