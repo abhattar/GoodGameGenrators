@@ -22,5 +22,11 @@ public class Player : MonoBehaviour {
         animator.SetFloat("speed2", Mathf.Abs(speed));
 
         transform.Translate(new Vector3(speed, speed2));
+
+        if (Input.GetKey(KeyCode.Space))
+        {
+            GetComponent<Animator>().SetTrigger("Bite");
+        }
+
     }
 }
