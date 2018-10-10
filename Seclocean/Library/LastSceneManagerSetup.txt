@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Anigie Animation.unity
+- path: Assets/Angie Animation.unity
   isLoaded: 1
   isActive: 1

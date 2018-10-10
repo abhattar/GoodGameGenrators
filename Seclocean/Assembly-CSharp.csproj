@@ -61,8 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Player.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
+    <Compile Include="Assets\Visual Assets\Angie\Player.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
