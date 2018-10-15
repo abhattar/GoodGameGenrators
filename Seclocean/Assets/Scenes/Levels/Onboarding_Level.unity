@@ -672,6 +672,11 @@ Prefab:
       propertyPath: m_Name
       value: Angie
       objectReference: {fileID: 0}
+    - target: {fileID: 50449803643976516, guid: e15091e10287b41e4ad4d96c2bf93423,
+        type: 2}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e15091e10287b41e4ad4d96c2bf93423, type: 2}
   m_IsPrefabAsset: 0
