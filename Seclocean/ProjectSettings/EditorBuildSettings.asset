@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Onboarding_Level.unity
     guid: 64b334af9a1254fee877784cd576a116
   - enabled: 1
-    path: Assets/Scenes/HomeWorld/HomeWorld.unity
+    path: Assets/Scenes/HomeWorld.unity
     guid: fbc6ae567cdf74ca5982c4a4fe39d330
   m_configObjects: {}
