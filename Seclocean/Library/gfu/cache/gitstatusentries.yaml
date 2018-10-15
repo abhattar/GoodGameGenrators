@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-14T18:36:23.835-07:00
-  initializedAtString: 2018-10-14T18:31:13.827-07:00
+  lastUpdatedAtString: 2018-10-14T18:50:31.021-07:00
+  initializedAtString: 2018-10-14T18:47:44.819-07:00
   entries:
   - path: Seclocean/Assembly-CSharp.csproj
     fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
@@ -30,6 +30,18 @@ MonoBehaviour:
   - path: Seclocean/Library/assetDatabase3
     fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/assetDatabase3
     projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Seclocean/Library/Collab/CollabSnapshot_ef1fea94-bcf1-4f24-b3dd-7ae8fa083127.txt
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/Collab/CollabSnapshot_ef1fea94-bcf1-4f24-b3dd-7ae8fa083127.txt
+    projectPath: Library/Collab/CollabSnapshot_ef1fea94-bcf1-4f24-b3dd-7ae8fa083127.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Seclocean/Library/EditorInstance.json
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
     originalPath: 
     status: 3
     staged: 0
@@ -51,291 +63,159 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/16/16dd7a7e5bd5e4449839b42460f9d938
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/16/16dd7a7e5bd5e4449839b42460f9d938
-    projectPath: Library/metadata/16/16dd7a7e5bd5e4449839b42460f9d938
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/16/16dd7a7e5bd5e4449839b42460f9d938.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/16/16dd7a7e5bd5e4449839b42460f9d938.info
-    projectPath: Library/metadata/16/16dd7a7e5bd5e4449839b42460f9d938.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/1e/1eced31bee5ba4dc9bcc2bd9eaab9aeb
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/1e/1eced31bee5ba4dc9bcc2bd9eaab9aeb
-    projectPath: Library/metadata/1e/1eced31bee5ba4dc9bcc2bd9eaab9aeb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/1e/1eced31bee5ba4dc9bcc2bd9eaab9aeb.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/1e/1eced31bee5ba4dc9bcc2bd9eaab9aeb.info
-    projectPath: Library/metadata/1e/1eced31bee5ba4dc9bcc2bd9eaab9aeb.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/24/24b6a455ec5de466f829f9e387069a8a
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/24/24b6a455ec5de466f829f9e387069a8a
-    projectPath: Library/metadata/24/24b6a455ec5de466f829f9e387069a8a
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/24/24b6a455ec5de466f829f9e387069a8a.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/24/24b6a455ec5de466f829f9e387069a8a.info
-    projectPath: Library/metadata/24/24b6a455ec5de466f829f9e387069a8a.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/32/32d3ad4e2f9fc4c5cb448cc78333d61d
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/32/32d3ad4e2f9fc4c5cb448cc78333d61d
-    projectPath: Library/metadata/32/32d3ad4e2f9fc4c5cb448cc78333d61d
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/32/32d3ad4e2f9fc4c5cb448cc78333d61d.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/32/32d3ad4e2f9fc4c5cb448cc78333d61d.info
-    projectPath: Library/metadata/32/32d3ad4e2f9fc4c5cb448cc78333d61d.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/39/39343159545564183a8851530214b0d6
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/39/39343159545564183a8851530214b0d6
-    projectPath: Library/metadata/39/39343159545564183a8851530214b0d6
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/39/39343159545564183a8851530214b0d6.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/39/39343159545564183a8851530214b0d6.info
-    projectPath: Library/metadata/39/39343159545564183a8851530214b0d6.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/41/41bb452f539f24c3b91d2602674328fd
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/41/41bb452f539f24c3b91d2602674328fd
-    projectPath: Library/metadata/41/41bb452f539f24c3b91d2602674328fd
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/41/41bb452f539f24c3b91d2602674328fd.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/41/41bb452f539f24c3b91d2602674328fd.info
-    projectPath: Library/metadata/41/41bb452f539f24c3b91d2602674328fd.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/51/5101c9b1a244a4b49a3ae2d1c5eff8d6
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/51/5101c9b1a244a4b49a3ae2d1c5eff8d6
-    projectPath: Library/metadata/51/5101c9b1a244a4b49a3ae2d1c5eff8d6
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/51/5101c9b1a244a4b49a3ae2d1c5eff8d6.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/51/5101c9b1a244a4b49a3ae2d1c5eff8d6.info
-    projectPath: Library/metadata/51/5101c9b1a244a4b49a3ae2d1c5eff8d6.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9
-    projectPath: Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9.info
-    projectPath: Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/5d/5dc8c94eae5ba463295262d12c7152b8
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/5d/5dc8c94eae5ba463295262d12c7152b8
-    projectPath: Library/metadata/5d/5dc8c94eae5ba463295262d12c7152b8
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/5d/5dc8c94eae5ba463295262d12c7152b8.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/5d/5dc8c94eae5ba463295262d12c7152b8.info
-    projectPath: Library/metadata/5d/5dc8c94eae5ba463295262d12c7152b8.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/68/687cdd996e863481a88148cef865a169
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/68/687cdd996e863481a88148cef865a169
-    projectPath: Library/metadata/68/687cdd996e863481a88148cef865a169
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/68/687cdd996e863481a88148cef865a169.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/68/687cdd996e863481a88148cef865a169.info
-    projectPath: Library/metadata/68/687cdd996e863481a88148cef865a169.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077
-    projectPath: Library/metadata/74/74fc49bd44dc646b9a0340e27e026077
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077.info
-    projectPath: Library/metadata/74/74fc49bd44dc646b9a0340e27e026077.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/81/810b4fb9e4ae14ab5a5652ed68cf09fe
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/81/810b4fb9e4ae14ab5a5652ed68cf09fe
-    projectPath: Library/metadata/81/810b4fb9e4ae14ab5a5652ed68cf09fe
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/81/810b4fb9e4ae14ab5a5652ed68cf09fe.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/81/810b4fb9e4ae14ab5a5652ed68cf09fe.info
-    projectPath: Library/metadata/81/810b4fb9e4ae14ab5a5652ed68cf09fe.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909
-    projectPath: Library/metadata/89/8987d8f52acf343f580c8e37f3336909
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909.info
-    projectPath: Library/metadata/89/8987d8f52acf343f580c8e37f3336909.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72
-    projectPath: Library/metadata/8e/8e974777e48ba460a873d616655aea72
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72.info
-    projectPath: Library/metadata/8e/8e974777e48ba460a873d616655aea72.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/92/926706df26b1f421b9fcdd5c9b7f0c0f
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/92/926706df26b1f421b9fcdd5c9b7f0c0f
-    projectPath: Library/metadata/92/926706df26b1f421b9fcdd5c9b7f0c0f
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/92/926706df26b1f421b9fcdd5c9b7f0c0f.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/92/926706df26b1f421b9fcdd5c9b7f0c0f.info
-    projectPath: Library/metadata/92/926706df26b1f421b9fcdd5c9b7f0c0f.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/a8/a88ab0d80c09e43a5a2e87a918e2cc5f
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/a8/a88ab0d80c09e43a5a2e87a918e2cc5f
-    projectPath: Library/metadata/a8/a88ab0d80c09e43a5a2e87a918e2cc5f
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/a8/a88ab0d80c09e43a5a2e87a918e2cc5f.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/a8/a88ab0d80c09e43a5a2e87a918e2cc5f.info
-    projectPath: Library/metadata/a8/a88ab0d80c09e43a5a2e87a918e2cc5f.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/b2/b222c07ae15604d429d0b7ca372c02e4.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/b2/b222c07ae15604d429d0b7ca372c02e4.info
-    projectPath: Library/metadata/b2/b222c07ae15604d429d0b7ca372c02e4.info
+  - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/b2/b25a990a396b64b75bd4202bf2c2621f
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/b2/b25a990a396b64b75bd4202bf2c2621f
-    projectPath: Library/metadata/b2/b25a990a396b64b75bd4202bf2c2621f
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/b2/b25a990a396b64b75bd4202bf2c2621f.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/b2/b25a990a396b64b75bd4202bf2c2621f.info
-    projectPath: Library/metadata/b2/b25a990a396b64b75bd4202bf2c2621f.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f
-    projectPath: Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f.info
-    projectPath: Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/b8/b80cc65e1693c4a7391cb638536abec2
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/b8/b80cc65e1693c4a7391cb638536abec2
-    projectPath: Library/metadata/b8/b80cc65e1693c4a7391cb638536abec2
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/b8/b80cc65e1693c4a7391cb638536abec2.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/b8/b80cc65e1693c4a7391cb638536abec2.info
-    projectPath: Library/metadata/b8/b80cc65e1693c4a7391cb638536abec2.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07.info
-    projectPath: Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07.info
+  - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/d7/d7c80d6c39c274b07bdf1de2f13c05b7
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/d7/d7c80d6c39c274b07bdf1de2f13c05b7
-    projectPath: Library/metadata/d7/d7c80d6c39c274b07bdf1de2f13c05b7
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/d7/d7c80d6c39c274b07bdf1de2f13c05b7.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/d7/d7c80d6c39c274b07bdf1de2f13c05b7.info
-    projectPath: Library/metadata/d7/d7c80d6c39c274b07bdf1de2f13c05b7.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/d9/d91f6d0f6448c4318ada58f07be36b5c
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/d9/d91f6d0f6448c4318ada58f07be36b5c
-    projectPath: Library/metadata/d9/d91f6d0f6448c4318ada58f07be36b5c
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/d9/d91f6d0f6448c4318ada58f07be36b5c.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/d9/d91f6d0f6448c4318ada58f07be36b5c.info
-    projectPath: Library/metadata/d9/d91f6d0f6448c4318ada58f07be36b5c.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423.info
-    projectPath: Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423.info
+  - path: Seclocean/Temp/__Backupscenes/0.backup
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c
-    projectPath: Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c
+  - path: Seclocean/Temp/tempFile.res
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/tempFile.res
+    projectPath: Temp/tempFile.res
     originalPath: 
     status: 5
     staged: 0
-  - path: Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c.info
-    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c.info
-    projectPath: Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c.info
+  - path: Seclocean/Temp/tempFile.resG
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/tempFile.resG
+    projectPath: Temp/tempFile.resG
     originalPath: 
     status: 5
     staged: 0
   - path: Seclocean/Temp/UnityTempFile-1fe0ab01bceea4b34b6e2f811958e28d
     fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-1fe0ab01bceea4b34b6e2f811958e28d
     projectPath: Temp/UnityTempFile-1fe0ab01bceea4b34b6e2f811958e28d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-248cd184b3d8e4e8f87cefb04f8ed054
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-248cd184b3d8e4e8f87cefb04f8ed054
+    projectPath: Temp/UnityTempFile-248cd184b3d8e4e8f87cefb04f8ed054
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-24b7a1cda8e0d4b1f9b205f72ebdb844
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-24b7a1cda8e0d4b1f9b205f72ebdb844
+    projectPath: Temp/UnityTempFile-24b7a1cda8e0d4b1f9b205f72ebdb844
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-37f7f6af10ce444db90d98655076bea3
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-37f7f6af10ce444db90d98655076bea3
+    projectPath: Temp/UnityTempFile-37f7f6af10ce444db90d98655076bea3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-3bdb1fa28a41641539668f86d4bc33dc
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-3bdb1fa28a41641539668f86d4bc33dc
+    projectPath: Temp/UnityTempFile-3bdb1fa28a41641539668f86d4bc33dc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-600b56f07d8924b108a74e4c6fff5690
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-600b56f07d8924b108a74e4c6fff5690
+    projectPath: Temp/UnityTempFile-600b56f07d8924b108a74e4c6fff5690
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-6045c610d993f4058ae2ca731843f9de
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-6045c610d993f4058ae2ca731843f9de
+    projectPath: Temp/UnityTempFile-6045c610d993f4058ae2ca731843f9de
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-7253fbda298c74d4bbeb4cbf09387a40
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-7253fbda298c74d4bbeb4cbf09387a40
+    projectPath: Temp/UnityTempFile-7253fbda298c74d4bbeb4cbf09387a40
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-a5668c93847c84011842f560eb9622f5
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a5668c93847c84011842f560eb9622f5
+    projectPath: Temp/UnityTempFile-a5668c93847c84011842f560eb9622f5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-a666ac6dca7364076ade05c69692a8aa
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a666ac6dca7364076ade05c69692a8aa
+    projectPath: Temp/UnityTempFile-a666ac6dca7364076ade05c69692a8aa
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-bb1102f7e744d4aa3a7def4064e7eeb5
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-bb1102f7e744d4aa3a7def4064e7eeb5
+    projectPath: Temp/UnityTempFile-bb1102f7e744d4aa3a7def4064e7eeb5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-c9ead95da094d4f2d85a449d74951e49
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-c9ead95da094d4f2d85a449d74951e49
+    projectPath: Temp/UnityTempFile-c9ead95da094d4f2d85a449d74951e49
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-d0df3619fef704c75abeaa8cb4770dff
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-d0df3619fef704c75abeaa8cb4770dff
+    projectPath: Temp/UnityTempFile-d0df3619fef704c75abeaa8cb4770dff
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-d47c890da70c54883a67babbc74a01ff
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-d47c890da70c54883a67babbc74a01ff
+    projectPath: Temp/UnityTempFile-d47c890da70c54883a67babbc74a01ff
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-dd46f0ea892444bcaa8b46f1d95fb0db
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-dd46f0ea892444bcaa8b46f1d95fb0db
+    projectPath: Temp/UnityTempFile-dd46f0ea892444bcaa8b46f1d95fb0db
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-de2fd251fb1f946dd9ef579b65638e33
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-de2fd251fb1f946dd9ef579b65638e33
+    projectPath: Temp/UnityTempFile-de2fd251fb1f946dd9ef579b65638e33
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-f04e12a34137c4fc19292d85337c625c
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f04e12a34137c4fc19292d85337c625c
+    projectPath: Temp/UnityTempFile-f04e12a34137c4fc19292d85337c625c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-f1f4ea2142b7e4e1c93df2f89f720ec6
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f1f4ea2142b7e4e1c93df2f89f720ec6
+    projectPath: Temp/UnityTempFile-f1f4ea2142b7e4e1c93df2f89f720ec6
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-f3a9d9a8da9db4a30ba88bdffbb2f489
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f3a9d9a8da9db4a30ba88bdffbb2f489
+    projectPath: Temp/UnityTempFile-f3a9d9a8da9db4a30ba88bdffbb2f489
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-f58cbb18a06b34fe0acf8726b520c800
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f58cbb18a06b34fe0acf8726b520c800
+    projectPath: Temp/UnityTempFile-f58cbb18a06b34fe0acf8726b520c800
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-fbc86da6ffd084c2a9146829789386c3
+    fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-fbc86da6ffd084c2a9146829789386c3
+    projectPath: Temp/UnityTempFile-fbc86da6ffd084c2a9146829789386c3
     originalPath: 
     status: 1
     staged: 0
