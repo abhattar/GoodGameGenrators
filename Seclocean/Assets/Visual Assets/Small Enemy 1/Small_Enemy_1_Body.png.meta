@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: de9032339da874398ab34c1591944665
+=======
 guid: 08d592fab3aac480ab83c5b28df000dc
+>>>>>>> gavin
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -75,7 +79,11 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD
+    spriteID: ab371560d04e44ff38035812775c02e1
+=======
     spriteID: ddd4d4d33cbc04ed3a29f05bc006dfe7
+>>>>>>> gavin
     vertices: []
     indices: 
     edges: []
