@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/homeFlip.unity
+- path: Assets/Scenes/PlaneChangeTestScene.unity
   isLoaded: 1
   isActive: 1

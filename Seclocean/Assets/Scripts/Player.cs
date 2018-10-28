@@ -23,11 +23,21 @@ public class Player : MonoBehaviour {
 
         transform.Translate(new Vector3(speed, speed2));
 
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             GetComponent<Animator>().SetTrigger("Bite");
         }
+    }
 
+    void OnTriggerEnter2D(Collider2D col)
+    {
+            if(col.isTrigger){
+                
+                if (GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("Angie Bite")) { 
+				    Destroy(col.gameObject);
+                }
+            
+            }	   
     }
 
 }

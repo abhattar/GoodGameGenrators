@@ -1,0 +1,2 @@
+/Users/warehouse/Library/Unity/cache/packages/packages.unity.com/com.unity.postprocessing@2.0.16-preview
+/Users/warehouse/Library/Unity/cache/packages/packages.unity.com/com.unity.render-pipelines.core@3.0.0-preview
