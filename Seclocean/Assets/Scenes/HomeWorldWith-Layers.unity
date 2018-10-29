@@ -418,6 +418,11 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 11
       objectReference: {fileID: 0}
+    - target: {fileID: 212995925940763162, guid: 648017c0a048c4239825e39c6261d4a3,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: 11
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 648017c0a048c4239825e39c6261d4a3, type: 2}
   m_IsPrefabAsset: 0
@@ -1134,7 +1139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!81 &1607770926
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1712,11 +1717,6 @@ Prefab:
     - target: {fileID: 4786506724091294, guid: f97af83a4af1245e39b99f334dd63d8c, type: 2}
       propertyPath: m_RootOrder
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 20782670218846348, guid: f97af83a4af1245e39b99f334dd63d8c,
-        type: 2}
-      propertyPath: m_TargetDisplay
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1900902016647642, guid: f97af83a4af1245e39b99f334dd63d8c, type: 2}
       propertyPath: m_IsActive

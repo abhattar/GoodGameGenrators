@@ -16,6 +16,7 @@ public class Player : MonoBehaviour {
     void Start () {
         animator = GetComponent<Animator>();
         initSpeedValue = speedValue;
+   
     }
     
     // Update is called once per frame
@@ -75,13 +76,10 @@ public class Player : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if(sideCamera){
-                overheadCamera.enabled=true;
+                overheadCamera.enabled= true;
                 sideCamera.enabled=false;
             }
-            else{
-                overheadCamera.enabled=false;
-                sideCamera.enabled=true;
-            }
+      
         }
 
    
