@@ -12,362 +12,111 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-29T21:33:03.129-07:00
+  lastUpdatedAtString: 2018-10-29T21:46:50.858-07:00
   initializedAtString: 2018-10-28T15:20:24.959-07:00
   entries:
-  - path: Seclocean/.DS_Store
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/.DS_Store
-    projectPath: .DS_Store
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Angie/Angie Top/Angie Top Sprite.controller
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Angie/Angie Top/Angie Top Sprite.controller
-    projectPath: Assets/Visual Assets/Angie/Angie Top/Angie Top Sprite.controller
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2.meta
-    projectPath: Assets/Visual Assets/Small Enemy 2.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/Electro.png
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/Electro.png
-    projectPath: Assets/Visual Assets/Small Enemy 2/Electro.png
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/Electro.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/Electro.png.meta
-    projectPath: Assets/Visual Assets/Small Enemy 2/Electro.png.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/idle.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/idle.anim
-    projectPath: Assets/Visual Assets/Small Enemy 2/idle.anim
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/idle.anim.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/idle.anim.meta
-    projectPath: Assets/Visual Assets/Small Enemy 2/idle.anim.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/SheildOn.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/SheildOn.anim
-    projectPath: Assets/Visual Assets/Small Enemy 2/SheildOn.anim
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/SheildOn.anim.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/SheildOn.anim.meta
-    projectPath: Assets/Visual Assets/Small Enemy 2/SheildOn.anim.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/ShieldOff.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/ShieldOff.anim
-    projectPath: Assets/Visual Assets/Small Enemy 2/ShieldOff.anim
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/ShieldOff.anim.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/ShieldOff.anim.meta
-    projectPath: Assets/Visual Assets/Small Enemy 2/ShieldOff.anim.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/Small_Enemy_2_Full.png
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/Small_Enemy_2_Full.png
-    projectPath: Assets/Visual Assets/Small Enemy 2/Small_Enemy_2_Full.png
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/Small_Enemy_2_Full.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/Small_Enemy_2_Full.png.meta
-    projectPath: Assets/Visual Assets/Small Enemy 2/Small_Enemy_2_Full.png.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/Squid.controller
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/Squid.controller
-    projectPath: Assets/Visual Assets/Small Enemy 2/Squid.controller
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Small Enemy 2/Squid.controller.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Small Enemy 2/Squid.controller.meta
-    projectPath: Assets/Visual Assets/Small Enemy 2/Squid.controller.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid.meta
-    projectPath: Assets/Visual Assets/Squid.meta
+      Assets/Squid/Side/shield.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side.meta
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/noField.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side.meta
-    projectPath: Assets/Visual Assets/Squid/Side.meta
+      Assets/Squid/Side/shield/noField.anim
+    projectPath: Assets/Visual Assets/Squid/Side/shield/noField.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.controller
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/noField.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg1.controller
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.controller
+      Assets/Squid/Side/shield/noField.anim.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield/noField.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.controller.meta
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg1.controller.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.controller.meta
+      Assets/Squid/Side/shield/sheildShrinking.anim
+    projectPath: Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.png
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg1.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.png
+      Assets/Squid/Side/shield/sheildShrinking.anim.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.png.meta
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/shield scene.unity
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg1.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg1.png.meta
+      Assets/Squid/Side/shield/shield scene.unity
+    projectPath: Assets/Visual Assets/Squid/Side/shield/shield scene.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg2.png
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/shield scene.unity.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg2.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg2.png
+      Assets/Squid/Side/shield/shield scene.unity.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield/shield scene.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg2.png.meta
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg2.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg2.png.meta
+      Assets/Squid/Side/shield/Squid ForceField Anim.anim
+    projectPath: Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg3.png
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg3.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg3.png
+      Assets/Squid/Side/shield/Squid ForceField Anim.anim.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg3.png.meta
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg3.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg3.png.meta
+      Assets/Squid/Side/shield/Squid_ForceField.controller
+    projectPath: Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg4.png
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg4.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg4.png
+      Assets/Squid/Side/shield/Squid_ForceField.controller.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg4.png.meta
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_BackLeg4.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_BackLeg4.png.meta
+      Assets/Squid/Side/shield/Squid_ForceField.png
+    projectPath: Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Body.png
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Body.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Body.png
+      Assets/Squid/Side/shield/Squid_ForceField.png.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Body.png.meta
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/yesField.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Body.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Body.png.meta
+      Assets/Squid/Side/shield/yesField.anim
+    projectPath: Assets/Visual Assets/Squid/Side/shield/yesField.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Alive.png
+  - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/yesField.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Eyes_Alive.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Alive.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Alive.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Eyes_Alive.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Alive.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Dead.png
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Eyes_Dead.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Dead.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Dead.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Eyes_Dead.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Eyes_Dead.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg1.png
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg1.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg1.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg1.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg1.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg1.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg2.png
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg2.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg2.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg2.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg2.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg2.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg3.png
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg3.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg3.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg3.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg3.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg3.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg4.png
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg4.png
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg4.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Side_Squid_Leg4.png.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Side_Squid_Leg4.png.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Side_Squid_Leg4.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Dying.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Dying.anim
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Dying.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Dying.anim.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Dying.anim.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Dying.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Side Anim.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Side Anim.anim
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Side Anim.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Side Anim.anim.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Side Anim.anim.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Side Anim.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Side Die.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Side Die.anim
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Side Die.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Side Die.anim.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Side Die.anim.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Side Die.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/squid side scene.unity
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/squid side scene.unity
-    projectPath: Assets/Visual Assets/Squid/Side/squid side scene.unity
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/squid side scene.unity.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/squid side scene.unity.meta
-    projectPath: Assets/Visual Assets/Squid/Side/squid side scene.unity.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Side.controller
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Side.controller
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Side.controller
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid Side.controller.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Side/Squid Side.controller.meta
-    projectPath: Assets/Visual Assets/Squid/Side/Squid Side.controller.meta
+      Assets/Squid/Side/shield/yesField.anim.meta
+    projectPath: Assets/Visual Assets/Squid/Side/shield/yesField.anim.meta
     originalPath: 
     status: 1
     staged: 0
@@ -376,14 +125,14 @@ MonoBehaviour:
       Assets/Squid/Side/Squid_ForceField.png
     projectPath: Assets/Visual Assets/Squid/Side/Squid_ForceField.png
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Seclocean/Assets/Visual Assets/Squid/Side/Squid_ForceField.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
       Assets/Squid/Side/Squid_ForceField.png.meta
     projectPath: Assets/Visual Assets/Squid/Side/Squid_ForceField.png.meta
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Seclocean/Library/assetDatabase3
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
@@ -421,339 +170,105 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/gfu/cache/gituser.yaml
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Seclocean/Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/07/07f05a801d4394d438867ef936a07352
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/07/07f05a801d4394d438867ef936a07352
-    projectPath: Library/metadata/07/07f05a801d4394d438867ef936a07352
+  - path: Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc
+    projectPath: Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/07/07f05a801d4394d438867ef936a07352.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/07/07f05a801d4394d438867ef936a07352.info
-    projectPath: Library/metadata/07/07f05a801d4394d438867ef936a07352.info
+  - path: Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc.info
+    projectPath: Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/1a/1afc73791679543459976f83113f15c8
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1a/1afc73791679543459976f83113f15c8
-    projectPath: Library/metadata/1a/1afc73791679543459976f83113f15c8
+  - path: Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843
+    projectPath: Library/metadata/38/3866f6ea1f11a43788d05127d99ac843
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/1a/1afc73791679543459976f83113f15c8.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1a/1afc73791679543459976f83113f15c8.info
-    projectPath: Library/metadata/1a/1afc73791679543459976f83113f15c8.info
+  - path: Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843.info
+    projectPath: Library/metadata/38/3866f6ea1f11a43788d05127d99ac843.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/39/39ddb78e4fa6343c5ac10055e51d9ca3
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/39/39ddb78e4fa6343c5ac10055e51d9ca3
-    projectPath: Library/metadata/39/39ddb78e4fa6343c5ac10055e51d9ca3
+  - path: Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463
+    projectPath: Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/39/39ddb78e4fa6343c5ac10055e51d9ca3.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/39/39ddb78e4fa6343c5ac10055e51d9ca3.info
-    projectPath: Library/metadata/39/39ddb78e4fa6343c5ac10055e51d9ca3.info
+  - path: Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463.info
+    projectPath: Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463.info
     originalPath: 
     status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/42/429a6c114cb1d4586879f757a30738a2
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/42/429a6c114cb1d4586879f757a30738a2
-    projectPath: Library/metadata/42/429a6c114cb1d4586879f757a30738a2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/42/429a6c114cb1d4586879f757a30738a2.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/42/429a6c114cb1d4586879f757a30738a2.info
-    projectPath: Library/metadata/42/429a6c114cb1d4586879f757a30738a2.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/43/43a6ec93cf6834b0a972720195a9c37a
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/43/43a6ec93cf6834b0a972720195a9c37a
-    projectPath: Library/metadata/43/43a6ec93cf6834b0a972720195a9c37a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/43/43a6ec93cf6834b0a972720195a9c37a.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/43/43a6ec93cf6834b0a972720195a9c37a.info
-    projectPath: Library/metadata/43/43a6ec93cf6834b0a972720195a9c37a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/55/55a1f945f1f6543d8860c99fa1c06de1
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/55/55a1f945f1f6543d8860c99fa1c06de1
-    projectPath: Library/metadata/55/55a1f945f1f6543d8860c99fa1c06de1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/55/55a1f945f1f6543d8860c99fa1c06de1.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/55/55a1f945f1f6543d8860c99fa1c06de1.info
-    projectPath: Library/metadata/55/55a1f945f1f6543d8860c99fa1c06de1.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/5a/5a49489debaa549f1b23bb1d69e489ce
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5a/5a49489debaa549f1b23bb1d69e489ce
-    projectPath: Library/metadata/5a/5a49489debaa549f1b23bb1d69e489ce
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/5a/5a49489debaa549f1b23bb1d69e489ce.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5a/5a49489debaa549f1b23bb1d69e489ce.info
-    projectPath: Library/metadata/5a/5a49489debaa549f1b23bb1d69e489ce.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/5a/5ac6dff66f4ff41a5b2351974c19255a
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5a/5ac6dff66f4ff41a5b2351974c19255a
-    projectPath: Library/metadata/5a/5ac6dff66f4ff41a5b2351974c19255a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/5a/5ac6dff66f4ff41a5b2351974c19255a.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5a/5ac6dff66f4ff41a5b2351974c19255a.info
-    projectPath: Library/metadata/5a/5ac6dff66f4ff41a5b2351974c19255a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/5c/5c1bf8ba4b7d84682b1df7831a25d779
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5c/5c1bf8ba4b7d84682b1df7831a25d779
-    projectPath: Library/metadata/5c/5c1bf8ba4b7d84682b1df7831a25d779
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/5c/5c1bf8ba4b7d84682b1df7831a25d779.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5c/5c1bf8ba4b7d84682b1df7831a25d779.info
-    projectPath: Library/metadata/5c/5c1bf8ba4b7d84682b1df7831a25d779.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9
-    projectPath: Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9.info
-    projectPath: Library/metadata/5d/5d3dd24bb46d24d3081f5e05cb2499c9.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/71/7167489d158444740b5549597a1f2404
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/71/7167489d158444740b5549597a1f2404
-    projectPath: Library/metadata/71/7167489d158444740b5549597a1f2404
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/71/7167489d158444740b5549597a1f2404.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/71/7167489d158444740b5549597a1f2404.info
-    projectPath: Library/metadata/71/7167489d158444740b5549597a1f2404.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077
-    projectPath: Library/metadata/74/74fc49bd44dc646b9a0340e27e026077
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/74/74fc49bd44dc646b9a0340e27e026077.info
-    projectPath: Library/metadata/74/74fc49bd44dc646b9a0340e27e026077.info
-    originalPath: 
-    status: 5
     staged: 0
   - path: Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774
     projectPath: Library/metadata/83/83799c01621a4422c892a1fda8158774
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774.info
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774.info
     projectPath: Library/metadata/83/83799c01621a4422c892a1fda8158774.info
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909
-    projectPath: Library/metadata/89/8987d8f52acf343f580c8e37f3336909
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/89/8987d8f52acf343f580c8e37f3336909.info
-    projectPath: Library/metadata/89/8987d8f52acf343f580c8e37f3336909.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/8c/8cefa370e2b4840278a9d58684f1d592
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8c/8cefa370e2b4840278a9d58684f1d592
-    projectPath: Library/metadata/8c/8cefa370e2b4840278a9d58684f1d592
+  - path: Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319
+    projectPath: Library/metadata/88/88721af7e618b4369b58a55ca8146319
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/8c/8cefa370e2b4840278a9d58684f1d592.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8c/8cefa370e2b4840278a9d58684f1d592.info
-    projectPath: Library/metadata/8c/8cefa370e2b4840278a9d58684f1d592.info
+  - path: Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319.info
+    projectPath: Library/metadata/88/88721af7e618b4369b58a55ca8146319.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72
-    projectPath: Library/metadata/8e/8e974777e48ba460a873d616655aea72
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8e/8e974777e48ba460a873d616655aea72.info
-    projectPath: Library/metadata/8e/8e974777e48ba460a873d616655aea72.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/8f/8ff8167fd4b79460e9cb6688d42eb9fc
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8f/8ff8167fd4b79460e9cb6688d42eb9fc
-    projectPath: Library/metadata/8f/8ff8167fd4b79460e9cb6688d42eb9fc
+  - path: Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6
+    projectPath: Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/8f/8ff8167fd4b79460e9cb6688d42eb9fc.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8f/8ff8167fd4b79460e9cb6688d42eb9fc.info
-    projectPath: Library/metadata/8f/8ff8167fd4b79460e9cb6688d42eb9fc.info
+  - path: Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6.info
+    projectPath: Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/90/90aa4f83ad3734b349b5c6bd59fd0913
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/90/90aa4f83ad3734b349b5c6bd59fd0913
-    projectPath: Library/metadata/90/90aa4f83ad3734b349b5c6bd59fd0913
+  - path: Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09
+    projectPath: Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/90/90aa4f83ad3734b349b5c6bd59fd0913.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/90/90aa4f83ad3734b349b5c6bd59fd0913.info
-    projectPath: Library/metadata/90/90aa4f83ad3734b349b5c6bd59fd0913.info
+  - path: Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09.info
+    projectPath: Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/93/930c2a45f4bf144e497bf6d606ab07c4
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/93/930c2a45f4bf144e497bf6d606ab07c4
-    projectPath: Library/metadata/93/930c2a45f4bf144e497bf6d606ab07c4
+  - path: Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce
+    projectPath: Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/93/930c2a45f4bf144e497bf6d606ab07c4.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/93/930c2a45f4bf144e497bf6d606ab07c4.info
-    projectPath: Library/metadata/93/930c2a45f4bf144e497bf6d606ab07c4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f
-    projectPath: Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f.info
-    projectPath: Library/metadata/b7/b712d7581e7cc4dc5a1b9b5dab901d0f.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/c8/c85349bf3db464309a278f49f271919d
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c85349bf3db464309a278f49f271919d
-    projectPath: Library/metadata/c8/c85349bf3db464309a278f49f271919d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/c8/c85349bf3db464309a278f49f271919d.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c85349bf3db464309a278f49f271919d.info
-    projectPath: Library/metadata/c8/c85349bf3db464309a278f49f271919d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/d6/d611c18871b304b7785d3cbce48d4699
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d6/d611c18871b304b7785d3cbce48d4699
-    projectPath: Library/metadata/d6/d611c18871b304b7785d3cbce48d4699
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/d6/d611c18871b304b7785d3cbce48d4699.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d6/d611c18871b304b7785d3cbce48d4699.info
-    projectPath: Library/metadata/d6/d611c18871b304b7785d3cbce48d4699.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/e4/e48609fa5c50c4b61b693a5854f46c99
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e4/e48609fa5c50c4b61b693a5854f46c99
-    projectPath: Library/metadata/e4/e48609fa5c50c4b61b693a5854f46c99
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/e4/e48609fa5c50c4b61b693a5854f46c99.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e4/e48609fa5c50c4b61b693a5854f46c99.info
-    projectPath: Library/metadata/e4/e48609fa5c50c4b61b693a5854f46c99.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/e4/e4d6c8f2c63104ac599755a4eb936ca3
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e4/e4d6c8f2c63104ac599755a4eb936ca3
-    projectPath: Library/metadata/e4/e4d6c8f2c63104ac599755a4eb936ca3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/e4/e4d6c8f2c63104ac599755a4eb936ca3.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e4/e4d6c8f2c63104ac599755a4eb936ca3.info
-    projectPath: Library/metadata/e4/e4d6c8f2c63104ac599755a4eb936ca3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/e8/e873013c699344b0da22fb35f5311ed3
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e8/e873013c699344b0da22fb35f5311ed3
-    projectPath: Library/metadata/e8/e873013c699344b0da22fb35f5311ed3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/e8/e873013c699344b0da22fb35f5311ed3.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e8/e873013c699344b0da22fb35f5311ed3.info
-    projectPath: Library/metadata/e8/e873013c699344b0da22fb35f5311ed3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c
-    projectPath: Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c.info
-    projectPath: Library/metadata/f3/f3fee6c4c095044ed9c1160222d70c1c.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Seclocean/Library/metadata/f5/f5a8161c28d514b3ea7301ec38d9424d
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/f5/f5a8161c28d514b3ea7301ec38d9424d
-    projectPath: Library/metadata/f5/f5a8161c28d514b3ea7301ec38d9424d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/f5/f5a8161c28d514b3ea7301ec38d9424d.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/f5/f5a8161c28d514b3ea7301ec38d9424d.info
-    projectPath: Library/metadata/f5/f5a8161c28d514b3ea7301ec38d9424d.info
+  - path: Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce.info
+    projectPath: Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce.info
     originalPath: 
     status: 1
     staged: 0
@@ -768,4 +283,10 @@ MonoBehaviour:
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     status: 3
+    staged: 0
+  - path: Seclocean/Temp/UnityTempFile-cbfa604cf4aa3462ca529b6274d720a6
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-cbfa604cf4aa3462ca529b6274d720a6
+    projectPath: Temp/UnityTempFile-cbfa604cf4aa3462ca529b6274d720a6
+    originalPath: 
+    status: 1
     staged: 0
