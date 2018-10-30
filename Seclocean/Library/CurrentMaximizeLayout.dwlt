@@ -20,10 +20,10 @@ MonoBehaviour:
     y: 30
     width: 950
     height: 752
-  m_MinSize: {x: 681, y: 492}
+  m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 7610
+  controlID: 18461
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -32,77 +32,77 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Scene
-    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 465
+    x: 519
     y: 94
-    width: 467
-    height: 435
+    width: 432
+    height: 436
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_SceneLighting: 1
-  lastFramingTime: 4440.776538014412
-  m_2DMode: 1
-  m_isRotationLocked: 0
-  m_AudioPlay: 0
-  m_Position:
-    m_Target: {x: 21.056652, y: 80.7993, z: -6.695764}
-    speed: 2
-    m_Value: {x: 21.056652, y: 80.7993, z: -6.695764}
-  m_RenderMode: 0
-  m_CameraMode:
-    drawMode: 0
-    name: Shaded
-    section: Shading Mode
-  m_ValidateTrueMetals: 0
-  m_SceneViewState:
-    showFog: 1
-    showMaterialUpdate: 0
-    showSkybox: 1
-    showFlares: 1
-    showImageEffects: 1
-    showParticleSystems: 1
-  grid:
-    xGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    yGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    zGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
-  m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
-    speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
-  m_Size:
-    m_Target: 257.1192
-    speed: 2
-    m_Value: 257.1192
-  m_Ortho:
-    m_Target: 1
-    speed: 2
-    m_Value: 1
-  m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-  m_LastSceneViewOrtho: 0
-  m_ReplacementShader: {fileID: 0}
-  m_ReplacementString: 
-  m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 0
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -108
+    m_HBaseRangeMax: 108
+    m_VBaseRangeMin: -60.75
+    m_VBaseRangeMax: 60.75
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 432
+      height: 419
+    m_Scale: {x: 2, y: 2}
+    m_Translation: {x: 216, y: 209.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -108
+      y: -104.75
+      width: 216
+      height: 209.5
+    m_MinimalGUI: 1
+  m_defaultScale: 2
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 864, y: 872}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -123,10 +123,10 @@ MonoBehaviour:
     y: 0
     width: 673
     height: 752
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 7611
+  controlID: 18462
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,11 +146,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 673
-    height: 456
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+    height: 457
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 7612
+  controlID: 18463
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,10 +167,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 202
-    height: 456
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 237
+    height: 457
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -196,16 +196,16 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 261
+    x: 280
     y: 94
-    width: 200
-    height: 435
+    width: 235
+    height: 436
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2c4c0000
-    m_LastClickedID: 19500
-    m_ExpandedIDs: 2afcfaffaafcfaff061bfbff9cfafdff5421fefff0d6feffe4faffff2afbffff0000000092340000a63a0000de3a0000c83e0000063f0000fe4a00003e4b0000384c0000484c0000684c0000824c0000
+    scrollPos: {x: 0, y: 909}
+    m_SelectedIDs: fe4f0000
+    m_LastClickedID: 20478
+    m_ExpandedIDs: 9637e7ffa037e7ff7291e7ff9487e8ff0441e9ff763deaff2662eaffbccaedff1ef2f1ff1e65f4ff0853feff7af0ffff7cf3ffffd0fbffff00000000c6350000fa350000543a0000743a0000e04f0000ea4f00000c5000001c500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -243,20 +243,20 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 202
+    x: 237
     y: 0
-    width: 471
-    height: 456
+    width: 436
+    height: 457
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
-  - {fileID: 8}
   - {fileID: 2}
+  - {fileID: 8}
   - {fileID: 9}
   - {fileID: 10}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -265,77 +265,77 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Game
-    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 204
-    y: 19
-    width: 467
-    height: 435
+    x: 519
+    y: 94
+    width: 432
+    height: 436
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_MaximizeOnPlay: 0
-  m_Gizmos: 0
-  m_Stats: 0
-  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
-  m_TargetDisplay: 0
-  m_ZoomArea:
-    m_HRangeLocked: 0
-    m_VRangeLocked: 0
-    hZoomLockedByDefault: 0
-    vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -116.75
-    m_HBaseRangeMax: 116.75
-    m_VBaseRangeMin: -65.75
-    m_VBaseRangeMax: 65.75
-    m_HAllowExceedBaseRangeMin: 1
-    m_HAllowExceedBaseRangeMax: 1
-    m_VAllowExceedBaseRangeMin: 1
-    m_VAllowExceedBaseRangeMax: 1
-    m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
-    m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
-    m_EnableSliderZoomHorizontal: 0
-    m_EnableSliderZoomVertical: 0
-    m_UniformScale: 1
-    m_UpDirection: 1
-    m_DrawArea:
-      serializedVersion: 2
-      x: 0
-      y: 17
-      width: 467
-      height: 418
-    m_Scale: {x: 2, y: 2}
-    m_Translation: {x: 233.5, y: 209}
-    m_MarginLeft: 0
-    m_MarginRight: 0
-    m_MarginTop: 0
-    m_MarginBottom: 0
-    m_LastShownAreaInsideMargins:
-      serializedVersion: 2
-      x: -116.75
-      y: -104.5
-      width: 233.5
-      height: 209
-    m_MinimalGUI: 1
-  m_defaultScale: 2
-  m_TargetTexture: {fileID: 0}
-  m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 934, y: 870}
-  m_ClearInEditMode: 1
-  m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000100000100
-  m_XRRenderMode: 0
+  m_SceneLighting: 1
+  lastFramingTime: 99983.68952894211
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: -64.93878, y: -286.6477, z: -1.4299632}
+    speed: 2
+    m_Value: {x: -64.93878, y: -286.6477, z: -1.4299632}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 7.354688
+    speed: 2
+    m_Value: 7.354688
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -356,10 +356,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 475
+    x: 500
     y: 94
-    width: 467
-    height: 435
+    width: 432
+    height: 436
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &10
 MonoBehaviour:
@@ -381,40 +381,23 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 475
+    x: 519
     y: 94
-    width: 467
-    height: 435
+    width: 432
+    height: 436
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ViewTransforms:
     m_KeySerializationHelper:
     - {fileID: 1107641241153780580, guid: 16dd7a7e5bd5e4449839b42460f9d938, type: 2}
-    - {fileID: 1107526753961341724, guid: db7c46a270183481e89e4d4ef7421b23, type: 2}
     m_ValueSerializationHelper:
-    - e00: 0.17870979
+    - e00: 0.85465765
       e01: 0
       e02: 0
-      e03: 13.999117
+      e03: -205.09537
       e10: 0
-      e11: 0.17870979
+      e11: 0.85465765
       e12: 0
-      e13: 223.83762
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    - e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
+      e13: 230.78802
       e20: 0
       e21: 0
       e22: 1
@@ -456,9 +439,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 456
+    y: 457
     width: 673
-    height: 296
+    height: 295
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 12}
@@ -487,10 +470,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 261
-    y: 550
+    x: 280
+    y: 551
     width: 671
-    height: 275
+    height: 274
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -504,20 +487,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Visual Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Visual Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: ca2d0000
-    m_LastClickedID: 11722
-    m_ExpandedIDs: 00000000e8280000ca2d0000fa2d0000302e0000d22e0000082f0000a42f00001030000028310000ce330000583500005a3500005c350000
+    m_SelectedIDs: ba2d0000
+    m_LastClickedID: 11706
+    m_ExpandedIDs: 00000000ea280000862d0000ba2d0000f02d00009e2e0000d42e0000782f0000ea2f000002310000543500005635000058350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -545,7 +528,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e8280000ca2d0000fa2d0000302e0000d22e0000082f0000a42f00001030000028310000ce330000583500005a3500005c350000
+    m_ExpandedIDs: 00000000ea280000862d0000ba2d0000f02d00009e2e0000d42e0000782f0000ea2f000002310000543500005635000058350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -570,10 +553,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 2c4c0000
-    m_LastClickedInstanceID: 19500
+    m_SelectedInstanceIDs: fe4f0000
+    m_LastClickedInstanceID: 20478
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300000a3200000a27000000000000b42f0000864b0000
+    m_ExpandedInstanceIDs: c62300000a3200000a270000b42f000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -620,10 +603,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 490
+    x: 261
     y: 550
     width: 671
-    height: 276
+    height: 275
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &14
 MonoBehaviour:
@@ -671,7 +654,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 936
+    x: 955
     y: 94
     width: 275
     height: 731
@@ -773,6 +756,16 @@ MonoBehaviour:
         checkState: 0
       - path: gavin
         label: gavin
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master-gavin-merge
+        label: master-gavin-merge
         level: 1
         isFolder: 0
         isContainer: 0
@@ -925,10 +918,10 @@ MonoBehaviour:
     disableDelete: 1
     disableCreate: 1
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2018-10-28T14:44:40.809-07:00
+      updatedTimeString: 2018-10-29T02:17:53.338-07:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2018-10-28T14:19:34.690-07:00
+      updatedTimeString: 2018-10-28T21:52:38.220-07:00
       cacheType: 1
     currentBranch:
       name: master
@@ -946,6 +939,8 @@ MonoBehaviour:
       tracking: origin/master
     - name: gavin
       tracking: origin/gavin
+    - name: master-gavin-merge
+      tracking: 
     - name: Prototype1
       tracking: origin/Prototype1
     remoteBranches:
@@ -960,7 +955,7 @@ MonoBehaviour:
     - name: origin/Prototype1
       tracking: '[None]'
   changesView:
-    currentBranchHasUpdate: 0
+    currentBranchHasUpdate: 1
     currentStatusEntriesHasUpdate: 1
     currentLocksHasUpdate: 1
     commitBody: Update
@@ -974,18 +969,100 @@ MonoBehaviour:
       folders:
         keys:
         - Seclocean
+        - Seclocean/Assets
+        - Seclocean/Assets/Scenes
+        - Seclocean/Assets/Scenes/Levels
+        - Seclocean/Assets/Scripts
         - Seclocean/Library
         - Seclocean/Library/Collab
         - Seclocean/Library/gfu
         - Seclocean/Library/gfu/cache
         - Seclocean/Library/metadata
+        - Seclocean/Library/metadata/62
+        - Seclocean/Library/metadata/69
         - Seclocean/Library/metadata/c8
+        - Seclocean/Library/metadata/e7
+        - Seclocean/Library/metadata/ed
+        - Seclocean/Library/metadata/f2
         - Seclocean/Library/ScriptAssemblies
         - Seclocean/Temp
+        - Seclocean/Temp/__Backupscenes
         values:
         - path: Seclocean
           label: Seclocean
           level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets
+          label: Assets
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets/Scenes
+          label: Scenes
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets/Scenes/Levels
+          label: Levels
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Assets/Scripts
+          label: Scripts
+          level: 2
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -1091,8 +1168,98 @@ MonoBehaviour:
             originalPath: 
             status: 0
             staged: 0
+        - path: Seclocean/Library/metadata/62
+          label: 62
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/metadata/69
+          label: 69
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
         - path: Seclocean/Library/metadata/c8
           label: c8
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/metadata/e7
+          label: e7
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/metadata/ed
+          label: ed
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Library/metadata/f2
+          label: f2
           level: 3
           isFolder: 1
           isContainer: 0
@@ -1130,6 +1297,24 @@ MonoBehaviour:
         - path: Seclocean/Temp
           label: Temp
           level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Seclocean/Temp/__Backupscenes
+          label: __Backupscenes
+          level: 2
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -1190,6 +1375,366 @@ MonoBehaviour:
           projectPath: 
           originalPath: 
           status: 0
+          staged: 0
+      - path: Seclocean/.DS_Store
+        label: .DS_Store
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/.DS_Store
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/.DS_Store
+          projectPath: .DS_Store
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Assembly-CSharp.csproj
+        label: Assembly-CSharp.csproj
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assembly-CSharp.csproj
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
+          projectPath: Assembly-CSharp.csproj
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Assets
+        label: Assets
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Scenes
+        label: Scenes
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Scenes/Levels
+        label: Levels
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Scenes/Levels/GangInitiation.unity
+        label: GangInitiation.unity
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scenes/Levels/GangInitiation.unity
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/GangInitiation.unity
+          projectPath: Assets/Scenes/Levels/GangInitiation.unity
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png
+        label: Side_Initiation_1.png
+        level: 4
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png
+          projectPath: Assets/Scenes/Levels/Side_Initiation_1.png
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png.meta
+        label: Side_Initiation_1.png.meta
+        level: 5
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png.meta
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png.meta
+          projectPath: Assets/Scenes/Levels/Side_Initiation_1.png.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts
+        label: Scripts
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Assets/Scripts/CameraController.cs
+        label: CameraController.cs
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/CameraController.cs
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CameraController.cs
+          projectPath: Assets/Scripts/CameraController.cs
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/CameraController.cs.meta
+        label: CameraController.cs.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/CameraController.cs.meta
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CameraController.cs.meta
+          projectPath: Assets/Scripts/CameraController.cs.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/CollisionManager.cs
+        label: CollisionManager.cs
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/CollisionManager.cs
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CollisionManager.cs
+          projectPath: Assets/Scripts/CollisionManager.cs
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/CollisionManager.cs.meta
+        label: CollisionManager.cs.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/CollisionManager.cs.meta
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CollisionManager.cs.meta
+          projectPath: Assets/Scripts/CollisionManager.cs.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/Player.cs
+        label: Player.cs
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/Player.cs
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/Player.cs
+          projectPath: Assets/Scripts/Player.cs
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Assets/Scripts/Squidmove.cs
+        label: Squidmove.cs
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/Squidmove.cs
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/Squidmove.cs
+          projectPath: Assets/Scripts/Squidmove.cs
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/Squidmove.cs.meta
+        label: Squidmove.cs.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/Squidmove.cs.meta
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/Squidmove.cs.meta
+          projectPath: Assets/Scripts/Squidmove.cs.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/UIManager.cs
+        label: UIManager.cs
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/UIManager.cs
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/UIManager.cs
+          projectPath: Assets/Scripts/UIManager.cs
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/UIManager.cs.meta
+        label: UIManager.cs.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/UIManager.cs.meta
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/UIManager.cs.meta
+          projectPath: Assets/Scripts/UIManager.cs.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/videoTrigger.cs
+        label: videoTrigger.cs
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/videoTrigger.cs
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/videoTrigger.cs
+          projectPath: Assets/Scripts/videoTrigger.cs
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Assets/Scripts/videoTrigger.cs.meta
+        label: videoTrigger.cs.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Assets/Scripts/videoTrigger.cs.meta
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/videoTrigger.cs.meta
+          projectPath: Assets/Scripts/videoTrigger.cs.meta
+          originalPath: 
+          status: 1
           staged: 0
       - path: Seclocean/Library
         label: Library
@@ -1263,6 +1808,42 @@ MonoBehaviour:
           originalPath: 
           status: 3
           staged: 0
+      - path: Seclocean/Library/CrashedAssetImports.txt
+        label: CrashedAssetImports.txt
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/CrashedAssetImports.txt
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
+          projectPath: Library/CrashedAssetImports.txt
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/CurrentMaximizeLayout.dwlt
+        label: CurrentMaximizeLayout.dwlt
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/CurrentMaximizeLayout.dwlt
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/CurrentMaximizeLayout.dwlt
+          projectPath: Library/CurrentMaximizeLayout.dwlt
+          originalPath: 
+          status: 3
+          staged: 0
       - path: Seclocean/Library/EditorInstance.json
         label: EditorInstance.json
         level: 2
@@ -1279,7 +1860,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/EditorInstance.json
           projectPath: Library/EditorInstance.json
           originalPath: 
-          status: 1
+          status: 3
           staged: 0
       - path: Seclocean/Library/gfu
         label: gfu
@@ -1317,6 +1898,24 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
+      - path: Seclocean/Library/gfu/cache/branches.yaml
+        label: branches.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/branches.yaml
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+          projectPath: Library/gfu/cache/branches.yaml
+          originalPath: 
+          status: 3
+          staged: 0
       - path: Seclocean/Library/gfu/cache/gitlocks.yaml
         label: gitlocks.yaml
         level: 4
@@ -1332,6 +1931,24 @@ MonoBehaviour:
           path: Seclocean/Library/gfu/cache/gitlocks.yaml
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
           projectPath: Library/gfu/cache/gitlocks.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/gfu/cache/gitlog.yaml
+        label: gitlog.yaml
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/gfu/cache/gitlog.yaml
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+          projectPath: Library/gfu/cache/gitlog.yaml
           originalPath: 
           status: 3
           staged: 0
@@ -1407,6 +2024,114 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
+      - path: Seclocean/Library/metadata/62
+        label: 62
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
+        label: 6257d2996a61a42b8a03d13c820f7131
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
+          projectPath: Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131.info
+        label: 6257d2996a61a42b8a03d13c820f7131.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131.info
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131.info
+          projectPath: Library/metadata/62/6257d2996a61a42b8a03d13c820f7131.info
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/69
+        label: 69
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
+        label: 69b0b4e81792e44a1bc49e473a030005
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
+          projectPath: Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005.info
+        label: 69b0b4e81792e44a1bc49e473a030005.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005.info
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005.info
+          projectPath: Library/metadata/69/69b0b4e81792e44a1bc49e473a030005.info
+          originalPath: 
+          status: 1
+          staged: 0
       - path: Seclocean/Library/metadata/c8
         label: c8
         level: 3
@@ -1441,7 +2166,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
           projectPath: Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
           originalPath: 
-          status: 3
+          status: 1
           staged: 0
       - path: Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777.info
         label: c8613e66707554d2fa279cf7bd1fb777.info
@@ -1459,7 +2184,187 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777.info
           projectPath: Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777.info
           originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+        label: c8be30a8a56de45f8866b04caaf1a688
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+          originalPath: 
           status: 3
+          staged: 0
+      - path: Seclocean/Library/metadata/e7
+        label: e7
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717
+        label: e7f445318e69b4538814192e3a85d717
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717
+          projectPath: Library/metadata/e7/e7f445318e69b4538814192e3a85d717
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717.info
+        label: e7f445318e69b4538814192e3a85d717.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717.info
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717.info
+          projectPath: Library/metadata/e7/e7f445318e69b4538814192e3a85d717.info
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/ed
+        label: ed
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856
+        label: edf96a8e1ce6f4b79891593252429856
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856
+          projectPath: Library/metadata/ed/edf96a8e1ce6f4b79891593252429856
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856.info
+        label: edf96a8e1ce6f4b79891593252429856.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856.info
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856.info
+          projectPath: Library/metadata/ed/edf96a8e1ce6f4b79891593252429856.info
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/f2
+        label: f2
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016
+        label: f2f1e96153dc34d9698674efbe0aa016
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016
+          projectPath: Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016.info
+        label: f2f1e96153dc34d9698674efbe0aa016.info
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016.info
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016.info
+          projectPath: Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016.info
+          originalPath: 
+          status: 1
           staged: 0
       - path: Seclocean/Library/ScriptAssemblies
         label: ScriptAssemblies
@@ -1479,8 +2384,8 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-        label: BuiltinAssemblies.stamp
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+        label: Assembly-CSharp.dll
         level: 3
         isFolder: 0
         isContainer: 0
@@ -1491,11 +2396,29 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-          projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+          path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
           originalPath: 
-          status: 5
+          status: 3
+          staged: 0
+      - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+        label: Assembly-CSharp.dll.mdb
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+          originalPath: 
+          status: 3
           staged: 0
       - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
         label: shadercompiler-UnityShaderCompiler0.log
@@ -1533,8 +2456,44 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-      - path: Seclocean/Temp/UnityLockfile
-        label: UnityLockfile
+      - path: Seclocean/Temp/__Backupscenes
+        label: __Backupscenes
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Seclocean/Temp/__Backupscenes/0.backup
+        label: 0.backup
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/__Backupscenes/0.backup
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+          projectPath: Temp/__Backupscenes/0.backup
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
+        label: UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
         level: 2
         isFolder: 0
         isContainer: 0
@@ -1545,11 +2504,65 @@ MonoBehaviour:
         checkState: 0
         isLocked: 0
         gitStatusEntry:
-          path: Seclocean/Temp/UnityLockfile
-          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityLockfile
-          projectPath: Temp/UnityLockfile
+          path: Seclocean/Temp/UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
+          projectPath: Temp/UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
+        label: UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
+          projectPath: Temp/UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
           originalPath: 
           status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+        label: UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+          projectPath: Temp/UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+        label: UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+          projectPath: Temp/UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+          originalPath: 
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-2ef26cf07c4014482ac9969ea2438927
         label: UnityTempFile-2ef26cf07c4014482ac9969ea2438927
@@ -1566,6 +2579,42 @@ MonoBehaviour:
           path: Seclocean/Temp/UnityTempFile-2ef26cf07c4014482ac9969ea2438927
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-2ef26cf07c4014482ac9969ea2438927
           projectPath: Temp/UnityTempFile-2ef26cf07c4014482ac9969ea2438927
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+        label: UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+          projectPath: Temp/UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-424272963ce284f82a7acce262dc2e75
+        label: UnityTempFile-424272963ce284f82a7acce262dc2e75
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-424272963ce284f82a7acce262dc2e75
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-424272963ce284f82a7acce262dc2e75
+          projectPath: Temp/UnityTempFile-424272963ce284f82a7acce262dc2e75
           originalPath: 
           status: 1
           staged: 0
@@ -1585,7 +2634,151 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-441d8ec949b2c44cba1fb4b1aade8c0b
           projectPath: Temp/UnityTempFile-441d8ec949b2c44cba1fb4b1aade8c0b
           originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+        label: UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+          projectPath: Temp/UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+        label: UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+          projectPath: Temp/UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+        label: UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+          projectPath: Temp/UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+        label: UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+          projectPath: Temp/UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+          originalPath: 
           status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-62c74499cf340420c9515c63cc46c76c
+        label: UnityTempFile-62c74499cf340420c9515c63cc46c76c
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-62c74499cf340420c9515c63cc46c76c
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-62c74499cf340420c9515c63cc46c76c
+          projectPath: Temp/UnityTempFile-62c74499cf340420c9515c63cc46c76c
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-651abd165864b45ecaaee35215b3a6af
+        label: UnityTempFile-651abd165864b45ecaaee35215b3a6af
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-651abd165864b45ecaaee35215b3a6af
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-651abd165864b45ecaaee35215b3a6af
+          projectPath: Temp/UnityTempFile-651abd165864b45ecaaee35215b3a6af
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+        label: UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+          projectPath: Temp/UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+        label: UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+          projectPath: Temp/UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+          originalPath: 
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-7e326679c30cf4c5e9815f678af64ea9
         label: UnityTempFile-7e326679c30cf4c5e9815f678af64ea9
@@ -1603,7 +2796,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-7e326679c30cf4c5e9815f678af64ea9
           projectPath: Temp/UnityTempFile-7e326679c30cf4c5e9815f678af64ea9
           originalPath: 
-          status: 1
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-801ed4bf63cb04355886bfdac154510d
         label: UnityTempFile-801ed4bf63cb04355886bfdac154510d
@@ -1621,7 +2814,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-801ed4bf63cb04355886bfdac154510d
           projectPath: Temp/UnityTempFile-801ed4bf63cb04355886bfdac154510d
           originalPath: 
-          status: 1
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-85a5a40d73d784bfc98c7974e5950f2b
         label: UnityTempFile-85a5a40d73d784bfc98c7974e5950f2b
@@ -1639,7 +2832,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-85a5a40d73d784bfc98c7974e5950f2b
           projectPath: Temp/UnityTempFile-85a5a40d73d784bfc98c7974e5950f2b
           originalPath: 
-          status: 1
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-86b2413fa4b9c4266a800b7a3d0b01d3
         label: UnityTempFile-86b2413fa4b9c4266a800b7a3d0b01d3
@@ -1657,7 +2850,133 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-86b2413fa4b9c4266a800b7a3d0b01d3
           projectPath: Temp/UnityTempFile-86b2413fa4b9c4266a800b7a3d0b01d3
           originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+        label: UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+          projectPath: Temp/UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+          originalPath: 
           status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+        label: UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+          projectPath: Temp/UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+        label: UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+          projectPath: Temp/UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+        label: UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+          projectPath: Temp/UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+        label: UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+          projectPath: Temp/UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-94377ce16db6246618241cd0e4e649cc
+        label: UnityTempFile-94377ce16db6246618241cd0e4e649cc
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-94377ce16db6246618241cd0e4e649cc
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-94377ce16db6246618241cd0e4e649cc
+          projectPath: Temp/UnityTempFile-94377ce16db6246618241cd0e4e649cc
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-980cbdb85e6944a329e6172a6499d746
+        label: UnityTempFile-980cbdb85e6944a329e6172a6499d746
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-980cbdb85e6944a329e6172a6499d746
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-980cbdb85e6944a329e6172a6499d746
+          projectPath: Temp/UnityTempFile-980cbdb85e6944a329e6172a6499d746
+          originalPath: 
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
         label: UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
@@ -1674,6 +2993,42 @@ MonoBehaviour:
           path: Seclocean/Temp/UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
           projectPath: Temp/UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+        label: UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+          projectPath: Temp/UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-9b4853e12277941788947acd8b859a88
+        label: UnityTempFile-9b4853e12277941788947acd8b859a88
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-9b4853e12277941788947acd8b859a88
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-9b4853e12277941788947acd8b859a88
+          projectPath: Temp/UnityTempFile-9b4853e12277941788947acd8b859a88
           originalPath: 
           status: 1
           staged: 0
@@ -1693,7 +3048,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a25b3984e14434864935544f353422db
           projectPath: Temp/UnityTempFile-a25b3984e14434864935544f353422db
           originalPath: 
-          status: 1
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-a390e3f70cfed4e8989b2b295564a0d7
         label: UnityTempFile-a390e3f70cfed4e8989b2b295564a0d7
@@ -1711,7 +3066,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a390e3f70cfed4e8989b2b295564a0d7
           projectPath: Temp/UnityTempFile-a390e3f70cfed4e8989b2b295564a0d7
           originalPath: 
-          status: 1
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-a6a87445aa8dc4defb30937a25781ca6
         label: UnityTempFile-a6a87445aa8dc4defb30937a25781ca6
@@ -1729,7 +3084,7 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a6a87445aa8dc4defb30937a25781ca6
           projectPath: Temp/UnityTempFile-a6a87445aa8dc4defb30937a25781ca6
           originalPath: 
-          status: 1
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-b35c7038ac5d946e99e1640df15fcf90
         label: UnityTempFile-b35c7038ac5d946e99e1640df15fcf90
@@ -1747,7 +3102,25 @@ MonoBehaviour:
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-b35c7038ac5d946e99e1640df15fcf90
           projectPath: Temp/UnityTempFile-b35c7038ac5d946e99e1640df15fcf90
           originalPath: 
-          status: 1
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+        label: UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+          projectPath: Temp/UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+          originalPath: 
+          status: 5
           staged: 0
       - path: Seclocean/Temp/UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
         label: UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
@@ -1764,6 +3137,132 @@ MonoBehaviour:
           path: Seclocean/Temp/UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
           fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
           projectPath: Temp/UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-cab01132f9d184853aa4247e64a40d87
+        label: UnityTempFile-cab01132f9d184853aa4247e64a40d87
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-cab01132f9d184853aa4247e64a40d87
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-cab01132f9d184853aa4247e64a40d87
+          projectPath: Temp/UnityTempFile-cab01132f9d184853aa4247e64a40d87
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+        label: UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+          projectPath: Temp/UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+        label: UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+          projectPath: Temp/UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-ccf11f9ad266141cca523141b087c2af
+        label: UnityTempFile-ccf11f9ad266141cca523141b087c2af
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-ccf11f9ad266141cca523141b087c2af
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-ccf11f9ad266141cca523141b087c2af
+          projectPath: Temp/UnityTempFile-ccf11f9ad266141cca523141b087c2af
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+        label: UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+          projectPath: Temp/UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-edd5f256f335e437a84d72043aad86fd
+        label: UnityTempFile-edd5f256f335e437a84d72043aad86fd
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-edd5f256f335e437a84d72043aad86fd
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-edd5f256f335e437a84d72043aad86fd
+          projectPath: Temp/UnityTempFile-edd5f256f335e437a84d72043aad86fd
+          originalPath: 
+          status: 5
+          staged: 0
+      - path: Seclocean/Temp/UnityTempFile-f4b40bab5947a40e9915dd0db8338860
+        label: UnityTempFile-f4b40bab5947a40e9915dd0db8338860
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Seclocean/Temp/UnityTempFile-f4b40bab5947a40e9915dd0db8338860
+          fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f4b40bab5947a40e9915dd0db8338860
+          projectPath: Temp/UnityTempFile-f4b40bab5947a40e9915dd0db8338860
           originalPath: 
           status: 1
           staged: 0
@@ -1787,6 +3286,102 @@ MonoBehaviour:
           status: 0
           staged: 0
     gitStatusEntries:
+    - path: Seclocean/.DS_Store
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Assembly-CSharp.csproj
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Assets/Scenes/Levels/GangInitiation.unity
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/GangInitiation.unity
+      projectPath: Assets/Scenes/Levels/GangInitiation.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png
+      projectPath: Assets/Scenes/Levels/Side_Initiation_1.png
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png.meta
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/Side_Initiation_1.png.meta
+      projectPath: Assets/Scenes/Levels/Side_Initiation_1.png.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/CameraController.cs
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CameraController.cs
+      projectPath: Assets/Scripts/CameraController.cs
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/CameraController.cs.meta
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CameraController.cs.meta
+      projectPath: Assets/Scripts/CameraController.cs.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/CollisionManager.cs
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CollisionManager.cs
+      projectPath: Assets/Scripts/CollisionManager.cs
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/CollisionManager.cs.meta
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/CollisionManager.cs.meta
+      projectPath: Assets/Scripts/CollisionManager.cs.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/Player.cs
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/Player.cs
+      projectPath: Assets/Scripts/Player.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Assets/Scripts/Squidmove.cs
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/Squidmove.cs
+      projectPath: Assets/Scripts/Squidmove.cs
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/Squidmove.cs.meta
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/Squidmove.cs.meta
+      projectPath: Assets/Scripts/Squidmove.cs.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/UIManager.cs
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/UIManager.cs
+      projectPath: Assets/Scripts/UIManager.cs
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/UIManager.cs.meta
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/UIManager.cs.meta
+      projectPath: Assets/Scripts/UIManager.cs.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/videoTrigger.cs
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/videoTrigger.cs
+      projectPath: Assets/Scripts/videoTrigger.cs
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Assets/Scripts/videoTrigger.cs.meta
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Assets/Scripts/videoTrigger.cs.meta
+      projectPath: Assets/Scripts/videoTrigger.cs.meta
+      originalPath: 
+      status: 1
+      staged: 0
     - path: Seclocean/Library/assetDatabase3
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/assetDatabase3
       projectPath: Library/assetDatabase3
@@ -1799,15 +3394,39 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
+    - path: Seclocean/Library/CrashedAssetImports.txt
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
     - path: Seclocean/Library/EditorInstance.json
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/EditorInstance.json
       projectPath: Library/EditorInstance.json
       originalPath: 
-      status: 1
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/branches.yaml
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
       staged: 0
     - path: Seclocean/Library/gfu/cache/gitlocks.yaml
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
       projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
       originalPath: 
       status: 3
       staged: 0
@@ -1829,23 +3448,95 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
+    - path: Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
+      projectPath: Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131.info
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131.info
+      projectPath: Library/metadata/62/6257d2996a61a42b8a03d13c820f7131.info
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
+      projectPath: Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005.info
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005.info
+      projectPath: Library/metadata/69/69b0b4e81792e44a1bc49e473a030005.info
+      originalPath: 
+      status: 1
+      staged: 0
     - path: Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
       projectPath: Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
       originalPath: 
-      status: 3
+      status: 1
       staged: 0
     - path: Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777.info
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777.info
       projectPath: Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777.info
       originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+      projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+      originalPath: 
       status: 3
       staged: 0
-    - path: Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    - path: Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717
+      projectPath: Library/metadata/e7/e7f445318e69b4538814192e3a85d717
       originalPath: 
-      status: 5
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717.info
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/e7/e7f445318e69b4538814192e3a85d717.info
+      projectPath: Library/metadata/e7/e7f445318e69b4538814192e3a85d717.info
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856
+      projectPath: Library/metadata/ed/edf96a8e1ce6f4b79891593252429856
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856.info
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/ed/edf96a8e1ce6f4b79891593252429856.info
+      projectPath: Library/metadata/ed/edf96a8e1ce6f4b79891593252429856.info
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016
+      projectPath: Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016.info
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016.info
+      projectPath: Library/metadata/f2/f2f1e96153dc34d9698674efbe0aa016.info
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
       staged: 0
     - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
@@ -1853,15 +3544,51 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-    - path: Seclocean/Temp/UnityLockfile
-      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityLockfile
-      projectPath: Temp/UnityLockfile
+    - path: Seclocean/Temp/__Backupscenes/0.backup
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
+      projectPath: Temp/UnityTempFile-0b33a432830464d60bfa864d6fd06bc1
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
+      projectPath: Temp/UnityTempFile-15c7fe290a6a04977bc97e297b92b4ff
       originalPath: 
       status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+      projectPath: Temp/UnityTempFile-20f2a04aa991548c5b800ca9654507ae
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+      projectPath: Temp/UnityTempFile-2732b692fe4f649ad864779c5f53adfb
+      originalPath: 
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-2ef26cf07c4014482ac9969ea2438927
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-2ef26cf07c4014482ac9969ea2438927
       projectPath: Temp/UnityTempFile-2ef26cf07c4014482ac9969ea2438927
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+      projectPath: Temp/UnityTempFile-386d2d8f702924cacbc8c2fb0267a2a7
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-424272963ce284f82a7acce262dc2e75
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-424272963ce284f82a7acce262dc2e75
+      projectPath: Temp/UnityTempFile-424272963ce284f82a7acce262dc2e75
       originalPath: 
       status: 1
       staged: 0
@@ -1869,35 +3596,137 @@ MonoBehaviour:
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-441d8ec949b2c44cba1fb4b1aade8c0b
       projectPath: Temp/UnityTempFile-441d8ec949b2c44cba1fb4b1aade8c0b
       originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+      projectPath: Temp/UnityTempFile-44e6a31bb362947e9a44aea618cc7ca4
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+      projectPath: Temp/UnityTempFile-467a201c6b8b443f1b8b22a8775e4622
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+      projectPath: Temp/UnityTempFile-5bfb8e24e170e4c2b9dfcddfc69f30b0
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+      projectPath: Temp/UnityTempFile-615ebd82c894941b2bc71a5fb058b6d6
+      originalPath: 
       status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-62c74499cf340420c9515c63cc46c76c
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-62c74499cf340420c9515c63cc46c76c
+      projectPath: Temp/UnityTempFile-62c74499cf340420c9515c63cc46c76c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-651abd165864b45ecaaee35215b3a6af
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-651abd165864b45ecaaee35215b3a6af
+      projectPath: Temp/UnityTempFile-651abd165864b45ecaaee35215b3a6af
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+      projectPath: Temp/UnityTempFile-7a9fd05ec61c34fc498efe5128519bb4
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+      projectPath: Temp/UnityTempFile-7c6b16a8656cb4821bfc874182cf73e3
+      originalPath: 
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-7e326679c30cf4c5e9815f678af64ea9
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-7e326679c30cf4c5e9815f678af64ea9
       projectPath: Temp/UnityTempFile-7e326679c30cf4c5e9815f678af64ea9
       originalPath: 
-      status: 1
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-801ed4bf63cb04355886bfdac154510d
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-801ed4bf63cb04355886bfdac154510d
       projectPath: Temp/UnityTempFile-801ed4bf63cb04355886bfdac154510d
       originalPath: 
-      status: 1
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-85a5a40d73d784bfc98c7974e5950f2b
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-85a5a40d73d784bfc98c7974e5950f2b
       projectPath: Temp/UnityTempFile-85a5a40d73d784bfc98c7974e5950f2b
       originalPath: 
-      status: 1
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-86b2413fa4b9c4266a800b7a3d0b01d3
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-86b2413fa4b9c4266a800b7a3d0b01d3
       projectPath: Temp/UnityTempFile-86b2413fa4b9c4266a800b7a3d0b01d3
       originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+      projectPath: Temp/UnityTempFile-8924c0336ec6a4ab7a647f005ff6a6db
+      originalPath: 
       status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+      projectPath: Temp/UnityTempFile-8bc322c712a35402a8571c1c8e3db816
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+      projectPath: Temp/UnityTempFile-8d3f7e071a49a49458c88ae6ccfbf00b
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+      projectPath: Temp/UnityTempFile-8fc449a4df46943a3a8675d43d6ea5fc
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+      projectPath: Temp/UnityTempFile-940cf0f319ced45c2990db7cbca52e90
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-94377ce16db6246618241cd0e4e649cc
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-94377ce16db6246618241cd0e4e649cc
+      projectPath: Temp/UnityTempFile-94377ce16db6246618241cd0e4e649cc
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-980cbdb85e6944a329e6172a6499d746
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-980cbdb85e6944a329e6172a6499d746
+      projectPath: Temp/UnityTempFile-980cbdb85e6944a329e6172a6499d746
+      originalPath: 
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
       projectPath: Temp/UnityTempFile-9851c44ef9235415a8625bdb1c64f1b8
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+      projectPath: Temp/UnityTempFile-9a3e5b697c4344a61b561aa67c0100d2
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-9b4853e12277941788947acd8b859a88
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-9b4853e12277941788947acd8b859a88
+      projectPath: Temp/UnityTempFile-9b4853e12277941788947acd8b859a88
       originalPath: 
       status: 1
       staged: 0
@@ -1905,41 +3734,89 @@ MonoBehaviour:
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a25b3984e14434864935544f353422db
       projectPath: Temp/UnityTempFile-a25b3984e14434864935544f353422db
       originalPath: 
-      status: 1
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-a390e3f70cfed4e8989b2b295564a0d7
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a390e3f70cfed4e8989b2b295564a0d7
       projectPath: Temp/UnityTempFile-a390e3f70cfed4e8989b2b295564a0d7
       originalPath: 
-      status: 1
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-a6a87445aa8dc4defb30937a25781ca6
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-a6a87445aa8dc4defb30937a25781ca6
       projectPath: Temp/UnityTempFile-a6a87445aa8dc4defb30937a25781ca6
       originalPath: 
-      status: 1
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-b35c7038ac5d946e99e1640df15fcf90
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-b35c7038ac5d946e99e1640df15fcf90
       projectPath: Temp/UnityTempFile-b35c7038ac5d946e99e1640df15fcf90
       originalPath: 
-      status: 1
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+      projectPath: Temp/UnityTempFile-c0ecf3de4c82045c59d62686405ab20b
+      originalPath: 
+      status: 5
       staged: 0
     - path: Seclocean/Temp/UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
       fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
       projectPath: Temp/UnityTempFile-c8d81a1bee4d3493cbdeb01b6febbdd0
       originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-cab01132f9d184853aa4247e64a40d87
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-cab01132f9d184853aa4247e64a40d87
+      projectPath: Temp/UnityTempFile-cab01132f9d184853aa4247e64a40d87
+      originalPath: 
       status: 1
       staged: 0
-    changedFilesText: 24 changed files
+    - path: Seclocean/Temp/UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+      projectPath: Temp/UnityTempFile-cbf3bf7d230144f39ae4f7fbc953a025
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+      projectPath: Temp/UnityTempFile-cc683231a8c864d8f91ddd6bff68d237
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-ccf11f9ad266141cca523141b087c2af
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-ccf11f9ad266141cca523141b087c2af
+      projectPath: Temp/UnityTempFile-ccf11f9ad266141cca523141b087c2af
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+      projectPath: Temp/UnityTempFile-ce67c6c18eea5410491d28da0103ae0a
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-edd5f256f335e437a84d72043aad86fd
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-edd5f256f335e437a84d72043aad86fd
+      projectPath: Temp/UnityTempFile-edd5f256f335e437a84d72043aad86fd
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Temp/UnityTempFile-f4b40bab5947a40e9915dd0db8338860
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-f4b40bab5947a40e9915dd0db8338860
+      projectPath: Temp/UnityTempFile-f4b40bab5947a40e9915dd0db8338860
+      originalPath: 
+      status: 1
+      staged: 0
+    changedFilesText: 87 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2018-10-28T19:41:02.805-07:00
+      updatedTimeString: 2018-10-29T23:10:42.194-07:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-10-28T21:39:50.311-07:00
+      updatedTimeString: 2018-10-30T02:56:07.789-07:00
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 2018-10-28T21:39:42.050-07:00
+      updatedTimeString: 2018-10-30T02:56:07.779-07:00
       cacheType: 6
   historyView:
     currentLogHasUpdate: 0
@@ -39429,13 +41306,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2018-10-28T14:19:34.690-07:00
+    updatedTimeString: 2018-10-28T21:52:38.220-07:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
     updatedTimeString: 2018-10-28T14:50:20.572-07:00
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2018-10-28T19:48:18.743-07:00
+    updatedTimeString: 2018-10-29T02:42:35.043-07:00
     cacheType: 5
   pullButtonContent:
     m_Text: Pull
@@ -39454,6 +41331,6 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: 
   repositoryProgressValue: 0
-  repositoryProgressMessage: Listing changed files...
+  repositoryProgressMessage: 
   appManagerProgressValue: 1
   appManagerProgressMessage: Initialized

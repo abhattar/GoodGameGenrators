@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-10-28T18:04:23.330-07:00
-  initializedAtString: 2018-10-28T14:44:40.657-07:00
+  lastUpdatedAtString: 2018-10-30T02:12:16.538-07:00
+  initializedAtString: 2018-10-29T02:17:53.324-07:00
   localBranches:
   - name: Prototype1
     tracking: origin/Prototype1
@@ -21,6 +21,8 @@ MonoBehaviour:
     tracking: origin/gavin
   - name: master
     tracking: origin/master
+  - name: master-gavin-merge
+    tracking: 
   remoteBranches:
   - name: origin/Arth
     tracking: '[None]'
@@ -45,6 +47,7 @@ MonoBehaviour:
     - Prototype1
     - gavin
     - master
+    - master-gavin-merge
     values:
     - name: Prototype1
       remote:
@@ -61,6 +64,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/abhattar/Salt-Base-Studio.git
       trackingBranch: master
+    - name: master-gavin-merge
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin

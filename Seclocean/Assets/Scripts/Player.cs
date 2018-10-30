@@ -16,7 +16,6 @@ public class Player : MonoBehaviour {
     void Start () {
         animator = GetComponent<Animator>();
         initSpeedValue = speedValue;
-   
     }
     
     // Update is called once per frame
@@ -33,13 +32,18 @@ public class Player : MonoBehaviour {
         float speed = Input.GetAxis("Horizontal") * Time.deltaTime * speedValue;
         float speed2 = Input.GetAxis("Vertical") * Time.deltaTime * speedValue;
 
-        
-        
+        float xScale = 0.6515f;
+        if(speed / Mathf.Abs(speed) == 1){
+            xScale = 0.6515f;
+        }
+        else if (speed / Mathf.Abs(speed) == -1){
+            xScale = -0.6515f;
+        }
 
-        // transform.localScale = new Vector3(speed / Mathf.Abs(speed), 1, 1);
+      transform.localScale = new Vector3(xScale, 0.6515f, 0.6515f);
 
-        // animator.SetFloat("speed", Mathf.Abs(speed));
-        // animator.SetFloat("speed2", Mathf.Abs(speed));
+        animator.SetFloat("speed", Mathf.Abs(speed));
+        animator.SetFloat("speed2", Mathf.Abs(speed));
 
         transform.Translate(new Vector3(speed, speed2));
 
@@ -76,10 +80,13 @@ public class Player : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if(sideCamera){
-                overheadCamera.enabled= true;
+                overheadCamera.enabled=true;
                 sideCamera.enabled=false;
             }
-      
+            else{
+                overheadCamera.enabled=false;
+                sideCamera.enabled=true;
+            }
         }
 
    
