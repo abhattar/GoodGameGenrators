@@ -5,8 +5,10 @@ using UnityEngine;
 public class Player : MonoBehaviour {
 
     Animator animator;
+    public int layer;
     public float speedValue;
     public Camera sideCamera;
+    public Camera sideCamera2;
     public Camera overheadCamera;
 
     private float initSpeedValue;
@@ -16,6 +18,8 @@ public class Player : MonoBehaviour {
     void Start () {
         animator = GetComponent<Animator>();
         initSpeedValue = speedValue;
+        sideCamera.enabled = true;
+        overheadCamera.enabled = false;
     }
     
     // Update is called once per frame
@@ -42,8 +46,8 @@ public class Player : MonoBehaviour {
 
       transform.localScale = new Vector3(xScale, 0.6515f, 0.6515f);
 
-        animator.SetFloat("speed", Mathf.Abs(speed));
-        animator.SetFloat("speed2", Mathf.Abs(speed));
+        //animator.SetFloat("speed", Mathf.Abs(speed));
+        //animator.SetFloat("speed2", Mathf.Abs(speed));
 
         transform.Translate(new Vector3(speed, speed2));
 
@@ -76,16 +80,23 @@ public class Player : MonoBehaviour {
 
 
 
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            if(sideCamera){
-                overheadCamera.enabled=true;
-                sideCamera.enabled=false;
-            }
-            else{
-                overheadCamera.enabled=false;
-                sideCamera.enabled=true;
+        if(layer == 1){
+            if (Input.GetKeyUp(KeyCode.Space))
+            {
+                    print(sideCamera.enabled);
+                    print(overheadCamera.enabled);
+                
+                    if((sideCamera.enabled)){
+                        print("yeet");
+                        overheadCamera.enabled = true;
+                        sideCamera.enabled = false;
+                    }
+                    else if((overheadCamera.enabled)){
+                        print("clothing");
+                        sideCamera.enabled = true;
+                        overheadCamera.enabled = false;  
+                    }
+                    
             }
         }
 
