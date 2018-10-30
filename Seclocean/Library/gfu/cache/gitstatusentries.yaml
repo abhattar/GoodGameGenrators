@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2018-10-30T03:24:08.914-07:00
   initializedAtString: 2018-10-29T22:52:30.025-07:00
   entries:
@@ -626,3 +627,8 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+=======
+  lastUpdatedAtString: 2018-10-30T03:36:10.179-07:00
+  initializedAtString: 2018-10-28T21:52:38.274-07:00
+  entries: []
+>>>>>>> Stashed changes

@@ -12,13 +12,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2018-10-30T02:12:02.329-07:00
   initializedAtString: 2018-10-29T22:52:29.514-07:00
+=======
+  lastUpdatedAtString: 2018-10-30T03:25:17.062-07:00
+  initializedAtString: 2018-10-29T02:17:53.324-07:00
+>>>>>>> Stashed changes
   localBranches:
+  - name: Prototype1
+    tracking: origin/Prototype1
   - name: gavin
     tracking: origin/gavin
   - name: master
     tracking: origin/master
+  - name: master-gavin-merge
+    tracking: 
   remoteBranches:
   - name: origin/Arth
     tracking: '[None]'
@@ -40,9 +49,16 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Prototype1
     - gavin
     - master
+    - master-gavin-merge
     values:
+    - name: Prototype1
+      remote:
+        name: origin
+        url: https://github.com/abhattar/Salt-Base-Studio.git
+      trackingBranch: Prototype1
     - name: gavin
       remote:
         name: origin
@@ -53,6 +69,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/abhattar/Salt-Base-Studio.git
       trackingBranch: master
+    - name: master-gavin-merge
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
