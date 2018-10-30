@@ -12,9 +12,279 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-29T21:33:46.497-07:00
+  lastUpdatedAtString: 2018-10-29T21:47:30.445-07:00
   initializedAtString: 2018-10-28T16:02:40.117-07:00
   log:
+  - commitID: 4b061018967134e09f7da93ab174813e80879210
+    mergeA: 
+    mergeB: 
+    authorName: Gavin Sekhon
+    authorEmail: gggavin36@gmail.com
+    commitEmail: gggavin36@gmail.com
+    commitName: Gavin Sekhon
+    summary: squid forcefield Animation setup
+    description: squid forcefield Animation setup
+    timeString: 2018-10-29T21:47:18.000-07:00
+    commitTimeString: 2018-10-29T21:47:18.000-07:00
+    changes:
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield.meta
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield.meta
+      projectPath: Assets/Visual Assets/Squid/Side/shield.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid ForceField Anim.anim
+      projectPath: Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim.meta
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid ForceField Anim.anim.meta
+      projectPath: Assets/Visual Assets/Squid/Side/shield/Squid ForceField Anim.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid_ForceField.controller
+      projectPath: Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller.meta
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid_ForceField.controller.meta
+      projectPath: Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: "Assets/Squid/Side/Squid_ForceField.png\tSeclocean/Assets/Visual Assets/Squid/Side/shield/Squid_ForceField.png"
+      fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Assets/Squid/Side/Squid_ForceField.png\tSeclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid_ForceField.png"
+      projectPath: "../Assets/Squid/Side/Squid_ForceField.png\tSeclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid_ForceField.png"
+      originalPath: Seclocean/Assets/Visual
+      status: 6
+      staged: 0
+    - path: "Assets/Squid/Side/Squid_ForceField.png.meta\tSeclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid_ForceField.png.meta"
+      fullPath: "/Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Assets/Squid/Side/Squid_ForceField.png.meta\tSeclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid_ForceField.png.meta"
+      projectPath: "../Assets/Squid/Side/Squid_ForceField.png.meta\tSeclocean/Assets/Visual
+        Assets/Squid/Side/shield/Squid_ForceField.png.meta"
+      originalPath: Seclocean/Assets/Visual
+      status: 6
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/noField.anim
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/noField.anim
+      projectPath: Assets/Visual Assets/Squid/Side/shield/noField.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/noField.anim.meta
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/noField.anim.meta
+      projectPath: Assets/Visual Assets/Squid/Side/shield/noField.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/sheildShrinking.anim
+      projectPath: Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim.meta
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/sheildShrinking.anim.meta
+      projectPath: Assets/Visual Assets/Squid/Side/shield/sheildShrinking.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/shield scene.unity
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/shield scene.unity
+      projectPath: Assets/Visual Assets/Squid/Side/shield/shield scene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/shield scene.unity.meta
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/shield scene.unity.meta
+      projectPath: Assets/Visual Assets/Squid/Side/shield/shield scene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/yesField.anim
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/yesField.anim
+      projectPath: Assets/Visual Assets/Squid/Side/shield/yesField.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Assets/Visual Assets/Squid/Side/shield/yesField.anim.meta
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+        Assets/Squid/Side/shield/yesField.anim.meta
+      projectPath: Assets/Visual Assets/Squid/Side/shield/yesField.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/assetDatabase3
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/branches.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc
+      projectPath: Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc.info
+      projectPath: Library/metadata/18/18f274e7fc8b7418db9e4d729f4f10bc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843
+      projectPath: Library/metadata/38/3866f6ea1f11a43788d05127d99ac843
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/38/3866f6ea1f11a43788d05127d99ac843.info
+      projectPath: Library/metadata/38/3866f6ea1f11a43788d05127d99ac843.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463
+      projectPath: Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463.info
+      projectPath: Library/metadata/7f/7fb94e6ad19e9423bb17f52c5bf22463.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774
+      projectPath: Library/metadata/83/83799c01621a4422c892a1fda8158774
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/83/83799c01621a4422c892a1fda8158774.info
+      projectPath: Library/metadata/83/83799c01621a4422c892a1fda8158774.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319
+      projectPath: Library/metadata/88/88721af7e618b4369b58a55ca8146319
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/88/88721af7e618b4369b58a55ca8146319.info
+      projectPath: Library/metadata/88/88721af7e618b4369b58a55ca8146319.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6
+      projectPath: Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6.info
+      projectPath: Library/metadata/bc/bcd9f2c5abedb45d8b0340a794c9c3d6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09
+      projectPath: Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09.info
+      projectPath: Library/metadata/c0/c006c3d250fe04a5f9c6d303e609fc09.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce
+      projectPath: Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce.info
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce.info
+      projectPath: Library/metadata/e5/e5ede25afa0b94e7ca0305ebeec738ce.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Temp/__Backupscenes/0.backup
+      fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: c62f20a994359447cfa4042804e4827a8bfade5a
     mergeA: 
     mergeB: 
