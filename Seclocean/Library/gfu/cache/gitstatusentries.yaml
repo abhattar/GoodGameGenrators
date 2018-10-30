@@ -12,235 +12,201 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-29T22:54:50.186-07:00
+  lastUpdatedAtString: 2018-10-29T23:13:30.732-07:00
   initializedAtString: 2018-10-29T22:52:30.025-07:00
   entries:
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth.meta
+      Assets/SnaggleTooth/Top.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Bite.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side.meta
+      Assets/SnaggleTooth/Top/Bite.anim
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Bite.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/bite.anim
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Bite.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/bite.anim
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/bite.anim
+      Assets/SnaggleTooth/Top/Bite.anim.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Bite.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/bite.anim.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Dead.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/bite.anim.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/bite.anim.meta
+      Assets/SnaggleTooth/Top/Dead.anim
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Dead.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/dead.anim
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Dead.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/dead.anim
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/dead.anim
+      Assets/SnaggleTooth/Top/Dead.anim.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Dead.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/dead.anim.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top Anim.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/dead.anim.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/dead.anim.meta
+      Assets/SnaggleTooth/Top/SnaggleTooth Top Anim.anim
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top Anim.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Dying.anim
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top Anim.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Dying.anim
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Dying.anim
+      Assets/SnaggleTooth/Top/SnaggleTooth Top Anim.anim.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top Anim.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Dying.anim.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Snaggletooth top scene.unity
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Dying.anim.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Dying.anim.meta
+      Assets/SnaggleTooth/Top/Snaggletooth top scene.unity
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Snaggletooth top scene.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Body.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Snaggletooth top scene.unity.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Body.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Body.png
+      Assets/SnaggleTooth/Top/Snaggletooth top scene.unity.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Snaggletooth top scene.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Body.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top.controller
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Body.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Body.png.meta
+      Assets/SnaggleTooth/Top/SnaggleTooth Top.controller
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top.controller
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_BottomFin.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top.controller.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_BottomFin.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_BottomFin.png
+      Assets/SnaggleTooth/Top/SnaggleTooth Top.controller.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/SnaggleTooth Top.controller.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_BottomFin.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Body.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_BottomFin.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_BottomFin.png.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Body.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Body.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_DorsalFin.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Body.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_DorsalFin.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_DorsalFin.png
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Body.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Body.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_DorsalFin.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_DorsalFin.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_DorsalFin.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_DorsalFin.png.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_DorsalFin.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_DorsalFin.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Alive.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_DorsalFin.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Alive.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Alive.png
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_DorsalFin.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_DorsalFin.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Alive.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Alive.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Alive.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Alive.png.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Alive.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Alive.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Dead.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Alive.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Dead.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Dead.png
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Alive.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Alive.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Dead.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Dead.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Dead.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Eyes_Dead.png.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Dead.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Dead.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Fin.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Dead.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Fin.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Fin.png
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Dead.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Eyes_Dead.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Fin.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_LeftFin.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Fin.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Fin.png.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_LeftFin.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_LeftFin.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Jaw.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_LeftFin.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Jaw.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Jaw.png
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_LeftFin.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_LeftFin.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Jaw.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_RightFin.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Jaw.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Jaw.png.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_RightFin.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_RightFin.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Tail.png
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_RightFin.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Tail.png
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Tail.png
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_RightFin.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_RightFin.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Tail.png.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Tail.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Side_Snaggle_Tail.png.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Side_Snaggle_Tail.png.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Tail.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Tail.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Anim.unity
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Tail.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Snaggletooth Anim.unity
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Anim.unity
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Tail.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Tail.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Anim.unity.meta
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Teeth.png
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Snaggletooth Anim.unity.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Anim.unity.meta
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Teeth.png
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Teeth.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Side Anim.anim
+  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Teeth.png.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Snaggletooth Side Anim.anim
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Side Anim.anim
+      Assets/SnaggleTooth/Top/Top_SnaggleTooth_Teeth.png.meta
+    projectPath: Assets/Visual Assets/SnaggleTooth/Top/Top_SnaggleTooth_Teeth.png.meta
     originalPath: 
     status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Side Anim.anim.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/Snaggletooth Side Anim.anim.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/Snaggletooth Side Anim.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/SnaggleTooth Side.controller
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/SnaggleTooth Side.controller
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/SnaggleTooth Side.controller
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/SnaggleTooth/Side/SnaggleTooth Side.controller.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/SnaggleTooth/Side/SnaggleTooth Side.controller.meta
-    projectPath: Assets/Visual Assets/SnaggleTooth/Side/SnaggleTooth Side.controller.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/Squid/Top/Top/Squid Top.controller
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/Squid/Top/Top/Squid Top.controller
-    projectPath: Assets/Visual Assets/Squid/Top/Top/Squid Top.controller
-    originalPath: 
-    status: 3
     staged: 0
   - path: Seclocean/Library/assetDatabase3
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/assetDatabase3
     projectPath: Library/assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/EditorInstance.json
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
     originalPath: 
     status: 3
     staged: 0
@@ -280,195 +246,171 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/1e/1e21d4e3197594288b4c4548543739ec
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1e/1e21d4e3197594288b4c4548543739ec
-    projectPath: Library/metadata/1e/1e21d4e3197594288b4c4548543739ec
+  - path: Seclocean/Library/metadata/0c/0c494a3df361f46a1b610dc7c61a4bac
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/0c/0c494a3df361f46a1b610dc7c61a4bac
+    projectPath: Library/metadata/0c/0c494a3df361f46a1b610dc7c61a4bac
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/1e/1e21d4e3197594288b4c4548543739ec.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1e/1e21d4e3197594288b4c4548543739ec.info
-    projectPath: Library/metadata/1e/1e21d4e3197594288b4c4548543739ec.info
+  - path: Seclocean/Library/metadata/0c/0c494a3df361f46a1b610dc7c61a4bac.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/0c/0c494a3df361f46a1b610dc7c61a4bac.info
+    projectPath: Library/metadata/0c/0c494a3df361f46a1b610dc7c61a4bac.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/24/240fe696d9c794892998c08c3d394e3d
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/24/240fe696d9c794892998c08c3d394e3d
-    projectPath: Library/metadata/24/240fe696d9c794892998c08c3d394e3d
+  - path: Seclocean/Library/metadata/18/18a6b87997c8646e7864c8f38d8901d6
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/18/18a6b87997c8646e7864c8f38d8901d6
+    projectPath: Library/metadata/18/18a6b87997c8646e7864c8f38d8901d6
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/24/240fe696d9c794892998c08c3d394e3d.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/24/240fe696d9c794892998c08c3d394e3d.info
-    projectPath: Library/metadata/24/240fe696d9c794892998c08c3d394e3d.info
+  - path: Seclocean/Library/metadata/18/18a6b87997c8646e7864c8f38d8901d6.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/18/18a6b87997c8646e7864c8f38d8901d6.info
+    projectPath: Library/metadata/18/18a6b87997c8646e7864c8f38d8901d6.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/28/28ee5e28881c840a1880883c96b7fe55
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/28/28ee5e28881c840a1880883c96b7fe55
-    projectPath: Library/metadata/28/28ee5e28881c840a1880883c96b7fe55
+  - path: Seclocean/Library/metadata/1b/1b2c700f7b37b4468a386c154c1c92ff
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1b/1b2c700f7b37b4468a386c154c1c92ff
+    projectPath: Library/metadata/1b/1b2c700f7b37b4468a386c154c1c92ff
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/28/28ee5e28881c840a1880883c96b7fe55.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/28/28ee5e28881c840a1880883c96b7fe55.info
-    projectPath: Library/metadata/28/28ee5e28881c840a1880883c96b7fe55.info
+  - path: Seclocean/Library/metadata/1b/1b2c700f7b37b4468a386c154c1c92ff.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1b/1b2c700f7b37b4468a386c154c1c92ff.info
+    projectPath: Library/metadata/1b/1b2c700f7b37b4468a386c154c1c92ff.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/33/336f7488753294b9b817ab1c1686c2ec
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/33/336f7488753294b9b817ab1c1686c2ec
-    projectPath: Library/metadata/33/336f7488753294b9b817ab1c1686c2ec
+  - path: Seclocean/Library/metadata/1d/1da5f983b9d894aca8a43f59ac0c3aec
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1d/1da5f983b9d894aca8a43f59ac0c3aec
+    projectPath: Library/metadata/1d/1da5f983b9d894aca8a43f59ac0c3aec
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/33/336f7488753294b9b817ab1c1686c2ec.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/33/336f7488753294b9b817ab1c1686c2ec.info
-    projectPath: Library/metadata/33/336f7488753294b9b817ab1c1686c2ec.info
+  - path: Seclocean/Library/metadata/1d/1da5f983b9d894aca8a43f59ac0c3aec.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1d/1da5f983b9d894aca8a43f59ac0c3aec.info
+    projectPath: Library/metadata/1d/1da5f983b9d894aca8a43f59ac0c3aec.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/3c/3c6807d646b8f4b2aa3c1fec84681f7e
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/3c/3c6807d646b8f4b2aa3c1fec84681f7e
-    projectPath: Library/metadata/3c/3c6807d646b8f4b2aa3c1fec84681f7e
+  - path: Seclocean/Library/metadata/2b/2b1339af7c2b543ad9263a79a53ff3d3
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/2b/2b1339af7c2b543ad9263a79a53ff3d3
+    projectPath: Library/metadata/2b/2b1339af7c2b543ad9263a79a53ff3d3
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/3c/3c6807d646b8f4b2aa3c1fec84681f7e.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/3c/3c6807d646b8f4b2aa3c1fec84681f7e.info
-    projectPath: Library/metadata/3c/3c6807d646b8f4b2aa3c1fec84681f7e.info
+  - path: Seclocean/Library/metadata/2b/2b1339af7c2b543ad9263a79a53ff3d3.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/2b/2b1339af7c2b543ad9263a79a53ff3d3.info
+    projectPath: Library/metadata/2b/2b1339af7c2b543ad9263a79a53ff3d3.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/41/419652f1d194e46be8a0b9753e094df7
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/41/419652f1d194e46be8a0b9753e094df7
-    projectPath: Library/metadata/41/419652f1d194e46be8a0b9753e094df7
+  - path: Seclocean/Library/metadata/4c/4cb6ec8a9659441799ad4e32756ff1c2
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/4c/4cb6ec8a9659441799ad4e32756ff1c2
+    projectPath: Library/metadata/4c/4cb6ec8a9659441799ad4e32756ff1c2
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/41/419652f1d194e46be8a0b9753e094df7.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/41/419652f1d194e46be8a0b9753e094df7.info
-    projectPath: Library/metadata/41/419652f1d194e46be8a0b9753e094df7.info
+  - path: Seclocean/Library/metadata/4c/4cb6ec8a9659441799ad4e32756ff1c2.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/4c/4cb6ec8a9659441799ad4e32756ff1c2.info
+    projectPath: Library/metadata/4c/4cb6ec8a9659441799ad4e32756ff1c2.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111
-    projectPath: Library/metadata/73/737a97df7f39c46c6813225b65a61111
+  - path: Seclocean/Library/metadata/7b/7b47a4c666675421f8ea4429db9ad6b5
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/7b/7b47a4c666675421f8ea4429db9ad6b5
+    projectPath: Library/metadata/7b/7b47a4c666675421f8ea4429db9ad6b5
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111.info
-    projectPath: Library/metadata/73/737a97df7f39c46c6813225b65a61111.info
+  - path: Seclocean/Library/metadata/7b/7b47a4c666675421f8ea4429db9ad6b5.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/7b/7b47a4c666675421f8ea4429db9ad6b5.info
+    projectPath: Library/metadata/7b/7b47a4c666675421f8ea4429db9ad6b5.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/78/78ae8f368478c4e0a8f641ee0bb1f01b
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/78/78ae8f368478c4e0a8f641ee0bb1f01b
-    projectPath: Library/metadata/78/78ae8f368478c4e0a8f641ee0bb1f01b
+  - path: Seclocean/Library/metadata/8f/8f29299812a414ce3ae71e4aca09d32f
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8f/8f29299812a414ce3ae71e4aca09d32f
+    projectPath: Library/metadata/8f/8f29299812a414ce3ae71e4aca09d32f
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/78/78ae8f368478c4e0a8f641ee0bb1f01b.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/78/78ae8f368478c4e0a8f641ee0bb1f01b.info
-    projectPath: Library/metadata/78/78ae8f368478c4e0a8f641ee0bb1f01b.info
+  - path: Seclocean/Library/metadata/8f/8f29299812a414ce3ae71e4aca09d32f.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8f/8f29299812a414ce3ae71e4aca09d32f.info
+    projectPath: Library/metadata/8f/8f29299812a414ce3ae71e4aca09d32f.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/89/890408ba2ba3f42a68ec1ca8cf8305ac
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/89/890408ba2ba3f42a68ec1ca8cf8305ac
-    projectPath: Library/metadata/89/890408ba2ba3f42a68ec1ca8cf8305ac
+  - path: Seclocean/Library/metadata/c1/c1d013fdd8c3b4d92bd34b3e284d52b5
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c1/c1d013fdd8c3b4d92bd34b3e284d52b5
+    projectPath: Library/metadata/c1/c1d013fdd8c3b4d92bd34b3e284d52b5
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/89/890408ba2ba3f42a68ec1ca8cf8305ac.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/89/890408ba2ba3f42a68ec1ca8cf8305ac.info
-    projectPath: Library/metadata/89/890408ba2ba3f42a68ec1ca8cf8305ac.info
+  - path: Seclocean/Library/metadata/c1/c1d013fdd8c3b4d92bd34b3e284d52b5.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c1/c1d013fdd8c3b4d92bd34b3e284d52b5.info
+    projectPath: Library/metadata/c1/c1d013fdd8c3b4d92bd34b3e284d52b5.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/8c/8c3fff986f01740bba1a3e9ecb5183e7
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8c/8c3fff986f01740bba1a3e9ecb5183e7
-    projectPath: Library/metadata/8c/8c3fff986f01740bba1a3e9ecb5183e7
+  - path: Seclocean/Library/metadata/c5/c51603604b16c4140a30b21dca5d5cff
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c5/c51603604b16c4140a30b21dca5d5cff
+    projectPath: Library/metadata/c5/c51603604b16c4140a30b21dca5d5cff
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/8c/8c3fff986f01740bba1a3e9ecb5183e7.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8c/8c3fff986f01740bba1a3e9ecb5183e7.info
-    projectPath: Library/metadata/8c/8c3fff986f01740bba1a3e9ecb5183e7.info
+  - path: Seclocean/Library/metadata/c5/c51603604b16c4140a30b21dca5d5cff.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c5/c51603604b16c4140a30b21dca5d5cff.info
+    projectPath: Library/metadata/c5/c51603604b16c4140a30b21dca5d5cff.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/8f/8f313af9b0237468cbe13ac323b4c088
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8f/8f313af9b0237468cbe13ac323b4c088
-    projectPath: Library/metadata/8f/8f313af9b0237468cbe13ac323b4c088
+  - path: Seclocean/Library/metadata/cf/cf583ee9b25474dd0a952d27055c7ee8
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/cf/cf583ee9b25474dd0a952d27055c7ee8
+    projectPath: Library/metadata/cf/cf583ee9b25474dd0a952d27055c7ee8
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/8f/8f313af9b0237468cbe13ac323b4c088.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/8f/8f313af9b0237468cbe13ac323b4c088.info
-    projectPath: Library/metadata/8f/8f313af9b0237468cbe13ac323b4c088.info
+  - path: Seclocean/Library/metadata/cf/cf583ee9b25474dd0a952d27055c7ee8.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/cf/cf583ee9b25474dd0a952d27055c7ee8.info
+    projectPath: Library/metadata/cf/cf583ee9b25474dd0a952d27055c7ee8.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/a3/a3b60894fb48746bcb4fee81bcf4ca2e
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/a3/a3b60894fb48746bcb4fee81bcf4ca2e
-    projectPath: Library/metadata/a3/a3b60894fb48746bcb4fee81bcf4ca2e
+  - path: Seclocean/Library/metadata/e1/e12f599b4441a4aa0a37fc5ee92ddb7c
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e1/e12f599b4441a4aa0a37fc5ee92ddb7c
+    projectPath: Library/metadata/e1/e12f599b4441a4aa0a37fc5ee92ddb7c
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/a3/a3b60894fb48746bcb4fee81bcf4ca2e.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/a3/a3b60894fb48746bcb4fee81bcf4ca2e.info
-    projectPath: Library/metadata/a3/a3b60894fb48746bcb4fee81bcf4ca2e.info
+  - path: Seclocean/Library/metadata/e1/e12f599b4441a4aa0a37fc5ee92ddb7c.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e1/e12f599b4441a4aa0a37fc5ee92ddb7c.info
+    projectPath: Library/metadata/e1/e12f599b4441a4aa0a37fc5ee92ddb7c.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/b2/b245cbb78014a4fc8978a748440283e6
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/b2/b245cbb78014a4fc8978a748440283e6
-    projectPath: Library/metadata/b2/b245cbb78014a4fc8978a748440283e6
+  - path: Seclocean/Library/metadata/e3/e30c7ae56de354f968b77aa122b119de
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e3/e30c7ae56de354f968b77aa122b119de
+    projectPath: Library/metadata/e3/e30c7ae56de354f968b77aa122b119de
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/b2/b245cbb78014a4fc8978a748440283e6.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/b2/b245cbb78014a4fc8978a748440283e6.info
-    projectPath: Library/metadata/b2/b245cbb78014a4fc8978a748440283e6.info
+  - path: Seclocean/Library/metadata/e3/e30c7ae56de354f968b77aa122b119de.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e3/e30c7ae56de354f968b77aa122b119de.info
+    projectPath: Library/metadata/e3/e30c7ae56de354f968b77aa122b119de.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/d2/d20913a48b52b4f3aa95d659a20de1fc
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d2/d20913a48b52b4f3aa95d659a20de1fc
-    projectPath: Library/metadata/d2/d20913a48b52b4f3aa95d659a20de1fc
+  - path: Seclocean/Library/metadata/e6/e6833f91d3e724c36a716c4aabf18bf5
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e6/e6833f91d3e724c36a716c4aabf18bf5
+    projectPath: Library/metadata/e6/e6833f91d3e724c36a716c4aabf18bf5
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/d2/d20913a48b52b4f3aa95d659a20de1fc.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d2/d20913a48b52b4f3aa95d659a20de1fc.info
-    projectPath: Library/metadata/d2/d20913a48b52b4f3aa95d659a20de1fc.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/fb/fb7454c2f26ff431c837e39cacdd90fb
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/fb/fb7454c2f26ff431c837e39cacdd90fb
-    projectPath: Library/metadata/fb/fb7454c2f26ff431c837e39cacdd90fb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/fb/fb7454c2f26ff431c837e39cacdd90fb.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/fb/fb7454c2f26ff431c837e39cacdd90fb.info
-    projectPath: Library/metadata/fb/fb7454c2f26ff431c837e39cacdd90fb.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/fe/fecc47786da0f4886884f5b68e43ad71
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/fe/fecc47786da0f4886884f5b68e43ad71
-    projectPath: Library/metadata/fe/fecc47786da0f4886884f5b68e43ad71
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Library/metadata/fe/fecc47786da0f4886884f5b68e43ad71.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/fe/fecc47786da0f4886884f5b68e43ad71.info
-    projectPath: Library/metadata/fe/fecc47786da0f4886884f5b68e43ad71.info
+  - path: Seclocean/Library/metadata/e6/e6833f91d3e724c36a716c4aabf18bf5.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e6/e6833f91d3e724c36a716c4aabf18bf5.info
+    projectPath: Library/metadata/e6/e6833f91d3e724c36a716c4aabf18bf5.info
     originalPath: 
     status: 1
     staged: 0
