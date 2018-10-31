@@ -9,6 +9,9 @@ TagManager:
   - Layer3Camera
   - Layer2Camera
   - Layer1Camera
+  - Projectile
+  - Enemy
+  - BlackPearl
   layers:
   - Default
   - TransparentFX

@@ -53,6 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\hatchetFishFSM.cs" />
+     <Compile Include="Assets\patrol.cs" />
+     <Compile Include="Assets\ScoreManage.cs" />
+     <Compile Include="Assets\scoreSaver.cs" />
      <Compile Include="Assets\ScoreTracker.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\CollisionManager.cs" />

@@ -37,7 +37,7 @@ public static class PlayerStats{
         }
         set 
         {
-            health = blackPearls;
+            blackPearls = value;
         }
     }
 
