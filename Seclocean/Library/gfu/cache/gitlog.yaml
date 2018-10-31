@@ -12,9 +12,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-30T19:44:19.287-07:00
+  lastUpdatedAtString: 2018-10-30T19:54:37.989-07:00
   initializedAtString: 2018-10-30T19:44:19.287-07:00
   log:
+  - commitID: 995fbde38e20c9e38d0838f58f8e8df07931e09b
+    mergeA: 
+    mergeB: 
+    authorName: Gavin Sekhon
+    authorEmail: gggavin36@gmail.com
+    commitEmail: gggavin36@gmail.com
+    commitName: Gavin Sekhon
+    summary: 
+    description: '
+
+
+      commiting master'
+    timeString: 2018-10-30T19:47:26.000-07:00
+    commitTimeString: 2018-10-30T19:47:26.000-07:00
+    changes:
+    - path: Seclocean/Library/CrashedAssetImports.txt
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/branches.yaml
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: f89f3826cc7a8fa41581ef4915a2fd748113e0f8
     mergeA: 
     mergeB: 
