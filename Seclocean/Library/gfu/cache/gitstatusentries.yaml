@@ -12,107 +12,349 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-30T20:40:32.379-07:00
+  lastUpdatedAtString: 2018-10-30T20:59:07.831-07:00
   initializedAtString: 2018-10-30T16:29:55.639-07:00
   entries:
-  - path: Seclocean/Assembly-CSharp.csproj
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Assets/Scenes/Cutscenes/boss tail whip charge.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Cutscenes/boss
-      tail whip charge.anim
-    projectPath: Assets/Scenes/Cutscenes/boss tail whip charge.anim
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Assets/Scenes/Levels/GangInitiation.unity
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/GangInitiation.unity
-    projectPath: Assets/Scenes/Levels/GangInitiation.unity
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top.meta
+    projectPath: Assets/Visual Assets/gang boss/Top.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Scenes/Levels/GangInitiation.unity.meta
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Scenes/Levels/GangInitiation.unity.meta
-    projectPath: Assets/Scenes/Levels/GangInitiation.unity.meta
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss headbutt.anim
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/gang boss headbutt.anim
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss headbutt.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/boss tail whip charge 1.anim
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss headbutt.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/boss tail whip charge 1.anim
-    projectPath: Assets/Visual Assets/gang boss/Side/boss tail whip charge 1.anim
+      Assets/gang boss/Top/gang boss headbutt.anim.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss headbutt.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/boss tail whip charge 1.anim.meta
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top anim.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/boss tail whip charge 1.anim.meta
-    projectPath: Assets/Visual Assets/gang boss/Side/boss tail whip charge 1.anim.meta
+      Assets/gang boss/Top/gang boss top anim.anim
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top anim.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/boss tail whip charge 2.anim
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top anim.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/boss tail whip charge 2.anim
-    projectPath: Assets/Visual Assets/gang boss/Side/boss tail whip charge 2.anim
+      Assets/gang boss/Top/gang boss top anim.anim.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top anim.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/boss tail whip charge 2.anim.meta
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top frill prime.anim
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/boss tail whip charge 2.anim.meta
-    projectPath: Assets/Visual Assets/gang boss/Side/boss tail whip charge 2.anim.meta
+      Assets/gang boss/Top/gang boss top frill prime.anim
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top frill prime.anim
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/boss tail whip charge 3.anim
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top frill prime.anim.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/boss tail whip charge 3.anim
-    projectPath: Assets/Visual Assets/gang boss/Side/boss tail whip charge 3.anim
+      Assets/gang boss/Top/gang boss top frill prime.anim.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top frill prime.anim.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/boss tail whip charge 3.anim.meta
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top scene.unity
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/boss tail whip charge 3.anim.meta
-    projectPath: Assets/Visual Assets/gang boss/Side/boss tail whip charge 3.anim.meta
+      Assets/gang boss/Top/gang boss top scene.unity
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top scene.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/gang boss side.controller
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top scene.unity.meta
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/gang boss side.controller
-    projectPath: Assets/Visual Assets/gang boss/Side/gang boss side.controller
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/gang boss side.unity
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/gang boss side.unity
-    projectPath: Assets/Visual Assets/gang boss/Side/gang boss side.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/tail whip boss.anim
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/tail whip boss.anim
-    projectPath: Assets/Visual Assets/gang boss/Side/tail whip boss.anim
+      Assets/gang boss/Top/gang boss top scene.unity.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top scene.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Assets/Visual Assets/gang boss/Side/tail whip boss.anim.meta
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top.controller
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
-      Assets/gang boss/Side/tail whip boss.anim.meta
-    projectPath: Assets/Visual Assets/gang boss/Side/tail whip boss.anim.meta
+      Assets/gang boss/Top/gang boss top.controller
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gang boss top.controller.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/gang boss top.controller.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/gang boss top.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gangboss top tail whip.anim
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/gangboss top tail whip.anim
+    projectPath: Assets/Visual Assets/gang boss/Top/gangboss top tail whip.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/gangboss top tail whip.anim.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/gangboss top tail whip.anim.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/gangboss top tail whip.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_0.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_0.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_0.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_0.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_0.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_0.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_1.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_1.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_1.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_1.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_2.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_2.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_2.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_2.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_3.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_3.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_3.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_3.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Side_GangBoss_Attack_3.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Side_GangBoss_Attack_3.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/top gb tail ready.anim
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/top gb tail ready.anim
+    projectPath: Assets/Visual Assets/gang boss/Top/top gb tail ready.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/top gb tail ready.anim.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/top gb tail ready.anim.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/top gb tail ready.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Body.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Body.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Body.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Body.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Body.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Body.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Crown.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Crown.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Crown.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Crown.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Crown.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Crown.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.controller
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.controller
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.controller.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.controller.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Alive.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Dead.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Eyes_Dead.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Dead.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Dead.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Eyes_Dead.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Eyes_Dead.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill1.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill1.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill1_Attack.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill1_Attack.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack_Glow.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill1_Attack_Glow.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack_Glow.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack_Glow.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill1_Attack_Glow.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill1_Attack_Glow.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill2.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill2.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill2.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Frill2.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Frill2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Full.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Full.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Full.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Full.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Full.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Full.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Head.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Head.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Head.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_Head.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_Head.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_Head.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_LeftFin.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_LeftFin.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_LeftFin.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_LeftFin.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_LeftFin.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_LeftFin.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_RightFin.png
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_RightFin.png
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_RightFin.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Assets/Visual Assets/gang boss/Top/Top_GangBoss_RightFin.png.meta
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Assets/Visual
+      Assets/gang boss/Top/Top_GangBoss_RightFin.png.meta
+    projectPath: Assets/Visual Assets/gang boss/Top/Top_GangBoss_RightFin.png.meta
     originalPath: 
     status: 1
     staged: 0
@@ -122,15 +364,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/CrashedAssetImports.txt
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/CrashedAssetImports.txt
-    projectPath: Library/CrashedAssetImports.txt
+  - path: Seclocean/Library/gfu/cache/branches.yaml
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Seclocean/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Seclocean/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -146,207 +394,315 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/00/00000000000000002000000000000000
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/00/00000000000000002000000000000000
-    projectPath: Library/metadata/00/00000000000000002000000000000000
+  - path: Seclocean/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Seclocean/Library/metadata/00/00000000000000003000000000000000
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/00/00000000000000003000000000000000
-    projectPath: Library/metadata/00/00000000000000003000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/00/00000000000000004000000000000000
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/00/00000000000000004000000000000000
-    projectPath: Library/metadata/00/00000000000000004000000000000000
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/0e/0ea5da4eac93b481d9b387716e931a06
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/0e/0ea5da4eac93b481d9b387716e931a06
-    projectPath: Library/metadata/0e/0ea5da4eac93b481d9b387716e931a06
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/0e/0ed115e2235474e69b4049b384d13f0a
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/0e/0ed115e2235474e69b4049b384d13f0a
-    projectPath: Library/metadata/0e/0ed115e2235474e69b4049b384d13f0a
+  - path: Seclocean/Library/metadata/07/07c336b29dbff465e96306608fd46296
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/07/07c336b29dbff465e96306608fd46296
+    projectPath: Library/metadata/07/07c336b29dbff465e96306608fd46296
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/0e/0ed115e2235474e69b4049b384d13f0a.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/0e/0ed115e2235474e69b4049b384d13f0a.info
-    projectPath: Library/metadata/0e/0ed115e2235474e69b4049b384d13f0a.info
+  - path: Seclocean/Library/metadata/07/07c336b29dbff465e96306608fd46296.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/07/07c336b29dbff465e96306608fd46296.info
+    projectPath: Library/metadata/07/07c336b29dbff465e96306608fd46296.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/1e/1e69059eff68e49b48d2a07145f55757
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1e/1e69059eff68e49b48d2a07145f55757
-    projectPath: Library/metadata/1e/1e69059eff68e49b48d2a07145f55757
+  - path: Seclocean/Library/metadata/19/19fc23fab75104a308195e9dfc0ccf73
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/19/19fc23fab75104a308195e9dfc0ccf73
+    projectPath: Library/metadata/19/19fc23fab75104a308195e9dfc0ccf73
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/1e/1e69059eff68e49b48d2a07145f55757.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1e/1e69059eff68e49b48d2a07145f55757.info
-    projectPath: Library/metadata/1e/1e69059eff68e49b48d2a07145f55757.info
+  - path: Seclocean/Library/metadata/19/19fc23fab75104a308195e9dfc0ccf73.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/19/19fc23fab75104a308195e9dfc0ccf73.info
+    projectPath: Library/metadata/19/19fc23fab75104a308195e9dfc0ccf73.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/29/29fb6d54823804d5596823693e79d90b
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/29/29fb6d54823804d5596823693e79d90b
-    projectPath: Library/metadata/29/29fb6d54823804d5596823693e79d90b
+  - path: Seclocean/Library/metadata/1e/1e4e09769a77245b28c0a79c47da4a1a
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1e/1e4e09769a77245b28c0a79c47da4a1a
+    projectPath: Library/metadata/1e/1e4e09769a77245b28c0a79c47da4a1a
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/29/29fb6d54823804d5596823693e79d90b.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/29/29fb6d54823804d5596823693e79d90b.info
-    projectPath: Library/metadata/29/29fb6d54823804d5596823693e79d90b.info
+  - path: Seclocean/Library/metadata/1e/1e4e09769a77245b28c0a79c47da4a1a.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/1e/1e4e09769a77245b28c0a79c47da4a1a.info
+    projectPath: Library/metadata/1e/1e4e09769a77245b28c0a79c47da4a1a.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
-    projectPath: Library/metadata/62/6257d2996a61a42b8a03d13c820f7131
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/64/64b334af9a1254fee877784cd576a116
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/64/64b334af9a1254fee877784cd576a116
-    projectPath: Library/metadata/64/64b334af9a1254fee877784cd576a116
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/65/65f398e52dd6640728e7507cbe4d9964
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/65/65f398e52dd6640728e7507cbe4d9964
-    projectPath: Library/metadata/65/65f398e52dd6640728e7507cbe4d9964
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
-    projectPath: Library/metadata/69/69b0b4e81792e44a1bc49e473a030005
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111
-    projectPath: Library/metadata/73/737a97df7f39c46c6813225b65a61111
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/73/737a97df7f39c46c6813225b65a61111.info
-    projectPath: Library/metadata/73/737a97df7f39c46c6813225b65a61111.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Seclocean/Library/metadata/88/885e5740510144b4ab8088b280df3380
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/88/885e5740510144b4ab8088b280df3380
-    projectPath: Library/metadata/88/885e5740510144b4ab8088b280df3380
+  - path: Seclocean/Library/metadata/2a/2a26e79475b9240708e25a288b3c0531
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/2a/2a26e79475b9240708e25a288b3c0531
+    projectPath: Library/metadata/2a/2a26e79475b9240708e25a288b3c0531
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/88/885e5740510144b4ab8088b280df3380.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/88/885e5740510144b4ab8088b280df3380.info
-    projectPath: Library/metadata/88/885e5740510144b4ab8088b280df3380.info
+  - path: Seclocean/Library/metadata/2a/2a26e79475b9240708e25a288b3c0531.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/2a/2a26e79475b9240708e25a288b3c0531.info
+    projectPath: Library/metadata/2a/2a26e79475b9240708e25a288b3c0531.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/aa/aa12804f7eb1c43e59d60f401b0c2b4d
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/aa/aa12804f7eb1c43e59d60f401b0c2b4d
-    projectPath: Library/metadata/aa/aa12804f7eb1c43e59d60f401b0c2b4d
+  - path: Seclocean/Library/metadata/2b/2b4fb60ee15654e4fa07dad52cc2a71e
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/2b/2b4fb60ee15654e4fa07dad52cc2a71e
+    projectPath: Library/metadata/2b/2b4fb60ee15654e4fa07dad52cc2a71e
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/aa/aa12804f7eb1c43e59d60f401b0c2b4d.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/aa/aa12804f7eb1c43e59d60f401b0c2b4d.info
-    projectPath: Library/metadata/aa/aa12804f7eb1c43e59d60f401b0c2b4d.info
+  - path: Seclocean/Library/metadata/2b/2b4fb60ee15654e4fa07dad52cc2a71e.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/2b/2b4fb60ee15654e4fa07dad52cc2a71e.info
+    projectPath: Library/metadata/2b/2b4fb60ee15654e4fa07dad52cc2a71e.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/b2/b222c07ae15604d429d0b7ca372c02e4
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/b2/b222c07ae15604d429d0b7ca372c02e4
-    projectPath: Library/metadata/b2/b222c07ae15604d429d0b7ca372c02e4
+  - path: Seclocean/Library/metadata/30/30ea178104e5f4f4587f1baa2d04ec40
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/30/30ea178104e5f4f4587f1baa2d04ec40
+    projectPath: Library/metadata/30/30ea178104e5f4f4587f1baa2d04ec40
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
-    projectPath: Library/metadata/c8/c8613e66707554d2fa279cf7bd1fb777
+  - path: Seclocean/Library/metadata/30/30ea178104e5f4f4587f1baa2d04ec40.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/30/30ea178104e5f4f4587f1baa2d04ec40.info
+    projectPath: Library/metadata/30/30ea178104e5f4f4587f1baa2d04ec40.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
-    projectPath: Library/metadata/c8/c8be30a8a56de45f8866b04caaf1a688
+  - path: Seclocean/Library/metadata/36/36ffb1b5fb17245bf889afea7bc3d80c
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/36/36ffb1b5fb17245bf889afea7bc3d80c
+    projectPath: Library/metadata/36/36ffb1b5fb17245bf889afea7bc3d80c
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07
-    projectPath: Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07
+  - path: Seclocean/Library/metadata/36/36ffb1b5fb17245bf889afea7bc3d80c.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/36/36ffb1b5fb17245bf889afea7bc3d80c.info
+    projectPath: Library/metadata/36/36ffb1b5fb17245bf889afea7bc3d80c.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07.info
-    projectPath: Library/metadata/c9/c951508e13f0c432a8fd2ace82754c07.info
+  - path: Seclocean/Library/metadata/3a/3a7771e240d3a47dba9a8ae4610ddca0
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/3a/3a7771e240d3a47dba9a8ae4610ddca0
+    projectPath: Library/metadata/3a/3a7771e240d3a47dba9a8ae4610ddca0
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423
-    projectPath: Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423
+  - path: Seclocean/Library/metadata/3a/3a7771e240d3a47dba9a8ae4610ddca0.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/3a/3a7771e240d3a47dba9a8ae4610ddca0.info
+    projectPath: Library/metadata/3a/3a7771e240d3a47dba9a8ae4610ddca0.info
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Seclocean/Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423.info
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423.info
-    projectPath: Library/metadata/e1/e15091e10287b41e4ad4d96c2bf93423.info
+  - path: Seclocean/Library/metadata/3a/3aa571e1aca1344378617f7898944d7d
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/3a/3aa571e1aca1344378617f7898944d7d
+    projectPath: Library/metadata/3a/3aa571e1aca1344378617f7898944d7d
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/3a/3aa571e1aca1344378617f7898944d7d.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/3a/3aa571e1aca1344378617f7898944d7d.info
+    projectPath: Library/metadata/3a/3aa571e1aca1344378617f7898944d7d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/45/45e836ff12860405bb284c6af7d68787
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/45/45e836ff12860405bb284c6af7d68787
+    projectPath: Library/metadata/45/45e836ff12860405bb284c6af7d68787
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/45/45e836ff12860405bb284c6af7d68787.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/45/45e836ff12860405bb284c6af7d68787.info
+    projectPath: Library/metadata/45/45e836ff12860405bb284c6af7d68787.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/5c/5cf1d2752d7654f86945c464f8be5c9f
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5c/5cf1d2752d7654f86945c464f8be5c9f
+    projectPath: Library/metadata/5c/5cf1d2752d7654f86945c464f8be5c9f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/5c/5cf1d2752d7654f86945c464f8be5c9f.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/5c/5cf1d2752d7654f86945c464f8be5c9f.info
+    projectPath: Library/metadata/5c/5cf1d2752d7654f86945c464f8be5c9f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/75/75d5438e31da842ff9c90259bd4c9135
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/75/75d5438e31da842ff9c90259bd4c9135
+    projectPath: Library/metadata/75/75d5438e31da842ff9c90259bd4c9135
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/75/75d5438e31da842ff9c90259bd4c9135.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/75/75d5438e31da842ff9c90259bd4c9135.info
+    projectPath: Library/metadata/75/75d5438e31da842ff9c90259bd4c9135.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/79/791a6b6eb074a4ddea96fbdca7563c51
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/79/791a6b6eb074a4ddea96fbdca7563c51
+    projectPath: Library/metadata/79/791a6b6eb074a4ddea96fbdca7563c51
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/79/791a6b6eb074a4ddea96fbdca7563c51.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/79/791a6b6eb074a4ddea96fbdca7563c51.info
+    projectPath: Library/metadata/79/791a6b6eb074a4ddea96fbdca7563c51.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/99/9950749c776f4474c9ccd0e5a8e1beab
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/99/9950749c776f4474c9ccd0e5a8e1beab
+    projectPath: Library/metadata/99/9950749c776f4474c9ccd0e5a8e1beab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/99/9950749c776f4474c9ccd0e5a8e1beab.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/99/9950749c776f4474c9ccd0e5a8e1beab.info
+    projectPath: Library/metadata/99/9950749c776f4474c9ccd0e5a8e1beab.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/9d/9d9c01e1f2fb44d63b0e8109866b0627
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/9d/9d9c01e1f2fb44d63b0e8109866b0627
+    projectPath: Library/metadata/9d/9d9c01e1f2fb44d63b0e8109866b0627
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/9d/9d9c01e1f2fb44d63b0e8109866b0627.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/9d/9d9c01e1f2fb44d63b0e8109866b0627.info
+    projectPath: Library/metadata/9d/9d9c01e1f2fb44d63b0e8109866b0627.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/9e/9e3a9c36907a5445b883c0f731d288cc
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/9e/9e3a9c36907a5445b883c0f731d288cc
+    projectPath: Library/metadata/9e/9e3a9c36907a5445b883c0f731d288cc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/9e/9e3a9c36907a5445b883c0f731d288cc.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/9e/9e3a9c36907a5445b883c0f731d288cc.info
+    projectPath: Library/metadata/9e/9e3a9c36907a5445b883c0f731d288cc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/a3/a34e8f3f0adcf4a1fa7c4264cab5db20
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/a3/a34e8f3f0adcf4a1fa7c4264cab5db20
+    projectPath: Library/metadata/a3/a34e8f3f0adcf4a1fa7c4264cab5db20
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/a3/a34e8f3f0adcf4a1fa7c4264cab5db20.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/a3/a34e8f3f0adcf4a1fa7c4264cab5db20.info
+    projectPath: Library/metadata/a3/a34e8f3f0adcf4a1fa7c4264cab5db20.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/ba/bab3cc0b2b2244173854e9aa0eda5674
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/ba/bab3cc0b2b2244173854e9aa0eda5674
+    projectPath: Library/metadata/ba/bab3cc0b2b2244173854e9aa0eda5674
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/ba/bab3cc0b2b2244173854e9aa0eda5674.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/ba/bab3cc0b2b2244173854e9aa0eda5674.info
+    projectPath: Library/metadata/ba/bab3cc0b2b2244173854e9aa0eda5674.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/c8/c80702a58998249d3a78c454068beb56
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c80702a58998249d3a78c454068beb56
+    projectPath: Library/metadata/c8/c80702a58998249d3a78c454068beb56
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/c8/c80702a58998249d3a78c454068beb56.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/c8/c80702a58998249d3a78c454068beb56.info
+    projectPath: Library/metadata/c8/c80702a58998249d3a78c454068beb56.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/d0/d07977072e68b4f02b8a52c245fbc067
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d0/d07977072e68b4f02b8a52c245fbc067
+    projectPath: Library/metadata/d0/d07977072e68b4f02b8a52c245fbc067
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/d0/d07977072e68b4f02b8a52c245fbc067.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d0/d07977072e68b4f02b8a52c245fbc067.info
+    projectPath: Library/metadata/d0/d07977072e68b4f02b8a52c245fbc067.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/d2/d2d7f756670be41b8bbe0cc1fa107efa
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d2/d2d7f756670be41b8bbe0cc1fa107efa
+    projectPath: Library/metadata/d2/d2d7f756670be41b8bbe0cc1fa107efa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/d2/d2d7f756670be41b8bbe0cc1fa107efa.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/d2/d2d7f756670be41b8bbe0cc1fa107efa.info
+    projectPath: Library/metadata/d2/d2d7f756670be41b8bbe0cc1fa107efa.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/de/de57d72f4ec8c46dc90f42fadc0b96cf
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/de/de57d72f4ec8c46dc90f42fadc0b96cf
+    projectPath: Library/metadata/de/de57d72f4ec8c46dc90f42fadc0b96cf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/de/de57d72f4ec8c46dc90f42fadc0b96cf.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/de/de57d72f4ec8c46dc90f42fadc0b96cf.info
+    projectPath: Library/metadata/de/de57d72f4ec8c46dc90f42fadc0b96cf.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/e4/e45f53e121862414c9cb72c603860286
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e4/e45f53e121862414c9cb72c603860286
+    projectPath: Library/metadata/e4/e45f53e121862414c9cb72c603860286
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/e4/e45f53e121862414c9cb72c603860286.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e4/e45f53e121862414c9cb72c603860286.info
+    projectPath: Library/metadata/e4/e45f53e121862414c9cb72c603860286.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/e7/e7c6e7ba8823446f9bd51eedf670278f
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e7/e7c6e7ba8823446f9bd51eedf670278f
+    projectPath: Library/metadata/e7/e7c6e7ba8823446f9bd51eedf670278f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/e7/e7c6e7ba8823446f9bd51eedf670278f.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/e7/e7c6e7ba8823446f9bd51eedf670278f.info
+    projectPath: Library/metadata/e7/e7c6e7ba8823446f9bd51eedf670278f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/f5/f57c204c8fec64a63b9537972206ef39
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/f5/f57c204c8fec64a63b9537972206ef39
+    projectPath: Library/metadata/f5/f57c204c8fec64a63b9537972206ef39
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Seclocean/Library/metadata/f5/f57c204c8fec64a63b9537972206ef39.info
+    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Library/metadata/f5/f57c204c8fec64a63b9537972206ef39.info
+    projectPath: Library/metadata/f5/f57c204c8fec64a63b9537972206ef39.info
+    originalPath: 
+    status: 1
     staged: 0
   - path: Seclocean/Temp/__Backupscenes/0.backup
     fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     status: 3
-    staged: 0
-  - path: Seclocean/Temp/UnityTempFile-401ccd70031e842338fcb00edcdfb3ff
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-401ccd70031e842338fcb00edcdfb3ff
-    projectPath: Temp/UnityTempFile-401ccd70031e842338fcb00edcdfb3ff
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Temp/UnityTempFile-6e8fcf34097904b72882379e85d30de9
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-6e8fcf34097904b72882379e85d30de9
-    projectPath: Temp/UnityTempFile-6e8fcf34097904b72882379e85d30de9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Temp/UnityTempFile-98cdaec2396794148bea92fe2b3cae98
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-98cdaec2396794148bea92fe2b3cae98
-    projectPath: Temp/UnityTempFile-98cdaec2396794148bea92fe2b3cae98
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Temp/UnityTempFile-9cb5acee76ef4414f954626aecd2c3a6
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-9cb5acee76ef4414f954626aecd2c3a6
-    projectPath: Temp/UnityTempFile-9cb5acee76ef4414f954626aecd2c3a6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Temp/UnityTempFile-ac76f7e65b087446dafea1cf4172e52e
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-ac76f7e65b087446dafea1cf4172e52e
-    projectPath: Temp/UnityTempFile-ac76f7e65b087446dafea1cf4172e52e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Seclocean/Temp/UnityTempFile-b57d5f16740f7480e9847e9eba7961d4
-    fullPath: /Users/gavin/Desktop/School/IAT 410/Salt-Base-Studio/Seclocean/Temp/UnityTempFile-b57d5f16740f7480e9847e9eba7961d4
-    projectPath: Temp/UnityTempFile-b57d5f16740f7480e9847e9eba7961d4
-    originalPath: 
-    status: 1
     staged: 0
