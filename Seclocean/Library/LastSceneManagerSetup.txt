@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Visual Assets/Hatchet Fish/Side/HatchetFish Side.unity
+=======
+- path: Assets/Visual Assets/orthocannon/Side/orthocannon side.unity
+>>>>>>> gavin
   isLoaded: 1
   isActive: 1
