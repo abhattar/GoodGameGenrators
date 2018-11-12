@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class scoreSaver : MonoBehaviour {
 
-	public static int health = 65;
+	public static float health = 123.0f;
 	public static int kills;
 	public static int blackpearls;
 	public static int inLayer;
@@ -26,13 +26,21 @@ public class scoreSaver : MonoBehaviour {
 
 	public static float layer4Yside;
 
-	public static float portalTopX;
+	public static float portal1TopX;
 
-	public static float portalSideX;
+	public static float portal1SideX;
 
-	public static float portalTopY;
+	public static float portal1TopY;
 
-	public static float portalSideY;
+	public static float portal1SideY;
+
+	public static float portal2TopX;
+
+	public static float portal2SideX;
+
+	public static float portal2TopY;
+
+	public static float portal2SideY;
 
 	public static float angiePosX;
 
@@ -47,7 +55,7 @@ public class scoreSaver : MonoBehaviour {
 	void Start () {
 
 		blackpearls = 0;
-		health = 65;
+		health = 123.0f;
 		kills = 0;
 	}
 	
@@ -58,8 +66,7 @@ public class scoreSaver : MonoBehaviour {
         rt.sizeDelta = new Vector2 (scoreSaver.health, rt.rect.height);
 
 		BlackPearls.text = (blackpearls/2).ToString();
-		print(inLayer);
-		print(layerKind);
+		
 		
 
 	}

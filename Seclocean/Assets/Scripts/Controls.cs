@@ -96,8 +96,14 @@ public class Controls : MonoBehaviour {
 
 						sideAngie.SetActive(true);
 						scoreSaver.activeAngie = sideAngie;
-						sideAngie.transform.position = new Vector3(scoreSaver.portalSideX,scoreSaver.portalSideY);
-						Layer1Cam.transform.position = new Vector3(scoreSaver.portalSideX,scoreSaver.portalSideY);
+						if(scoreSaver.inLayer == 1){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal1SideX,scoreSaver.portal1SideY);
+							Layer1Cam.transform.position = new Vector3(scoreSaver.portal1SideX,scoreSaver.portal1SideY);
+						}
+						else if(scoreSaver.inLayer ==2){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal2SideX,scoreSaver.portal2SideY);
+							Layer1Cam.transform.position = new Vector3(scoreSaver.portal2SideX,scoreSaver.portal2SideY);
+						}
 						topAngie.SetActive(false);	
 					}
 					else if(scoreSaver.layerKind == "SidePortal"){
@@ -106,8 +112,14 @@ public class Controls : MonoBehaviour {
 
 						topAngie.SetActive(true);
 						scoreSaver.activeAngie = topAngie;
-						topAngie.transform.position = new Vector3(scoreSaver.portalSideX,scoreSaver.portalSideY);
-						TopLayerCam.transform.position = new Vector3(scoreSaver.portalSideX,scoreSaver.portalSideY);
+						if(scoreSaver.inLayer == 1){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal1TopX,scoreSaver.portal1TopY);
+							TopLayerCam.transform.position = new Vector3(scoreSaver.portal1TopX,scoreSaver.portal1TopY);
+						}
+						else if(scoreSaver.inLayer == 2){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal2TopX,scoreSaver.portal2TopY);
+							TopLayerCam.transform.position = new Vector3(scoreSaver.portal2TopX,scoreSaver.portal2TopY);
+						}
 						sideAngie.SetActive(false);	
 					}
 

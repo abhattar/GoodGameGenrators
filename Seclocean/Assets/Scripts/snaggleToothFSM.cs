@@ -20,7 +20,7 @@ public class snaggleToothFSM : MonoBehaviour {
 			 GetComponent<Animator>().SetTrigger("Bite");
 		}
 
-		for()
+		
 
 		
 	}

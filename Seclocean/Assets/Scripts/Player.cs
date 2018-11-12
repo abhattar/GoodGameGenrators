@@ -7,11 +7,10 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour {
 
-    Animator animator;
+
     public float speedValue;
-    private int test;
+
     private float initSpeedValue;
-    private float maxHealth;
 
     
     
@@ -19,19 +18,13 @@ public class Player : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        maxHealth = 65.0f;
-        animator = GetComponent<Animator>();
         initSpeedValue = speedValue;
-        test = 0;
     }
     
     // Update is called once per frame
     void Update () {
 
-        
-
-        
-
+     
             if (Input.GetKeyDown(KeyCode.J))
             {
                 speedValue = initSpeedValue * 2;   
@@ -57,8 +50,8 @@ public class Player : MonoBehaviour {
 
          transform.localScale = new Vector3(xScale, 0.6515f, 0.6515f);
 
-            // animator.SetFloat("speed", Mathf.Abs(speed));
-            // animator.SetFloat("speed2", Mathf.Abs(speed2));
+            // GetComponent<Animator>().SetFloat("speed", Mathf.Abs(speed));
+            // GetComponent<Animator>().SetFloat("speed2", Mathf.Abs(speed2));
 
             transform.Translate(new Vector3(speed, speed2));
 
@@ -92,7 +85,7 @@ public class Player : MonoBehaviour {
 
     }
 
-    void OnTriggerEnter2D(Collider2D col)
+    void OnTriggerStay2D(Collider2D col)
     {
             if(col.isTrigger){
                 if (col.tag == "Enemy"){
@@ -101,7 +94,7 @@ public class Player : MonoBehaviour {
                     }
                     else{
                         if(scoreSaver.health > 0)
-                        scoreSaver.health--;
+                        scoreSaver.health = scoreSaver.health - 0.25f;
                     }
                 }
                 else if (col.tag == "BlackPearl"){

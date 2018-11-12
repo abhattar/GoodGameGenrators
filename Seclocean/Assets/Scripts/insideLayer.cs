@@ -25,6 +25,7 @@ public class insideLayer : MonoBehaviour {
 				  	scoreSaver.layer4Ytop = transform.position.y; 
 			  }
 		  }
+
 		  if(layerKind == "Side"){
 			  if(layerNumber == 1){
 					scoreSaver.layer1Yside = transform.position.y; 
@@ -39,21 +40,29 @@ public class insideLayer : MonoBehaviour {
 				  	scoreSaver.layer4Yside = transform.position.y; 
 			  }
 		  }
-		  if(scoreSaver.inPortal == "SidePortal"){
-			  if(layerKind == "TopPortal"){
-				  print(scoreSaver.inPortal);
-				  print(scoreSaver.portalTopX);
-				  print(scoreSaver.portalTopY);
-				  scoreSaver.portalTopX = transform.position.x;
-				  scoreSaver.portalTopY = transform.position.y;
-			  }
-		  }
-		  else if(scoreSaver.inPortal == "TopPortal"){
-			  if(layerKind == "SidePortal"){
-				  scoreSaver.portalSideX = transform.position.x;
-				  scoreSaver.portalSideY = transform.position.y;
-			  }
-		  } 
+
+
+			if(layerKind == "TopPortal"){
+				if(layerNumber == 1){
+					scoreSaver.portal1TopX = transform.position.x;
+				  	scoreSaver.portal1TopY = transform.position.y;
+				}
+				else if(layerNumber == 2){
+					scoreSaver.portal2TopX = transform.position.x;
+				  	scoreSaver.portal2TopY = transform.position.y;
+				}
+			}
+			if(layerKind == "SidePortal"){
+				if(layerNumber == 1){
+					scoreSaver.portal1SideX = transform.position.x;
+					scoreSaver.portal1SideY = transform.position.y;
+				}
+				if(layerNumber == 2){
+					scoreSaver.portal2SideX = transform.position.x;
+					scoreSaver.portal2SideY = transform.position.y;
+				}
+			}
+		 
 		  
 		  
 	}
@@ -71,11 +80,12 @@ public class insideLayer : MonoBehaviour {
 				   scoreSaver.inLayer = layerNumber;
 				   scoreSaver.angiePosX = col.transform.position.x;
 				   scoreSaver.layerKind = layerKind;
+				   print(layerKind);
 				   if(layerKind == "SidePortal" || layerKind == "TopPoral"){
 					   scoreSaver.inPortal = layerKind;
-					   print("here");
+					   
 				   }
-				// print(layerKind);
+				 
 				// print(layerNumber);
 				// print(layerKind);
 			   }
