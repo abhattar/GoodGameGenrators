@@ -12,6 +12,7 @@ TagManager:
   - Projectile
   - Enemy
   - BlackPearl
+  - PlayerTop
   layers:
   - Default
   - TransparentFX

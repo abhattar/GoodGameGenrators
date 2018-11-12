@@ -8,17 +8,11 @@ using UnityEngine.UI;
 public class Player : MonoBehaviour {
 
     Animator animator;
-    public int layer;
-
     public float speedValue;
-    public Camera sideCamera;
-    public Camera sideCamera2;
-    public Camera overheadCamera;
-    
     private int test;
     private float initSpeedValue;
     private float maxHealth;
-    private int activeLayer;
+
     
     
 
@@ -35,22 +29,8 @@ public class Player : MonoBehaviour {
     void Update () {
 
         
-          
-        if(sideCamera.enabled){
-            activeLayer = 1;
-        }
-        else if(sideCamera2.enabled){
-            activeLayer = 2;
-        }
-        else if(overheadCamera.enabled){
-            activeLayer = 0;
-        }
-        else{
-            activeLayer = 23;
-        }
 
-
-        if(activeLayer == layer) {
+        
 
             if (Input.GetKeyDown(KeyCode.J))
             {
@@ -69,6 +49,10 @@ public class Player : MonoBehaviour {
             }
             else if (speed / Mathf.Abs(speed) == -1){
                 xScale = -0.6515f;
+            }
+
+            if(Input.GetKeyDown(KeyCode.Semicolon)){
+                print("you prick just pressed me");
             }
 
          transform.localScale = new Vector3(xScale, 0.6515f, 0.6515f);
@@ -102,26 +86,7 @@ public class Player : MonoBehaviour {
             if(Input.GetKeyDown(KeyCode.D)){
                 pos.x += speed * Time.deltaTime;
             }
-
-                if (Input.GetKeyUp(KeyCode.Space))
-                {
-                        print(layer);
-                        print(activeLayer);
-         
-                        if((sideCamera.enabled)){
-                            sideCamera.enabled = false;
-                            sideCamera2.enabled = false;  
-                            overheadCamera.enabled = true;
-                        }
-                        else if((overheadCamera.enabled)){
-                            overheadCamera.enabled = false;
-                            sideCamera.enabled = true;
-                          
-                        }
-                        
-                }
-            
-        }
+        
 
    
 
@@ -130,17 +95,22 @@ public class Player : MonoBehaviour {
     void OnTriggerEnter2D(Collider2D col)
     {
             if(col.isTrigger){
-                
-                if (GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("Angie Bite")) { 
-				    Destroy(col.gameObject);
+                if (col.tag == "Enemy"){
+                    if (GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("Angie Bite")) { 
+                        Destroy(col.gameObject);
+                    }
+                    else{
+                        if(scoreSaver.health > 0)
+                        scoreSaver.health--;
+                    }
                 }
-                else{
-                    if(scoreSaver.health > 0)
-                    scoreSaver.health--;
+                else if (col.tag == "BlackPearl"){
+                    scoreSaver.blackpearls++;
+                    Destroy(col.gameObject);
                 }
-                
-            
-            }	   
+            }
+
+            	   
     }
 
 }

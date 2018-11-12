@@ -1,7 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Levels/GangInitiation.unity
-  isLoaded: 1
-  isActive: 0
-- path: Assets/Scenes/ScoreKeeper.unity
+- path: Assets/Levels/Levels/TutorialLevel/TutorialLevel.unity
   isLoaded: 1
   isActive: 1

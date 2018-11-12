@@ -53,14 +53,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\hatchetFishFSM.cs" />
-     <Compile Include="Assets\patrol.cs" />
-     <Compile Include="Assets\ScoreManage.cs" />
-     <Compile Include="Assets\scoreSaver.cs" />
-     <Compile Include="Assets\ScoreTracker.cs" />
+     <Compile Include="Assets\Levels\Levels\TutorialLevel\TutorialLevelScript.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Scripts\CollisionManager.cs" />
+     <Compile Include="Assets\Scripts\Controls.cs" />
+     <Compile Include="Assets\Scripts\hatchetFishFSM.cs" />
+     <Compile Include="Assets\Scripts\insideLayer.cs" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\patrol.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\scoreSaver.cs" />
+     <Compile Include="Assets\Scripts\ScoreTracker.cs" />
+     <Compile Include="Assets\Scripts\snaggleToothFSM.cs" />
      <Compile Include="Assets\Scripts\Squidmove.cs" />
      <Compile Include="Assets\Scripts\UIManager.cs" />
      <Compile Include="Assets\Scripts\videoTrigger.cs" />
@@ -328,6 +331,10 @@
  <Reference Include="Boo.Lang">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{62CC26EF-B677-97A5-1244-F0BC74F2F113}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
