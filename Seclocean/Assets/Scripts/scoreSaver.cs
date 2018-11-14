@@ -6,8 +6,20 @@ using UnityEngine.UI;
 public class scoreSaver : MonoBehaviour {
 
 	public static float health = 123.0f;
+
+	public static float stamina = 123.0f;
 	public static int kills;
 	public static int blackpearls;
+
+	public static int  bossHP;
+
+	public static bool defeated;
+
+
+
+
+
+	///Layer and Portals Data
 	public static int inLayer;
 	public static string inPortal;
 	public static float layer1Ytop;
@@ -48,15 +60,26 @@ public class scoreSaver : MonoBehaviour {
 
 	public static GameObject activeAngie;
 
+	
+
+
+
+	//UI ELEMENTS
+
 	public Text BlackPearls;
 	public GameObject healthBar;
+	public GameObject staminaBar;
+	public GameObject defeatedUI;
 
 	// Use this for initialization
 	void Start () {
-
+		bossHP = 0;
 		blackpearls = 0;
 		health = 123.0f;
+		stamina = 123.0f;
 		kills = 0;
+		defeated = false;
+		defeatedUI.SetActive(false);
 	}
 	
 	// Update is called once per frame
@@ -65,7 +88,17 @@ public class scoreSaver : MonoBehaviour {
 		RectTransform rt = healthBar.GetComponent<RectTransform>();
         rt.sizeDelta = new Vector2 (scoreSaver.health, rt.rect.height);
 
+		RectTransform rts = staminaBar.GetComponent<RectTransform>();
+        rts.sizeDelta = new Vector2 (scoreSaver.stamina, rts.rect.height);
+
 		BlackPearls.text = (blackpearls/2).ToString();
+
+		if(health <= 0){
+			defeated = true;
+		}
+		if(defeated){
+			defeatedUI.SetActive(true);	
+		}
 		
 		
 

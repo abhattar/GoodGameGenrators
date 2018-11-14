@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class FSMmove : MonoBehaviour
 {
+    public const string hatchet = "HatchetFish";
+    public const string  snaggle = "SnaggleTooth";
+
+    public const string squid = "Squid";
+    public const string orthoCannon = "Orthocanon";
+    public const string starGazer = "Stargazer";
+
     public int hitPoints;
     public int maxTargetTime;
     private float min ;
@@ -52,6 +59,7 @@ public class FSMmove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         initialPos = transform.position.x;
         if(patrol && !dead){
             if(axis =="x")
@@ -77,10 +85,10 @@ public class FSMmove : MonoBehaviour
         }
 
         if(hitPoints == initialHitpoints/2){
-            transform.Find("Hatchet Fish Side").GetComponent<Animator>().SetTrigger("RemoveShield");
+           // transform.Find("Hatchet Fish Side").GetComponent<Animator>().SetTrigger("RemoveShield");
         }
         else if (hitPoints == 0){
-            transform.Find("Hatchet Fish Side").GetComponent<Animator>().SetTrigger("Dead");
+            //transform.Find("Hatchet Fish Side").GetComponent<Animator>().SetTrigger("Dead");
             dead = true;
             targetTime = 0;
             maxTargetTime = 100;
@@ -99,8 +107,8 @@ public class FSMmove : MonoBehaviour
 
     void timerEnded()
     {
-        if(!dead)
-        transform.Find("Hatchet Fish Side").GetComponent<Animator>().SetTrigger("Attack");
+        if(!dead);
+        //transform.Find("Side").GetComponent<Animator>().SetTrigger("Attack");
         else
         Destroy(gameObject);
     }

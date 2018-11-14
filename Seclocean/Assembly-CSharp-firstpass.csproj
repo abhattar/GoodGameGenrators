@@ -112,6 +112,12 @@
      <None Include="Assets\Plugins\UB\HighEndMobilePostEffects\Shaders\D2Fogs.shader" />
      <None Include="Assets\Plugins\Cinemachine\ReleaseNotes.txt" />
      <None Include="Assets\Plugins\UB\HighEndMobilePostEffects\Shaders\D2FogsNoiseTex.shader" />
+ <Reference Include="Unity.RenderPipelines.Core.Editor">
+ <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.RenderPipelines.Core.Runtime">
+ <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
@@ -121,20 +127,14 @@
  <Reference Include="Unity.PackageManagerUI.Editor">
  <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
- </Reference>
  <Reference Include="Unity.Postprocessing.Editor">
  <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Runtime">
  <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.IncludePaths">
  <HintPath>/Users/warehouse/Desktop/SaltBaseStudio/Salt-Base-Studio/Seclocean/Library/ScriptAssemblies/Unity.RenderPipelines.Core.IncludePaths.dll</HintPath>

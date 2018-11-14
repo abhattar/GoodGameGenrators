@@ -80,7 +80,7 @@ public class insideLayer : MonoBehaviour {
 				   scoreSaver.inLayer = layerNumber;
 				   scoreSaver.angiePosX = col.transform.position.x;
 				   scoreSaver.layerKind = layerKind;
-				   print(layerKind);
+				   
 				   if(layerKind == "SidePortal" || layerKind == "TopPoral"){
 					   scoreSaver.inPortal = layerKind;
 					   

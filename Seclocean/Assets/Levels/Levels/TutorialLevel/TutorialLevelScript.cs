@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TutorialLevelScript : MonoBehaviour {
 
@@ -22,9 +23,16 @@ public class TutorialLevelScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown(KeyCode.Space))
-        {
-			
-		}
+		 if(Input.GetKeyDown(KeyCode.Semicolon)){
+                if(scoreSaver.defeated){
+					print("Lost");
+                    ChangeLevel("TutorialLevel");
+                } 
+            }
 	}
+
+	 public void ChangeLevel(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
+    }
 }

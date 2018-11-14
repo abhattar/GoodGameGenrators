@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Experimental.UIElements;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class Player : MonoBehaviour {
@@ -12,6 +13,8 @@ public class Player : MonoBehaviour {
 
     private float initSpeedValue;
 
+    private bool staminaDecrease;
+
     
     
 
@@ -19,20 +22,39 @@ public class Player : MonoBehaviour {
     // Use this for initialization
     void Start () {
         initSpeedValue = speedValue;
+        staminaDecrease = false;
     }
     
     // Update is called once per frame
     void Update () {
 
-     
+        if(scoreSaver.health > 0){
             if (Input.GetKeyDown(KeyCode.J))
             {
-                speedValue = initSpeedValue * 2;   
+                if(scoreSaver.stamina > 0){
+                    speedValue = initSpeedValue * 2;
+                    staminaDecrease = true;
+                }
+                
             }
             else if (Input.GetKeyUp(KeyCode.J)){
                 speedValue = initSpeedValue;
+                staminaDecrease = false;
             }
 
+            if(staminaDecrease){
+                if(scoreSaver.stamina > 0)
+                scoreSaver.stamina--;
+                else if (scoreSaver.stamina <= 0) {
+                    speedValue = initSpeedValue;
+                }   
+            }
+            else{
+                if(scoreSaver.stamina <= 123.0f)
+                scoreSaver.stamina = scoreSaver.stamina+ 0.20f;
+            }
+            
+            
             float speed = Input.GetAxis("Horizontal") * Time.deltaTime * speedValue;
             float speed2 = Input.GetAxis("Vertical") * Time.deltaTime * speedValue;
 
@@ -45,7 +67,14 @@ public class Player : MonoBehaviour {
             }
 
             if(Input.GetKeyDown(KeyCode.Semicolon)){
-                print("you prick just pressed me");
+                if(scoreSaver.health != 0){
+                    if(scoreSaver.inLayer == 3){
+                        if(scoreSaver.bossHP == 0){
+                            ChangeLevel("HomeWorld");
+                        }
+                    }  
+                }
+                
             }
 
          transform.localScale = new Vector3(xScale, 0.6515f, 0.6515f);
@@ -79,6 +108,11 @@ public class Player : MonoBehaviour {
             if(Input.GetKeyDown(KeyCode.D)){
                 pos.x += speed * Time.deltaTime;
             }
+        }
+        else
+        {
+            scoreSaver.defeated = true;
+        }
         
 
    
@@ -104,6 +138,11 @@ public class Player : MonoBehaviour {
             }
 
             	   
+    }
+
+    public void ChangeLevel(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
     }
 
 }

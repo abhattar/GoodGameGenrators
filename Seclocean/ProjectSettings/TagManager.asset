@@ -13,6 +13,7 @@ TagManager:
   - Enemy
   - BlackPearl
   - PlayerTop
+  - SnaggleTooth
   layers:
   - Default
   - TransparentFX
