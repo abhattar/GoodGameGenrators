@@ -51,6 +51,14 @@ public class insideLayer : MonoBehaviour {
 					scoreSaver.portal2TopX = transform.position.x;
 				  	scoreSaver.portal2TopY = transform.position.y;
 				}
+				else if(layerNumber == 3){
+					scoreSaver.portal3TopX = transform.position.x;
+				  	scoreSaver.portal3TopY = transform.position.y;
+				}
+					else if(layerNumber == 4){
+					scoreSaver.portal4TopX = transform.position.x;
+				  	scoreSaver.portal4TopY = transform.position.y;
+				}
 			}
 			if(layerKind == "SidePortal"){
 				if(layerNumber == 1){
@@ -60,6 +68,14 @@ public class insideLayer : MonoBehaviour {
 				if(layerNumber == 2){
 					scoreSaver.portal2SideX = transform.position.x;
 					scoreSaver.portal2SideY = transform.position.y;
+				}
+				if(layerNumber == 3){
+					scoreSaver.portal3SideX = transform.position.x;
+					scoreSaver.portal3SideY = transform.position.y;
+				}
+				if(layerNumber == 4){
+					scoreSaver.portal4SideX = transform.position.x;
+					scoreSaver.portal4SideY = transform.position.y;
 				}
 			}
 		 

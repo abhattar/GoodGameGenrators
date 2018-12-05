@@ -9,24 +9,24 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1678693782110204}
+  m_RootGameObject: {fileID: 1362779531575022}
   m_IsPrefabAsset: 1
---- !u!1 &1678693782110204
+--- !u!1 &1362779531575022
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4889618170768464}
-  - component: {fileID: 20958379577364350}
-  - component: {fileID: 81720801700510450}
-  - component: {fileID: 114893570465778110}
-  - component: {fileID: 92627490159472164}
-  - component: {fileID: 124575209604078164}
-  - component: {fileID: 114582630952994504}
-  - component: {fileID: 114521563911489568}
-  - component: {fileID: 114170448629545758}
+  - component: {fileID: 4636939323963068}
+  - component: {fileID: 20910256559102956}
+  - component: {fileID: 81818347273186836}
+  - component: {fileID: 114607739452392918}
+  - component: {fileID: 92816960051547790}
+  - component: {fileID: 124909817977409154}
+  - component: {fileID: 114142006016180700}
+  - component: {fileID: 114624369647793222}
+  - component: {fileID: 114281789667797100}
   m_Layer: 0
   m_Name: Layer 1 Camera
   m_TagString: MainCamera
@@ -34,25 +34,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4889618170768464
+--- !u!4 &4636939323963068
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
+  m_GameObject: {fileID: 1362779531575022}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.85364, y: -0.09050404, z: -4.8848147}
+  m_LocalPosition: {x: 55, y: -490.7478, z: 32.568127}
   m_LocalScale: {x: 1.2117851, y: 0.42596802, z: 0.5667508}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!20 &20958379577364350
+--- !u!20 &20910256559102956
 Camera:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
+  m_GameObject: {fileID: 1362779531575022}
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
@@ -87,60 +87,26 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!81 &81720801700510450
+--- !u!81 &81818347273186836
 AudioListener:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
+  m_GameObject: {fileID: 1362779531575022}
   m_Enabled: 1
---- !u!92 &92627490159472164
+--- !u!92 &92816960051547790
 Behaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
+  m_GameObject: {fileID: 1362779531575022}
   m_Enabled: 1
---- !u!114 &114170448629545758
+--- !u!114 &114142006016180700
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0bc17351fc38a45ca9bfb8e99cdcda5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Color: {r: 0.49052152, g: 0.49768388, b: 0.6886792, a: 1}
-  Size: 1
-  HorizontalSpeed: -1
-  VerticalSpeed: 0.2
-  Density: 0.4
-  Shader: {fileID: 4800000, guid: fdac6dc07af404deba03f0e8f95edf1f, type: 3}
---- !u!114 &114521563911489568
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0bc17351fc38a45ca9bfb8e99cdcda5c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Color: {r: 0.53786933, g: 0.5453662, b: 0.745283, a: 1}
-  Size: 1
-  HorizontalSpeed: 0.35
-  VerticalSpeed: 0.2
-  Density: 0.5
-  Shader: {fileID: 4800000, guid: fdac6dc07af404deba03f0e8f95edf1f, type: 3}
---- !u!114 &114582630952994504
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
+  m_GameObject: {fileID: 1362779531575022}
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0bc17351fc38a45ca9bfb8e99cdcda5c, type: 3}
@@ -152,22 +118,56 @@ MonoBehaviour:
   VerticalSpeed: 0
   Density: 0.67
   Shader: {fileID: 4800000, guid: fdac6dc07af404deba03f0e8f95edf1f, type: 3}
---- !u!114 &114893570465778110
+--- !u!114 &114281789667797100
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
+  m_GameObject: {fileID: 1362779531575022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bc17351fc38a45ca9bfb8e99cdcda5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Color: {r: 0.49052152, g: 0.49768388, b: 0.6886792, a: 1}
+  Size: 1
+  HorizontalSpeed: -1
+  VerticalSpeed: 0.2
+  Density: 0.4
+  Shader: {fileID: 4800000, guid: fdac6dc07af404deba03f0e8f95edf1f, type: 3}
+--- !u!114 &114607739452392918
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1362779531575022}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c8613e66707554d2fa279cf7bd1fb777, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
---- !u!124 &124575209604078164
+--- !u!114 &114624369647793222
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1362779531575022}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bc17351fc38a45ca9bfb8e99cdcda5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Color: {r: 0.53786933, g: 0.5453662, b: 0.745283, a: 1}
+  Size: 1
+  HorizontalSpeed: 0.35
+  VerticalSpeed: 0.2
+  Density: 0.5
+  Shader: {fileID: 4800000, guid: fdac6dc07af404deba03f0e8f95edf1f, type: 3}
+--- !u!124 &124909817977409154
 Behaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1678693782110204}
+  m_GameObject: {fileID: 1362779531575022}
   m_Enabled: 1

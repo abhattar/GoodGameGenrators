@@ -26,7 +26,7 @@ public class Controls : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if(!scoreSaver.dialogueOn){
 		if (Input.GetKeyDown(KeyCode.Space))
         {
             if(scoreSaver.layerKind != null){
@@ -104,6 +104,14 @@ public class Controls : MonoBehaviour {
 							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal2SideX,scoreSaver.portal2SideY);
 							Layer1Cam.transform.position = new Vector3(scoreSaver.portal2SideX,scoreSaver.portal2SideY);
 						}
+						else if(scoreSaver.inLayer ==3){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal3SideX,scoreSaver.portal3SideY);
+							Layer1Cam.transform.position = new Vector3(scoreSaver.portal3SideX,scoreSaver.portal3SideY);
+						}
+						else if(scoreSaver.inLayer ==4){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal4SideX,scoreSaver.portal4SideY);
+							Layer1Cam.transform.position = new Vector3(scoreSaver.portal4SideX,scoreSaver.portal4SideY);
+						}
 						topAngie.SetActive(false);	
 					}
 					else if(scoreSaver.layerKind == "SidePortal"){
@@ -120,12 +128,21 @@ public class Controls : MonoBehaviour {
 							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal2TopX,scoreSaver.portal2TopY);
 							TopLayerCam.transform.position = new Vector3(scoreSaver.portal2TopX,scoreSaver.portal2TopY);
 						}
+						else if(scoreSaver.inLayer == 3){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal3TopX,scoreSaver.portal3TopY);
+							TopLayerCam.transform.position = new Vector3(scoreSaver.portal3TopX,scoreSaver.portal3TopY);
+						}
+						else if(scoreSaver.inLayer == 4){
+							scoreSaver.activeAngie.transform.position = new Vector3(scoreSaver.portal4TopX,scoreSaver.portal4TopY);
+							TopLayerCam.transform.position = new Vector3(scoreSaver.portal2TopX,scoreSaver.portal4TopY);
+						}
 						sideAngie.SetActive(false);	
 					}
 
 				}
 			}
         }
+		}
 
 
 	}
